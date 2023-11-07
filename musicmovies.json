@@ -17,6 +17,24 @@
             "content": "movie",
             "imdb_id": "tt0408236" ,
             "summary": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs. Lovett."
+        },
+      {
+            "type": "item",
+            "title": "Mamma Mia!",
+            "link": "search", 
+            "year": "2008",
+            "content": "movie",
+            "imdb_id": "tt0795421" ,
+            "summary": "An independent, single mother who owns a small hotel on a Greek island is about to marry off the spirited young daughter she's raised alone. But, the daughter has secretly invited three of her mother's ex-lovers in the hopes of finding her biological father."
+        },
+      {
+            "type": "item",
+            "title": "Grease",
+            "link": "search", 
+            "year": "1978",
+            "content": "movie",
+            "imdb_id": "tt0077631" ,
+            "summary": "Good girl Sandy Olsson and greaser Danny Zuko fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?"
         }
     ]
 }
