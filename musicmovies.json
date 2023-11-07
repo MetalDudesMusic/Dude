@@ -1,0 +1,13 @@
+{
+    "items": [
+      {
+            "type": "item",
+            "title": "The Phantom of the Opera",
+            "link": "search", 
+            "year": "2004",
+            "content": "movie",
+            "imdb_id": "9833" ,
+            "summary": "Deformed since birth, a bitter man known only as the Phantom lives in the sewers underneath the Paris Opera House. He falls in love with the obscure chorus singer Christine, and privately tutors her while terrorizing the rest of the opera house and demanding Christine be given lead roles."
+        }
+    ]
+}
