@@ -1,5 +1,12 @@
 {
-    "items": [
+    "items": [         
+        {
+            "type": "plugin", 
+            "title": "Classic Musical Movies", 
+            "link": "plugin.video.youtube/playlist/PLBFa2yUBFRr56Squmnj4jgMnTchP5geez", 
+            "thumbnail": "", 
+            "fanart": ""
+        }, 
         {
             "fanart": "URL", 
             "link": [
