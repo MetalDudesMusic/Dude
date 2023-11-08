@@ -35,6 +35,42 @@
             "content": "movie",
             "imdb_id": "tt0077631" ,
             "summary": "Good girl Sandy Olsson and greaser Danny Zuko fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?"
+        },
+      {
+            "type": "item",
+            "title": "Grease 2",
+            "link": "search", 
+            "year": "1982",
+            "content": "movie",
+            "imdb_id": "tt0084021" ,
+            "summary": "A British student at a 1960s American high school must prove himself to the leader of a girls' gang whose members can only date greasers."
+        },
+      {
+            "type": "item",
+            "title": "The Sound of Music",
+            "link": "search", 
+            "year": "1965",
+            "content": "movie",
+            "imdb_id": "tt0059742" ,
+            "summary": "A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer."
+        },
+      {
+            "type": "item",
+            "title": "The Rocky Horror Picture Show",
+            "link": "search", 
+            "year": "1975",
+            "content": "movie",
+            "imdb_id": "tt0073629" ,
+            "summary": "A newly-engaged couple have a breakdown in an isolated area and must seek shelter at the bizarre residence of Dr. Frank-n-Furter."
+        },
+      {
+            "type": "item",
+            "title": "The Rocky Horror Picture Show",
+            "link": "search", 
+            "year": "1975",
+            "content": "movie",
+            "imdb_id": "tt0073629" ,
+            "summary": "A newly-engaged couple have a breakdown in an isolated area and must seek shelter at the bizarre residence of Dr. Frank-n-Furter."
         }
     ]
 }
