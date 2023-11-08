@@ -1,40 +1,15 @@
 {
     "items": [
-      {
-            "type": "item",
-            "title": "The Phantom of the Opera",
-            "link": "search", 
-            "year": "2004",
-            "content": "movie",
-            "imdb_id": "tt0293508",
-            "summary": "Deformed since birth, a bitter man known only as the Phantom lives in the sewers underneath the Paris Opera House. He falls in love with the obscure chorus singer Christine, and privately tutors her while terrorizing the rest of the opera house and demanding Christine be given lead roles."
-        },
-      {
-            "type": "item",
-            "title": "Sweeney Todd The Demon Barber of Fleet Street",
-            "link": "search", 
-            "year": "2007",
-            "content": "movie",
-            "imdb_id": "tt0408236",
-            "summary": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs Lovett."
-        },
-      {
-            "type": "item",
-            "title": "Mamma Mia",
-            "link": "search", 
-            "year": "2008",
-            "content": "movie",
-            "imdb_id": "tt0795421",
-            "summary": "An independent, single mother who owns a small hotel on a Greek island is about to marry off the spirited young daughter she's raised alone. But, the daughter has secretly invited three of her mother's ex-lovers in the hopes of finding her biological father."
-        },
-      {
-            "type": "item",
-            "title": "Grease",
-            "link": "search", 
-            "year": "1978",
-            "content": "movie",
-            "imdb_id": "tt0077631",
-            "summary": "Good girl Sandy Olsson and greaser Danny Zuko fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?"
+        {
+            "fanart": "URL", 
+            "link": [
+                "URL", 
+                "URL", 
+                "URL"
+            ], 
+            "thumbnail": "URL", 
+            "title": "URL", 
+            "type": "item"
         }
     ]
 }
