@@ -10,6 +10,17 @@
             "thumbnail": "URL", 
             "title": "URL", 
             "type": "item"
+        },
+        {
+            "fanart": "URL", 
+            "link": [
+                "URL", 
+                "URL", 
+                "URL"
+            ], 
+            "thumbnail": "URL", 
+            "title": "URL", 
+            "type": "item"
         }
     ]
 }
