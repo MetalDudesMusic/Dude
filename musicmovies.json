@@ -11,16 +11,16 @@
         },
       {
             "type": "item",
-            "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+            "title": "Sweeney Todd The Demon Barber of Fleet Street",
             "link": "search", 
             "year": "2007",
             "content": "movie",
             "imdb_id": "tt0408236",
-            "summary": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs. Lovett."
+            "summary": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs Lovett."
         },
       {
             "type": "item",
-            "title": "Mamma Mia!",
+            "title": "Mamma Mia",
             "link": "search", 
             "year": "2008",
             "content": "movie",
