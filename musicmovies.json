@@ -6,28 +6,20 @@
             "link": "plugin.video.youtube/playlist/PL8Nn95jd6kYVouE2YjQT2oTwG7ZbAjak1", 
             "thumbnail": "", 
             "fanart": ""
-        }, 
+        },         
         {
-            "fanart": "URL", 
-            "link": [
-                "URL", 
-                "URL", 
-                "URL"
-            ], 
-            "thumbnail": "URL", 
-            "title": "URL", 
-            "type": "item"
-        },
+            "type": "plugin", 
+            "title": "MUSICAL MOVIES FREE", 
+            "link": "plugin.video.youtube/playlist/PLKDsBjdawnpZeu37KtB5DTGc6_V997Lem", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
         {
-            "fanart": "URL", 
-            "link": [
-                "URL", 
-                "URL", 
-                "URL"
-            ], 
-            "thumbnail": "URL", 
-            "title": "URL", 
-            "type": "item"
+            "type": "plugin", 
+            "title": "Old Movies", 
+            "link": "plugin.video.youtube/playlist/PL7Y-ri7Y2odOGaiH_ojno5aZIjjB7ADYi", 
+            "thumbnail": "", 
+            "fanart": ""
         }
     ]
 }
