@@ -2,6 +2,42 @@
     "items": [
       {
             "type": "item",
+            "title": "Little Shop of Horrors",
+            "link": "search", 
+            "year": "1986",
+            "content": "movie",
+            "imdb_id": "tt0091419" ,
+            "summary": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed."
+        },
+      {
+            "type": "item",
+            "title": "Sister Act",
+            "link": "search", 
+            "year": "1992",
+            "content": "movie",
+            "imdb_id": "tt0105417" ,
+            "summary": "When a nightclub singer is forced to take refuge from the mob in a convent, she ends up turning the convent choir into a soulful chorus complete with a Motown repertoire, until the sudden celebrity of the choir jeopardizes her identity."
+        },
+      {
+            "type": "item",
+            "title": "Sister Act 2: Back in the Habit",
+            "link": "search", 
+            "year": "1993",
+            "content": "movie",
+            "imdb_id": "tt0108147" ,
+            "summary": "Showgirl Deloris Van Cartier returns as Sister Mary Clarence to teach music to a group of Catholic students whose run-down school is slated for closure."
+        },
+      {
+            "type": "item",
+            "title": "Hairspray",
+            "link": "search", 
+            "year": "2007",
+            "content": "movie",
+            "imdb_id": "tt0427327" ,
+            "summary": "Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show."
+        },
+      {
+            "type": "item",
             "title": "The Phantom of the Opera",
             "link": "search", 
             "year": "2004",
@@ -65,12 +101,48 @@
         },
       {
             "type": "item",
-            "title": "The Rocky Horror Picture Show",
+            "title": "Miss Saigon : 25th Anniversary Performance",
             "link": "search", 
-            "year": "1975",
+            "year": "2016",
             "content": "movie",
-            "imdb_id": "tt0073629" ,
-            "summary": "A newly-engaged couple have a breakdown in an isolated area and must seek shelter at the bizarre residence of Dr. Frank-n-Furter."
+            "imdb_id": "tt6162808" ,
+            "summary": "A filmed production of the musical 'Miss Saigon' for its 25th anniversary, performed live at London's Prince Edward Theatre, in London's West End. Including the 2hr 20minute production and a bonus 35-minute "25th Anniversary Gala" which included stars of the original cast, Jonathan Pryce, Lea Salonga and Simon Bowman."
+        },
+      {
+            "type": "item",
+            "title": "Rent: Filmed Live on Broadway",
+            "link": "search", 
+            "year": "2008",
+            "content": "movie",
+            "imdb_id": "tt1273675" ,
+            "summary": "Sex Drugs and Aids... This controversial musical follows the lives of recovering addicts and people dying of aids in 80s new York in-between two Christmases after Collins is Involved in a race attack and left on the street to die he is saved by angel a trans woman and drag queen as their relationship builds the scary reality creeps in. In the lot Mark and Roger struggling artists can't afford to make RENT as relentless landlord and former friend Benny makes life hell for them all the while Marks ex girlfriend Maureen is protesting the eviction of the homeless on that same lot and her new girlfriend Joanne handles the law side of things. Finally Mimi is a 19 year old in love with Roger but she is addicted to cocaine and the former heroine addict wants nothing to do with her after his last girlfriend committed suicide."
+        },
+      {
+            "type": "item",
+            "title": "West Side Story",
+            "link": "search", 
+            "year": "1961",
+            "content": "movie",
+            "imdb_id": "tt0055614" ,
+            "summary": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy."
+        },
+      {
+            "type": "item",
+            "title": "Les Miserables in Concert: The 25th Anniversary",
+            "link": "search", 
+            "year": "2010",
+            "content": "movie",
+            "imdb_id": "tt1754109" ,
+            "summary": "A celebratory 25th anniversary concert performance of the hit musical at The O2 in London."
+        },
+      {
+            "type": "item",
+            "title": "Jersey Boys",
+            "link": "search", 
+            "year": "2014",
+            "content": "movie",
+            "imdb_id": "tt1742044" ,
+            "summary": "The story of four young men from the wrong side of the tracks in New Jersey who came together to form the iconic 1960s rock group The Four Seasons."
         }
     ]
 }
