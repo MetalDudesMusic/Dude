@@ -1,0 +1,95 @@
+{
+    "items": [         
+        {
+            "type": "plugin", 
+            "title": "Pantera", 
+            "link": "plugin.video.youtube/playlist/PLxYReOMcJaFfGz1daUgyTUh9SerOLl3Vz", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Beatles", 
+            "link": "plugin.video.youtube/playlist/PL0jp-uZ7a4g9FQWW5R_u0pz4yzV4RiOXu", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Rolling Stones", 
+            "link": "plugin.video.youtube/playlist/PLNav38spIZE4tpahnCBoXIp6xFZQYY9eV", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Queen", 
+            "link": "plugin.video.youtube/playlist/PL2tMgWgIvcWmjs4i6DcXm7YmjPlTXUl9E", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Guns N Roses", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFtxSH5pbVxCV7B-wWsA7KZh", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "AC/DC", 
+            "link": "plugin.video.youtube/playlist/PLQlc99hV-nkGWDaG-gJxwOfqp8jxyHaaQ", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Jimi Hendrix Experience", 
+            "link": "plugin.video.youtube/playlist/PLEjD5gC6S-fAjJ2xqdcX0Z2vbzq4vnBIU", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Led Zeppelin", 
+            "link": "plugin.video.youtube/playlist/PLp3o6lwxnqMkm9dUECwqVBQY0IN6n1wH_", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Pink Floyd", 
+            "link": "plugin.video.youtube/playlist/RDCLAK5uy_nPN5nGhNWMuq-NC1COQ7_tMl2r5SxSgKE", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Grateful Dead", 
+            "link": "plugin.video.youtube/playlist/PLD813B9E40CEDFB48", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Creedence Clearwater Revival", 
+            "link": "plugin.video.youtube/playlist/PLtzV2248lUVVzJtztzISYvxBDa0wvA4cU", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Cure", 
+            "link": "plugin.video.youtube/playlist/PLOhQmxfeqIZVF26JqIeF3uFhp2ASc6-el", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Tom MacDonald", 
+            "link": "plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr", 
+            "thumbnail": "", 
+            "fanart": ""
+        }
+    ]
+}
