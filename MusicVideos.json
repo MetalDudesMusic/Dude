@@ -104,6 +104,48 @@
             "link": "plugin.video.youtube/playlist/PLkRzqIoq7yc3A5-7E6bDlk5PLeJMNfZIi", 
             "thumbnail": "", 
             "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Who", 
+            "link": "plugin.video.youtube/playlist/PLB2359E68D19BA3C0", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "80s Hard Rock & Hair Metal Hits", 
+            "link": "plugin.video.youtube/playlist/PLmXxqSJJq-yVWpRFGImHYZBQTuBGLjG4t", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "90s Alternative Rock Grunge", 
+            "link": "plugin.video.youtube/playlist/PLD58ECddxRngHs9gZPQWOCAKwV1hTtYe4", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2000-2009", 
+            "link": "plugin.video.youtube/playlist/PL6Lt9p1lIRZ311J9ZHuzkR5A3xesae2pk", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2010-2019", 
+            "link": "plugin.video.youtube/playlist/PL6Lt9p1lIRZ3m2X1Ur8ykG1XRGPFsTsbD", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2020's", 
+            "link": "plugin.video.youtube/playlist/PL3gBudnUJUexS90-84IwbCjZf83CU2GTI", 
+            "thumbnail": "", 
+            "fanart": ""
         }
     ]
 }
