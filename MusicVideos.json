@@ -1,5 +1,12 @@
 {
-    "items": [         
+    "items": [          
+        {
+            "type": "plugin", 
+            "title": "Tom MacDonald", 
+            "link": "plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr", 
+            "thumbnail": "", 
+            "fanart": ""
+        },        
         {
             "type": "plugin", 
             "title": "Pantera", 
@@ -86,8 +93,15 @@
         },         
         {
             "type": "plugin", 
-            "title": "Tom MacDonald", 
-            "link": "plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr", 
+            "title": "The Allman Brothers Band", 
+            "link": "plugin.video.youtube/playlist/PLVfOQW9L0XbGIySHs5uWdYHV_6ixerb36", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "David Bowie", 
+            "link": "plugin.video.youtube/playlist/PLkRzqIoq7yc3A5-7E6bDlk5PLeJMNfZIi", 
             "thumbnail": "", 
             "fanart": ""
         }
