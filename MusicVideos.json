@@ -30,6 +30,13 @@
         },         
         {
             "type": "plugin", 
+            "title": "Upchurch", 
+            "link": "plugin.video.youtube/playlist/PL0dDlKSElceFt3nYNotFqfx9rwV6PreLB", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
             "title": "Queen", 
             "link": "plugin.video.youtube/playlist/PL2tMgWgIvcWmjs4i6DcXm7YmjPlTXUl9E", 
             "thumbnail": "", 
@@ -151,6 +158,34 @@
             "type": "plugin", 
             "title": "Bon Jovi", 
             "link": "plugin.video.youtube/playlist/PLA424057908E96379", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "3 Doors Down", 
+            "link": "plugin.video.youtube/playlist/PLE8882827DC004972", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "N.W.A. - All Their Songs", 
+            "link": "plugin.video.youtube/playlist/PLideJWc8vR0H7VPVtMnK-5iNyw4DCXcal", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Ultimate Prince Playlist!", 
+            "link": "plugin.video.youtube/playlist/PL5uLaJGLPi3wb1PMCcWsByeS_erZG2RQI", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Ultimate Eminem Mix", 
+            "link": "plugin.video.youtube/playlist/PL1l2ekK_5Up3ByUDejiaawH2fNLbSZIx5", 
             "thumbnail": "", 
             "fanart": ""
         }
