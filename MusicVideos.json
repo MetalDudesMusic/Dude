@@ -356,6 +356,76 @@
             "link": "plugin.video.youtube/playlist/PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU", 
             "thumbnail": "", 
             "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Beach Boys", 
+            "link": "plugin.video.youtube/playlist/PLhs-gNJvz5IXl5RpAFFQXb0E46ZQeIIDT", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Police", 
+            "link": "plugin.video.youtube/playlist/PL51EAA4AAF6A856B7", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Talking Heads", 
+            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9NcCyvuZgkx7AaHOsclPkMxk", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "THE STOOGES", 
+            "link": "plugin.video.youtube/playlist/PLAtB65HqXWtR9q1pL9Po4GWc6MBVJ8H1H", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Genesis", 
+            "link": "plugin.video.youtube/playlist/PLWnwFAnZO1AGhzxUm4YlbW7ex-33vazOT", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Foo Fighters", 
+            "link": "plugin.video.youtube/playlist/PLez_Te78YVuTSkIrPnn5EOeUYRvUHwgxl", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "U2", 
+            "link": "plugin.video.youtube/playlist/PLB4BE66B01E4887BB", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Red Hot Chili Peppers", 
+            "link": "plugin.video.youtube/playlist/PL1343579D67ED4740", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Smashing Pumpkins", 
+            "link": "plugin.video.youtube/playlist/PL7zrnXIkwlVypkCzwbSBpSIrdNWPDqfe1", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Green Day", 
+            "link": "plugin.video.youtube/playlist/PL81_CtYCym28CNGzLEMVBl-RVgMPTu-2j", 
+            "thumbnail": "", 
+            "fanart": ""
         }
     ]
 }
