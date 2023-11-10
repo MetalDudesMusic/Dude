@@ -1,5 +1,5 @@
 {
-    "items": [         
+    "items": [ 
         {
             "type": "plugin", 
             "title": "Classic Musical Movies", 
@@ -20,6 +20,27 @@
             "link": "plugin.video.youtube/playlist/PL7Y-ri7Y2odOGaiH_ojno5aZIjjB7ADYi", 
             "thumbnail": "", 
             "fanart": ""
-        }
+        },         
+        {
+            "type": "plugin", 
+            "title": "Full Broadway Shows", 
+            "link": "plugin.video.youtube/playlist/PL9kgdb7Eid2zvLXVlUFPJO57fXUzOglmQ", 
+            "thumbnail": "", 
+            "fanart": ""
+        }, 
+        {
+            "type": "plugin", 
+            "title": "BONUS VERY OLD MOVIES OF ALL SORTS (Mainly B&W)", 
+            "link": "plugin.video.youtube/playlist/PLX9_I-EOJPdFuOjcI2zkmTck55homHEBE", 
+            "thumbnail": "", 
+            "fanart": ""
+        },             
+        {
+            "type": "plugin", 
+            "title": "TV Movies: 70s, 80s, 90s & 2000s", 
+            "link": "PLdV_8CaQ81OAHpmtv7gN0iBDG92iHI9lN", 
+            "thumbnail": "", 
+            "fanart": ""
+        } 
     ]
 }
