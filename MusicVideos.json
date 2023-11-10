@@ -83,35 +83,7 @@
             "link": "plugin.video.youtube/playlist/PLtzV2248lUVVzJtztzISYvxBDa0wvA4cU", 
             "thumbnail": "", 
             "fanart": ""
-        },         
-        {
-            "type": "plugin", 
-            "title": "The Cure", 
-            "link": "plugin.video.youtube/playlist/PLOhQmxfeqIZVF26JqIeF3uFhp2ASc6-el", 
-            "thumbnail": "", 
-            "fanart": ""
-        },         
-        {
-            "type": "plugin", 
-            "title": "The Allman Brothers Band", 
-            "link": "plugin.video.youtube/playlist/PLVfOQW9L0XbGIySHs5uWdYHV_6ixerb36", 
-            "thumbnail": "", 
-            "fanart": ""
-        },         
-        {
-            "type": "plugin", 
-            "title": "David Bowie", 
-            "link": "plugin.video.youtube/playlist/PLkRzqIoq7yc3A5-7E6bDlk5PLeJMNfZIi", 
-            "thumbnail": "", 
-            "fanart": ""
-        },         
-        {
-            "type": "plugin", 
-            "title": "The Who", 
-            "link": "plugin.video.youtube/playlist/PLB2359E68D19BA3C0", 
-            "thumbnail": "", 
-            "fanart": ""
-        },         
+        },          
         {
             "type": "plugin", 
             "title": "80s Hard Rock & Hair Metal Hits", 
@@ -144,6 +116,34 @@
             "type": "plugin", 
             "title": "Alternative rock of the 2020's", 
             "link": "plugin.video.youtube/playlist/PL3gBudnUJUexS90-84IwbCjZf83CU2GTI", 
+            "thumbnail": "", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "The Cure", 
+            "link": "plugin.video.youtube/playlist/PLOhQmxfeqIZVF26JqIeF3uFhp2ASc6-el", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Allman Brothers Band", 
+            "link": "plugin.video.youtube/playlist/PLVfOQW9L0XbGIySHs5uWdYHV_6ixerb36", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "David Bowie", 
+            "link": "plugin.video.youtube/playlist/PLkRzqIoq7yc3A5-7E6bDlk5PLeJMNfZIi", 
+            "thumbnail": "", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Who", 
+            "link": "plugin.video.youtube/playlist/PLB2359E68D19BA3C0", 
             "thumbnail": "", 
             "fanart": ""
         }
