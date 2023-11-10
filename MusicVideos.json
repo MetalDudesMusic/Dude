@@ -146,6 +146,13 @@
             "link": "plugin.video.youtube/playlist/PLB2359E68D19BA3C0", 
             "thumbnail": "", 
             "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Bon Jovi", 
+            "link": "plugin.video.youtube/playlist/PLA424057908E96379", 
+            "thumbnail": "", 
+            "fanart": ""
         }
     ]
 }
