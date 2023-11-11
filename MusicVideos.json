@@ -72,7 +72,7 @@
         },         
         {
             "type": "dir", 
-            "title": "Pink Floyd 2", 
+            "title": "Pink Floyd", 
             "link": "https://youtube.com/playlist?list=RDCLAK5uy_lw7Yui8Bt-pnt3L4D3dP1M6jrdg6k57Bo", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Pink_Floyd_-_all_members.jpg/250px-Pink_Floyd_-_all_members.jpg", 
             "fanart": ""
@@ -81,322 +81,322 @@
             "type": "plugin", 
             "title": "Grateful Dead", 
             "link": "plugin.video.youtube/playlist/PLD813B9E40CEDFB48", 
-            "thumbnail": "", 
+            "thumbnail": "https://i.scdn.co/image/4c000d838221db17a95ec272d79c06560829ab11", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Creedence Clearwater Revival", 
             "link": "plugin.video.youtube/playlist/PLtzV2248lUVVzJtztzISYvxBDa0wvA4cU", 
-            "thumbnail": "", 
+            "thumbnail": "https://lastfm.freetls.fastly.net/i/u/ar0/4003d0a1c747b9d04972eb9c70230473.jpg", 
             "fanart": ""
         },          
         {
             "type": "plugin", 
             "title": "80s Hard Rock & Hair Metal Hits", 
             "link": "plugin.video.youtube/playlist/PLmXxqSJJq-yVWpRFGImHYZBQTuBGLjG4t", 
-            "thumbnail": "", 
+            "thumbnail": "https://i.ytimg.com/vi/WyF8RHM1OCg/hqdefault.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "90s Alternative Rock Grunge", 
             "link": "plugin.video.youtube/playlist/PLD58ECddxRngHs9gZPQWOCAKwV1hTtYe4", 
-            "thumbnail": "", 
+            "thumbnail": "https://static.tumblr.com/51b14b7ee48b415e9865d4f89e27c10a/26hywbh/9w3nu4bsz/tumblr_static_wwthje1xg00wgoowg00w8wcs_2048_v2.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Alternative rock of the 2000-2009", 
             "link": "plugin.video.youtube/playlist/PL6Lt9p1lIRZ311J9ZHuzkR5A3xesae2pk", 
-            "thumbnail": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Foo_Fighters_-_Southside_Festival_2019_4184_-_1.jpg/800px-Foo_Fighters_-_Southside_Festival_2019_4184_-_1.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Alternative rock of the 2010-2019", 
             "link": "plugin.video.youtube/playlist/PL6Lt9p1lIRZ3m2X1Ur8ykG1XRGPFsTsbD", 
-            "thumbnail": "", 
+            "thumbnail": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/pwtr6y7rm9sgtdorufye.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
-            "title": "Alternative rock of the 2020's", 
+            "title": "Alternative rock of the 2020s", 
             "link": "plugin.video.youtube/playlist/PL3gBudnUJUexS90-84IwbCjZf83CU2GTI", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.nme.com/wp-content/uploads/2020/01/SocialContract_Press_Credit_MatildaHill-Jenkins.jpg", 
             "fanart": ""
         },        
         {
             "type": "plugin", 
             "title": "The Cure", 
             "link": "plugin.video.youtube/playlist/PLOhQmxfeqIZVF26JqIeF3uFhp2ASc6-el", 
-            "thumbnail": "", 
+            "thumbnail": "https://guitar.com/wp-content/uploads/2022/02/The-Cure-Credit-Vinnie-Zuffante-Michael-Ochs-Archives-Getty-Images@2000x1500.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "The Allman Brothers Band", 
             "link": "plugin.video.youtube/playlist/PLVfOQW9L0XbGIySHs5uWdYHV_6ixerb36", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdns-images.dzcdn.net/images/artist/e6e510685a90247006b49a3bc5fbfc48/500x500.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "David Bowie", 
             "link": "plugin.video.youtube/playlist/PLkRzqIoq7yc3A5-7E6bDlk5PLeJMNfZIi", 
-            "thumbnail": "", 
+            "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/10/F6FAGT-1038x778.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "The Who", 
             "link": "plugin.video.youtube/playlist/PLB2359E68D19BA3C0", 
-            "thumbnail": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Who_in_1965.png/220px-The_Who_in_1965.png", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Bon Jovi", 
             "link": "plugin.video.youtube/playlist/PLA424057908E96379", 
-            "thumbnail": "", 
+            "thumbnail": "https://thehoovercardinal.org/wp-content/uploads/2021/01/Bon-Jovi.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "3 Doors Down", 
             "link": "plugin.video.youtube/playlist/PLE8882827DC004972", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.songwritingmagazine.co.uk/wp-content/uploads/3-doors-down-1-by-dove-shore.jpg.webp", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "N.W.A. - All Their Songs", 
             "link": "plugin.video.youtube/playlist/PLideJWc8vR0H7VPVtMnK-5iNyw4DCXcal", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdns-images.dzcdn.net/images/artist/8255886bcd9442e3d385ff054ef04245/500x500.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "The Ultimate Prince Playlist!", 
             "link": "plugin.video.youtube/playlist/PL5uLaJGLPi3wb1PMCcWsByeS_erZG2RQI", 
-            "thumbnail": "", 
+            "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/prince-prince-performing-on-stage---purple-rain-tour-photo-by-richard-e-aaronredferns2.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Ultimate Eminem Mix", 
             "link": "plugin.video.youtube/playlist/PL1l2ekK_5Up3ByUDejiaawH2fNLbSZIx5", 
-            "thumbnail": "", 
+            "thumbnail": "https://media.npr.org/assets/music/news/2010/06/eminem-52893634f7c035450a7b5ff2e040cacb4012395e-s1100-c50.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "LITTLE RICHARD HITS", 
             "link": "plugin.video.youtube/playlist/PLcSYf7ip_VP9qO0Q79yUb74YOvjxcADO2", 
-            "thumbnail": "", 
+            "thumbnail": "https://media.newyorker.com/photos/5eb7192a0fe2fbfb61a29041/master/w_2560%2Cc_limit/Remnick-LittleRichard.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "The Kinks", 
             "link": "plugin.video.youtube/playlist/RDCLAK5uy_lw7Yui8Bt-pnt3L4D3dP1M6jrdg6k57Bo", 
-            "thumbnail": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/88/Helmfrid-sofa4_Touched.JPG", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Aerosmith", 
             "link": "plugin.video.youtube/playlist/PLqeOvB-u67NAYU6i6EgcninTN53WilKkX", 
-            "thumbnail": "", 
+            "thumbnail": "https://townsquare.media/site/295/files/2016/01/attachment-aerosmith-debut-album1.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Ramones", 
             "link": "plugin.video.youtube/playlist/PL133AF799150D0983", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-226789-BPW2FR.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Fleetwood Mac", 
             "link": "plugin.video.youtube/playlist/PLdB2qly-JTgATFjyESCah_fswc5sqPMo0", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.britannica.com/25/219925-050-B508D856/British-American-rock-group-Fleetwood-Mac.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "EAGLES Live performances and some of the best songs", 
             "link": "plugin.video.youtube/playlist/PLN9SUYQxOsCf7M7upaSc_-4xgJJLZiqgb", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.britannica.com/50/198850-050-46C563B5/Eagles-Bernie-Leadon-Don-Henley-Glenn-Frey.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Journey", 
             "link": "plugin.video.youtube/playlist/PLseru_GF_QVXLY8qe6XHBo_u24jlMq1Oz", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.smehost.net/2020sonymusiccouk-ukprod/wp-content/uploads/2019/10/4955572d6b52fd1f344d6aecae7ab780.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Van Halen", 
             "link": "plugin.video.youtube/playlist/PLXSlB4yMaoJt0a3U3L0mCfkBl8E9Fb80e", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2020/10/van-halen-charts.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Crosby Stills Nash & Young", 
             "link": "plugin.video.youtube/playlist/PL177D38A15223DC66", 
-            "thumbnail": "", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWE4YmU0NzYtNTk5Ni00ODJjLWFiZGYtYjAxYTg3YzU5ODEwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Def Leppard", 
             "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFv7G2CZp_v2rD-YxoFek5mw", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.udiscovermusic.com/wp-content/uploads/2022/08/Def-Leppard-GettyImages-73991295.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Nirvana", 
             "link": "plugin.video.youtube/playlist/PLmoa95rrVksZ97QUoXhZVVsYZa3dcozTp", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-nirvana-e9e22e4b-f7d9-4fc7-bd94-23c30084ce94.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Pearl Jam", 
             "link": "plugin.video.youtube/playlist/PL42B5188E402C40DD", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.udiscovermusic.com/wp-content/uploads/2020/10/Pearl-Jam-GettyImages-86111976.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
-            "title": " R.E.M.", 
+            "title": "R.E.M.", 
             "link": "plugin.video.youtube/playlist/PLC7B9C3CEACF3407A", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.britannica.com/19/246519-050-B3A607CE/Photo-of-REM-band-members.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Steve Miller Band", 
             "link": "plugin.video.youtube/playlist/PL2myD0mnnO91DtAg2jDPzW6ojwU1muP5z", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.udiscovermusic.com/wp-content/uploads/2021/10/Steve-Miller-Band-GettyImages-84999776-1000x600.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Cheap Trick", 
             "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFs5l-JXfMFQUKoLafH2LGNn", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.spirit-of-rock.com/les%20goupes/C/Cheap%20Trick/pics/7113_3.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Tom Petty and the Heartbreakers", 
             "link": "plugin.video.youtube/playlist/PL4_zotuuu4206U2bo1vncUELSwv_z7-lG", 
-            "thumbnail": "", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdkYjRhNDAtMjA0YS00YzkxLWEyZDYtMzI5YTgzMmNlZTRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Sly & The Family Stone", 
             "link": "plugin.video.youtube/playlist/PLiKtJ6o0GOY7cBn7EKOyvBjCb8yXcCC-w", 
-            "thumbnail": "", 
+            "thumbnail": "https://static.tvtropes.org/pmwiki/pub/images/sly_and_the_family_stone_1969_promo.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Steely Dan", 
             "link": "plugin.video.youtube/playlist/PLe8Z_l5Ergd0_7h2G8DEIjjMHCMByCK7t", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.britannica.com/45/23345-004-37717395/Steely-Dan-1977.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Metallica", 
             "link": "plugin.video.youtube/playlist/PL2D4A44B959D87893", 
-            "thumbnail": "", 
+            "thumbnail": "https://ichef.bbci.co.uk/news/976/cpsprodpb/17FBE/production/_129283289_gettyimages-521764750.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "LYNYRD SKYNYRD", 
             "link": "plugin.video.youtube/playlist/PLw6p6PA8M2mheaTjACDfNa5xmXO_EO9TB", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.britannica.com/43/23143-050-B4C4503F/Lynyrd-Skynyrd-concert-October-1976.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Rush", 
             "link": "plugin.video.youtube/playlist/PLyzOXHX-1l7dNOm_KqOqM9q-W76gVPclW", 
-            "thumbnail": "", 
+            "thumbnail": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2013/08/rush.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "THE DOORS", 
             "link": "plugin.video.youtube/playlist/PL1B99DB6CAB98504E", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.progarchives.com/progressive_rock_discography_band/2772.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "The Clash", 
             "link": "plugin.video.youtube/playlist/PLiN-7mukU_REtAHsIYJKInCIfCpNSPdN6", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.goldminemag.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4MzU1MTAyNzYxNDI4OTUw/clash_color.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Coldplay", 
             "link": "plugin.video.youtube/playlist/PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU", 
-            "thumbnail": "", 
+            "thumbnail": "https://event-images.tixel.com/cdn-cgi/image/width=600,format=auto/media/images/b33e013fc9637204c7ab45b1b44df735_1585498836_5897_l.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Beach Boys", 
             "link": "plugin.video.youtube/playlist/PLhs-gNJvz5IXl5RpAFFQXb0E46ZQeIIDT", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.britannica.com/27/198727-050-DE491706/The-Beach-Boys-Al-Jardine-Carl-Wilson.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "The Police", 
             "link": "plugin.video.youtube/playlist/PL51EAA4AAF6A856B7", 
-            "thumbnail": "", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjU0ZjU1OTUtODY0Zi00MGIzLTg0YmQtYTkzNDQ4OTBhNWIyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Talking Heads", 
             "link": "plugin.video.youtube/playlist/PLUhqFX6g_9NcCyvuZgkx7AaHOsclPkMxk", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.britannica.com/77/23077-004-0CBB25DF/Talking-Heads.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "THE STOOGES", 
             "link": "plugin.video.youtube/playlist/PLAtB65HqXWtR9q1pL9Po4GWc6MBVJ8H1H", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.wsupress.wayne.edu/sites/default/files/Fig%2011.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Genesis", 
             "link": "plugin.video.youtube/playlist/PLWnwFAnZO1AGhzxUm4YlbW7ex-33vazOT", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.britannica.com/29/102829-050-7945D19B/Genesis-Peter-Gabriel-Tony-Banks-Phil-Collins-1974.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Foo Fighters", 
             "link": "plugin.video.youtube/playlist/PLez_Te78YVuTSkIrPnn5EOeUYRvUHwgxl", 
-            "thumbnail": "", 
+            "thumbnail": "https://cdn.smehost.net/2020sonymusiccouk-ukprod/wp-content/uploads/2017/06/00c04d57e42c56f9116eef3f1df14d53-800x800.jpg", 
             "fanart": ""
         },         
         {
