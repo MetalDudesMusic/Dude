@@ -71,9 +71,9 @@
             "fanart": ""
         },         
         {
-            "type": "plugin", 
+            "type": "dir", 
             "title": "Pink Floyd", 
-            "link": "plugin.video.youtube/playlist/RDCLAK5uy_nPN5nGhNWMuq-NC1COQ7_tMl2r5SxSgKE", 
+            "link": "https://youtube.com/playlist?list=RDCLAK5uy_lw7Yui8Bt-pnt3L4D3dP1M6jrdg6k57Bo", 
             "thumbnail": "", 
             "fanart": ""
         },         
