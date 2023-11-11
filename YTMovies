@@ -195,6 +195,13 @@
             "link": "plugin.video.youtube/playlist/PL7C67B009285B4BAA", 
             "thumbnail": "", 
             "fanart": ""
+        },             
+        {
+            "type": "plugin", 
+            "title": "Full Zombie Movies", 
+            "link": "plugin.video.youtube/playlist/PLCQSHH1d7fL04z6wNRhuA72MwzHoMPDWS", 
+            "thumbnail": "", 
+            "fanart": ""
         }
     ]
 }
