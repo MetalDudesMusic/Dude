@@ -146,6 +146,13 @@
             "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvBK1TLbKmJ4a4J2Ro5eoGVh", 
             "thumbnail": "", 
             "fanart": ""
+        },            
+        {
+            "type": "plugin", 
+            "title": "Full Sci-fi Movies 2", 
+            "link": "plugin.video.youtube/playlist/PLzOiOo7AKyKqJiDPHFfd0u0RYZmX6sSUH", 
+            "thumbnail": "", 
+            "fanart": ""
         },             
         {
             "type": "plugin", 
@@ -165,6 +172,27 @@
             "type": "plugin", 
             "title": "Full Action Movies", 
             "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvBQv71hWi334-zRJekjSlCq", 
+            "thumbnail": "", 
+            "fanart": ""
+        },             
+        {
+            "type": "plugin", 
+            "title": "Full Stephen King Movies", 
+            "link": "plugin.video.youtube/playlist/PLwkKF0s6pR4H4gC1vcENtrFTTHTIn6M19", 
+            "thumbnail": "", 
+            "fanart": ""
+        },             
+        {
+            "type": "plugin", 
+            "title": "Full Spencer Tracy Movies", 
+            "link": "plugin.video.youtube/playlist/PLUnzp6ax1XDSdxS7wqIAzSMeKmBRw49L0", 
+            "thumbnail": "", 
+            "fanart": ""
+        },             
+        {
+            "type": "plugin", 
+            "title": "Full Kung Fu Movies in English", 
+            "link": "plugin.video.youtube/playlist/PL7C67B009285B4BAA", 
             "thumbnail": "", 
             "fanart": ""
         }
