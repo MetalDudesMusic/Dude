@@ -468,6 +468,118 @@
             "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFtsJ2sC7k7W8I-B2xFEESIb", 
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGUwMDM0OWUtYmIzZi00OTlmLWEzZDgtZmU2MWNhYWIxM2UxXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_FMjpg_UX1000_.jpg", 
             "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The White Stripes", 
+            "link": "plugin.video.youtube/playlist/PLAC9127A72919F8DC", 
+            "thumbnail": "https://www.juxtapoz.com/images/Evan%20Pricco/2019/7July2019/White_Stripes_Elephant.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Slayer", 
+            "link": "plugin.video.youtube/playlist/PLVgGT_m10yKKj4rwdiE2xwrKIfnC-cVay", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjk0ZmY4ZWItODNhZi00ZDM5LTk2ZTgtMDFhMzcxMWM1ZmMzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Replacements", 
+            "link": "plugin.video.youtube/playlist/PL51_Y8Mo98alGMof7KiMu-sW4V3iyMqbG", 
+            "thumbnail": "https://media2.inlander.com/inlander/imager/u/blog/20330135/music1-1-c065724307f2b25c.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Radiohead", 
+            "link": "plugin.video.youtube/playlist/PLukmsaXDPJie7L7Ihn63HJhA6YMp7tUUr", 
+            "thumbnail": "https://uw.edu/news/archive/images/20090507_pid49558_aid49553_radio_w400.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "No Doubt - Gwen Stefani", 
+            "link": "plugin.video.youtube/playlist/PLrKMiVh6uoiJJ92beCveEbnpIGMonNyvS", 
+            "thumbnail": "https://cdns-images.dzcdn.net/images/artist/eab30d828f05c2ec5d1e6c2d05b2c2a7/500x500.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Iron Maiden", 
+            "link": "plugin.video.youtube/playlist/PL171A6536C5FDFD95", 
+            "thumbnail": "https://cdn.apollo.audio/one/media/640a/fe48/4ea1/2205/e6f8/2d0e/iron-maiden-header.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Garbage", 
+            "link": "plugin.video.youtube/playlist/PL14984BC8FC29AD81", 
+            "thumbnail": "https://f5q7q5p2.rocketcdn.me/wp-content/uploads/Garbage-later-1024x768.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Killers", 
+            "link": "plugin.video.youtube/playlist/PL4B2325FF6E3D0D12", 
+            "thumbnail": "https://i.ytimg.com/vi/gGdGFtwCNBE/maxresdefault.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Black Sabbath", 
+            "link": "plugin.video.youtube/playlist/PLVgGT_m10yKIIcafib3W7rSDYLxQMgBMB", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-225449-94171748_.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Funkadelic", 
+            "link": "plugin.video.youtube/playlist/PL097FC6598D385B32", 
+            "thumbnail": "https://cdn.britannica.com/29/204829-050-8DBD5B7A/Parliament-Funkadelic-1971.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Go-Gos - Belinda Carlisle", 
+            "link": "plugin.video.youtube/playlist/PL6uSNQuiliVjQEKYQ7EOnt01hOK5D0pNI", 
+            "thumbnail": "https://cdn.britannica.com/17/243917-050-23287480/The-Go-Gos-girl-band-1985.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Electric Light Orchestra", 
+            "link": "plugin.video.youtube/playlist/PLFcimSxlIkhxLXWsWkTa0y6p5BroAINhH", 
+            "thumbnail": "https://static.wikia.nocookie.net/pikminjake/images/8/8f/ELO.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Rage Against the Machine", 
+            "link": "plugin.video.youtube/playlist/PLPbCXiOeC78e8BzAq3R7nHHWoqvXXYN53", 
+            "thumbnail": "https://i8.amplience.net/i/naras/Rage%20Against%20The%20Machine_1992.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Beastie Boys", 
+            "link": "plugin.video.youtube/playlist/PL1A8C5629B4CDE805", 
+            "thumbnail": "https://static.independent.co.uk/2021/11/10/11/shutterstock_editorial_8551116b.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Misfits", 
+            "link": "plugin.video.youtube/playlist/PLVgGT_m10yKKkWm0y1mwyldgF__pLIh1v", 
+            "thumbnail": "https://www.starnewsonline.com/gcdn/authoring/2013/12/03/NSTN/ghows-NC-93eda0f4-9844-4e49-8564-f2417f71fdc8-2bf22e3d.jpeg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Sonic Youth", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFupM3aRLllJuW3Yz4MxbrZk", 
+            "thumbnail": "https://media.pitchfork.com/photos/6230a0d3d53e7900ece6fecf/master/w_1600%2Cc_limit/syinline1.jpg", 
+            "fanart": ""
         }
     ]
 }
