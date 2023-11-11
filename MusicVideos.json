@@ -403,28 +403,70 @@
             "type": "plugin", 
             "title": "U2", 
             "link": "plugin.video.youtube/playlist/PLB4BE66B01E4887BB", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.billboard.com/wp-content/uploads/2023/04/U2-cr-Helena-Christensen-billboard-1548.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Red Hot Chili Peppers", 
             "link": "plugin.video.youtube/playlist/PL1343579D67ED4740", 
-            "thumbnail": "", 
+            "thumbnail": "https://variety.com/wp-content/uploads/2022/03/Red-Hot-Chili-Peppers-Walk-of-Fame.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Smashing Pumpkins", 
             "link": "plugin.video.youtube/playlist/PL7zrnXIkwlVypkCzwbSBpSIrdNWPDqfe1", 
-            "thumbnail": "", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmNlOWZkMGItNGNmMS00NzhmLTkyY2YtYWQ4ZWI5NmQzOGExXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg", 
             "fanart": ""
         },         
         {
             "type": "plugin", 
             "title": "Green Day", 
             "link": "plugin.video.youtube/playlist/PL81_CtYCym28CNGzLEMVBl-RVgMPTu-2j", 
-            "thumbnail": "", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-7276-20121007-greenday-env-thumb-624x420-1349717589.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Runaways", 
+            "link": "plugin.video.youtube/playlist/PL2388661D983C74CB", 
+            "thumbnail": "https://static01.nyt.com/images/2010/03/14/arts/14runaways-span/14runaways-span-articleLarge.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Soundgarden", 
+            "link": "plugin.video.youtube/playlist/PLyVhNY-g2JDjYvQzN1SLYN92XOve9rF0Z", 
+            "thumbnail": "https://www.billboard.com/wp-content/uploads/stylus/2625999-soundgarden-michael-lavine-617-409.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Santana", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFv6RZzbHM_M3vChUW15yXSz", 
+            "thumbnail": "https://cdn.britannica.com/41/74841-050-7F506B51/Carlos-Santana-2000.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Jim McCarty-Yardbirds", 
+            "link": "plugin.video.youtube/playlist/PLrYu_NffGY5y38wXMUUojVL3pyeor2AEc", 
+            "thumbnail": "https://imageio.forbes.com/blogs-images/jimclash/files/2015/04/page.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Nine Inch Nails", 
+            "link": "plugin.video.youtube/playlist/PL5AE2DCEE06CFE4AA", 
+            "thumbnail": "https://cdn.shopify.com/s/files/1/0015/0840/9399/files/nine-inch-nails-80s.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "REO Speedwagon", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFtsJ2sC7k7W8I-B2xFEESIb", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGUwMDM0OWUtYmIzZi00OTlmLWEzZDgtZmU2MWNhYWIxM2UxXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_FMjpg_UX1000_.jpg", 
             "fanart": ""
         }
     ]
