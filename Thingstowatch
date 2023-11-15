@@ -28,6 +28,12 @@
             "group": "Music",
             "title": "Adam Lambert",
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/adam%20lambert.m3u"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "Adam Lambert",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/BRUCE%20DICKINSON%20-%20JUDAS%20PRIEST.xsp"
         }
     ]
 }
