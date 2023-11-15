@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "type": "dir",
+            "title": "10cc",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/10cc.m3u"
+        },
+        {
+            "type": "dir",
+            "title": "3 Doors Down",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/3doorsdown.m3u"
+        },
+        {
+            "type": "dir",
+            "title": "4 Non Blondes",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/4nonblondes.m3u"
+        },
+        {
+            "type": "dir",
+            "title": "ABC",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/abc.m3u"
+        },
+        {
+            "type": "dir",
+            "title": "Adam Lambert",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/adam%20lambert.m3u"
+        }
+    ]
+}
