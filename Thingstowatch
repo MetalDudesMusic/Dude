@@ -32,8 +32,26 @@
         {
             "type": "dir",
             "group": "Music",
-            "title": "BRUCE DICKINSON - JUDAS PRIEST",
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/BRUCE%20DICKINSON%20-%20JUDAS%20PRIEST.xsp"
+            "title": "Bruce Dickinson - Judas Priest",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Bruce%20Dickinson%20-%20Judas%20Priest.m3u"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "Beth Hart",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/beth%20hart.m3u"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "Billy Joel",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/billy%20joel.m3u"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "Boz Scaggs",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/boz%20scaggs.m3u"
         }
     ]
 }
