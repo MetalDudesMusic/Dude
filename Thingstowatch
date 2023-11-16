@@ -33,7 +33,7 @@
             "type": "dir",
             "group": "Music",
             "title": "ACDC",
-            "link": "URL"
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/acdc.m3u"
         },
         {
             "type": "dir",
