@@ -6,6 +6,13 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/60s", 
             "thumbnail": "", 
             "fanart": ""
+        },
+        {
+            "type": "dir", 
+            "title": "70s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/70s", 
+            "thumbnail": "", 
+            "fanart": ""
         }
     ]
 }
