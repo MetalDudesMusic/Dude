@@ -8,6 +8,12 @@
         {
             "type": "dir",
             "group": "Music",
+            "title": "30 Seconds To Mars",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/30secondstomars.m3u"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
             "title": "3 Doors Down",
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/3doorsdown.m3u"
         },
@@ -62,20 +68,8 @@
         {
             "type": "dir",
             "group": "Music",
-            "title": "BRUCE DICKINSON - JUDAS PRIEST",
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Bruce%20Dickinson%20-%20Judas%20Priest.m3u"
-        },
-        {
-            "type": "dir",
-            "group": "Music",
-            "title": "30 Seconds To Mars",
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/30secondstomars.m3u"
-        },
-        {
-            "type": "dir",
-            "group": "Music",
-            "title": "Boz Scaggs",
-            "link": "URL"
+            "title": "ACDC",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/acdc.m3u"
         },
         {
             "type": "dir",
