@@ -26,6 +26,12 @@
         {
             "type": "dir",
             "group": "Music",
+            "title": "ACDC",
+            "link": "URL"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
             "title": "Adam Lambert",
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/adam%20lambert.m3u"
         },
@@ -46,6 +52,42 @@
             "group": "Music",
             "title": "Billy Joel",
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/billy%20joel.m3u"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "Boz Scaggs",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/boz%20scaggs.m3u"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "BRUCE DICKINSON - JUDAS PRIEST",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Bruce%20Dickinson%20-%20Judas%20Priest.m3u"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "30 Seconds To Mars",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/30secondstomars.m3u"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "Boz Scaggs",
+            "link": "URL"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "Boz Scaggs",
+            "link": "URL"
+        },
+        {
+            "type": "dir",
+            "group": "Music",
+            "title": "Boz Scaggs",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/boz%20scaggs.m3u"
         },
         {
             "type": "dir",
