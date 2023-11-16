@@ -2,9 +2,44 @@
     "items": [
         {
             "type": "plugin", 
-            "title": "70's songs you may have forgotten", 
-            "link": "plugin.video.youtube/playlist/PLLFWrh68-XMRGLYQUafmGbi48uT7uOrRU", 
-            "thumbnail": "https://i.ytimg.com/vi/WGU_4-5RaxU/hqdefault.jpg", 
+            "title": "80s forgotten hits", 
+            "link": "plugin.video.youtube/playlist/PLdiEFGljrWUz1FVxUa03M0Tz6H9agN69s", 
+            "thumbnail": "https://i.ytimg.com/vi/ZlCCva6rr-s/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "BEST OF THE 80s", 
+            "link": "plugin.video.youtube/playlist/Ld9auH4JIHvupoMgW5YfOjqtj6Lih0MKw", 
+            "thumbnail": "https://i.ytimg.com/vi/9OFpfTd0EIs/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Billboard Top Songs of the 80s", 
+            "link": "plugin.video.youtube/playlist/PL_3moN-ayKSTx9GWQtNowcjnsAoYQidwR", 
+            "thumbnail": "https://i.ytimg.com/vi/eNvUS-6PTbs/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "80s Playlist Greatest Hits", 
+            "link": "plugin.video.youtube/playlist/PLCD0445C57F2B7F41", 
+            "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "13 plus hours of top hits from the 1980s", 
+            "link": "plugin.video.youtube/playlist/PLpYWKGMgRA1uU9lyMtR8vQBzc4HrjpqYu", 
+            "thumbnail": "https://i.ytimg.com/vi/qeMFqkcPYcg/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "80s Music Video Channel", 
+            "link": "plugin.video.youtube/playlist/PLjB-wurbnZxUY8WEq6iu-A45Bt_EjXvDX", 
+            "thumbnail": "https://i.ytimg.com/vi/5IsSpAOD6K8/hqdefault.jpg", 
             "fanart": ""
         }
     ]
