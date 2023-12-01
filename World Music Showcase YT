@@ -1,0 +1,11 @@
+{
+    "items": [          
+        {
+            "type": "plugin", 
+            "title": "World Music Showcase", 
+            "link": "https://www.youtube.com/playlist?list=PL-ntK3MOBOs4jjwfUk-NZxjt9V-gu9Xv0", 
+            "thumbnail": "https://i.ytimg.com/vi/52Ir8HKUdRY/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYSSBJKGUwDw==&rs=AOn4CLAtD8oiv5Az-DK7Loxg0mE46K0HNQ", 
+            "fanart": ""
+        }
+    ]
+}
