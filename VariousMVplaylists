@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "type": "plugin", 
+            "title": "Old Songs Throwback Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs49foA-Y8GRB4MdfX26e5H3", 
+            "thumbnail": "https://i.ytimg.com/vi/IZXBToMEp5Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAWBAz4jfvi4E6NbfEBMpuXxCz6yw", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
