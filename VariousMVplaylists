@@ -2,9 +2,65 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "Play Rock Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs74P4BmmylAEN7yrrcmjh-H", 
+            "thumbnail": "https://i.ytimg.com/vi/TAcSCYFloPI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDtyTvJTkGUCZmkg_mA4R8_yZilVQ", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Workout Classics Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs41pIE8aVQLedVYhZ07tg4h", 
+            "thumbnail": "https://i.ytimg.com/vi/xHH6d1bMtls/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKrL26jSFLYl_cX-IOFQ5bSu1c1A", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "R&B Jams 2023 Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5n2v5P5byntJA4Yva-zOMa", 
+            "thumbnail": "https://i.ytimg.com/vi/J7OmKecn_3w/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT_YdfxPbsbZZFuJvEpvdVhb2JVw", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Rap Playlist 2023 Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4m_s9-UzpwqXufgg0vzdec", 
+            "thumbnail": "https://i.ytimg.com/vi/odu-e50Ov6c/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBL6Bk0pKbxKhNe3Bk_B0AtkZmPGQ", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Pop Playlist 2023 Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7unBtYwOn15_lY_oc7Ji5_", 
+            "thumbnail": "https://i.ytimg.com/vi/rUC21p7M6so/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAC0ntFkdOnzYekDUIGexpVxgfTWQ", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Acoustic Laid Back Blues Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5jO3Yz0HZpITxEtvvOhBNp", 
+            "thumbnail": "https://i.ytimg.com/vi/28f-FFvedOE/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYEyAsKH8wDw==&rs=AOn4CLD71BAu0xnuXpz2wTW25Wrm1ahWsA", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Cottage Country Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs46tRqPUpLf0BdTkS0QT-Hg", 
+            "thumbnail": "https://i.ytimg.com/vi/X1wibquSIvY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBP4N_owNW3NTM_aWF8OUOyWjhXw", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "Old Songs Throwback Playlist YT", 
             "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs49foA-Y8GRB4MdfX26e5H3", 
             "thumbnail": "https://i.ytimg.com/vi/IZXBToMEp5Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAWBAz4jfvi4E6NbfEBMpuXxCz6yw", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Happy Songs Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7XQuEqjcDKvuG_zBIdYYHZ", 
+            "thumbnail": "https://i.ytimg.com/vi/-psODs3rhmU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMorn2gppOQVstYP8F6QmY5c1b7A", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
