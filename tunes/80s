@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "80s Hidden Gems", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4Ha91yjxrp2a0fEcsIc0rD", 
+            "thumbnail": "https://i.ytimg.com/vi/Fbq7Ml89cuw/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
             "title": "80s forgotten hits", 
             "link": "plugin.video.youtube/playlist/PLdiEFGljrWUz1FVxUa03M0Tz6H9agN69s", 
             "thumbnail": "https://i.ytimg.com/vi/ZlCCva6rr-s/hqdefault.jpg", 
