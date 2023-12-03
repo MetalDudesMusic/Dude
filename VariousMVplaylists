@@ -44,9 +44,23 @@
         },
         {
             "type": "plugin", 
-            "title": "Rap Playlist 2023 Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4m_s9-UzpwqXufgg0vzdec", 
-            "thumbnail": "https://i.ytimg.com/vi/odu-e50Ov6c/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBL6Bk0pKbxKhNe3Bk_B0AtkZmPGQ", 
+            "title": "Women of the Blues Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs760FN7M3etzoIQ2yuU-wzD", 
+            "thumbnail": "https://i.ytimg.com/vi/SwMgJS2xTy4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwOineSK2pN4QUYIVNID71ECUU0g", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Metal Mayhem Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7U5xB0TivVXOr5aTl0TNxl", 
+            "thumbnail": "https://i.ytimg.com/vi/R8itHR44pDk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrgtSKB7Rr3rwStlwxDuKwOixhxg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Buzzworthy Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs6UzATzcv1Lg0GXGZbbKUo8", 
+            "thumbnail": "https://i.ytimg.com/vi/od5zVf7V0Fo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCfzgqawKDiu7jeJ3SULVEGYUQrYw", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
@@ -54,6 +68,20 @@
             "title": "Comfort Songs Playlist YT", 
             "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs6UOEBdkuXny7c5SL5q2Y31", 
             "thumbnail": "https://i.ytimg.com/vi/AZjTCUY7rRY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvtqcGAiugABpzTXyRH35Dt8kGMg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Blues Guitar Masters Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs53ac96zjuSc03Ck5b8wh5b", 
+            "thumbnail": "https://i.ytimg.com/vi/cS0My6bN77o/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHanuywuoCUyutglYV_KRRxq6_sA", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Canadian Country Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7eryCYveLsypDaDGGLF2mc", 
+            "thumbnail": "https://i.ytimg.com/vi/FIA4idbOxdU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBKah4rqu3A9vcdyUHGhBPvwfdSmQ", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
@@ -93,6 +121,20 @@
         },
         {
             "type": "plugin", 
+            "title": "Break-Thru Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7H6X-XZSN_MVhpoWRgn4Ml", 
+            "thumbnail": "https://i.ytimg.com/vi/NEXIDgUqfBU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDPpowmD1aZSQd55yeC_LA1fvUtJA", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Cool Jazz Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5cIiXWD5GlgH6xc43-JnA9", 
+            "thumbnail": "https://i.ytimg.com/vi/VO_1Ncilfz4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB4gKY6gd-V3x-LbDP3F2iz6RuIVA", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "Cottage Country Playlist YT", 
             "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs46tRqPUpLf0BdTkS0QT-Hg", 
             "thumbnail": "https://i.ytimg.com/vi/X1wibquSIvY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBP4N_owNW3NTM_aWF8OUOyWjhXw", 
@@ -103,6 +145,13 @@
             "title": "Old Songs Throwback Playlist YT", 
             "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs49foA-Y8GRB4MdfX26e5H3", 
             "thumbnail": "https://i.ytimg.com/vi/IZXBToMEp5Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAWBAz4jfvi4E6NbfEBMpuXxCz6yw", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Celtic Kitchen Party Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7_oP_l7oFGNjxzmm1KD9ey", 
+            "thumbnail": "https://i.ytimg.com/vi/HNTRuUiINyo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBcKVDrtQBW9UdoiSkWZ4P7RsWXQg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
