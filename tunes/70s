@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "70s Hidden Gems Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5xxO3-PpiQMIWRYFgpxAPL", 
+            "thumbnail": "https://i.ytimg.com/vi/aogEfnvFq7s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAQMTI4nIEFdRqcYQn8xKlSN8CoIg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "70's songs you may have forgotten", 
             "link": "plugin.video.youtube/playlist/PLLFWrh68-XMRGLYQUafmGbi48uT7uOrRU", 
             "thumbnail": "https://i.ytimg.com/vi/WGU_4-5RaxU/hqdefault.jpg", 
