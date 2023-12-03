@@ -9,6 +9,13 @@
         },
         {
             "type": "plugin", 
+            "title": "Music from the 50s to 2020s Playlist YT ( HUGE )", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7MxJyTNj_Y3YnEAQ9PsA28", 
+            "thumbnail": "https://i.ytimg.com/vi/IfRWtKuepDM/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4OgAK4CIoCDAgAEAEYfyATKB4wDw==&rs=AOn4CLBR2P8ogYXZGi8cr7ugu3En2ZmUkQ", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "Drinking Songs Playlist YT", 
             "link": "plugin.video.youtube/playlist/L-ntK3MOBOs4-key7CfJ5s0_FHl7xoxbd", 
             "thumbnail": "https://i.ytimg.com/vi/WEIOOWgpunY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKKkt50UYwWTxfKHm5VbXXSzFr4w", 
