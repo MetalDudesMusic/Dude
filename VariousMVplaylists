@@ -2,9 +2,58 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "Christmas Holiday Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7MxJyTNj_Y3YnEAQ9PsA28", 
+            "thumbnail": "https://i.ytimg.com/vi/IfRWtKuepDM/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4OgAK4CIoCDAgAEAEYfyATKB4wDw==&rs=AOn4CLBR2P8ogYXZGi8cr7ugu3En2ZmUkQ", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Drinking Songs Playlist YT", 
+            "link": "plugin.video.youtube/playlist/L-ntK3MOBOs4-key7CfJ5s0_FHl7xoxbd", 
+            "thumbnail": "https://i.ytimg.com/vi/WEIOOWgpunY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKKkt50UYwWTxfKHm5VbXXSzFr4w", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Bar Fight - Soundtrack for Video & Gaming Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5jQGDDUvR2u4vBNi6tEisb", 
+            "thumbnail": "https://i.ytimg.com/vi/tPHS-r-xCKI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBEVqe6FMqIKNKlDbOTz4_C5t3mzg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "Play Rock Playlist YT", 
             "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs74P4BmmylAEN7yrrcmjh-H", 
             "thumbnail": "https://i.ytimg.com/vi/TAcSCYFloPI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDtyTvJTkGUCZmkg_mA4R8_yZilVQ", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Car Chase - Soundtrack for Video & Gaming Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4_fqK6Let4Mf854JazBg3N", 
+            "thumbnail": "https://i.ytimg.com/vi/-c_CQVynP8Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKHvjFRDmi0sb8wbpXt-cFckHFiQ", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Bad Guys - Soundtrack for Video & Gaming Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4yEhoUG9wxQw2UA5GWnhG0", 
+            "thumbnail": "https://i.ytimg.com/vi/tObVUbcEvLA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgukzEhZ88JELbelLe_OJfkOVBwA", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Rap Playlist 2023 Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4m_s9-UzpwqXufgg0vzdec", 
+            "thumbnail": "https://i.ytimg.com/vi/odu-e50Ov6c/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBL6Bk0pKbxKhNe3Bk_B0AtkZmPGQ", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Comfort Songs Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs6UOEBdkuXny7c5SL5q2Y31", 
+            "thumbnail": "https://i.ytimg.com/vi/AZjTCUY7rRY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvtqcGAiugABpzTXyRH35Dt8kGMg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
@@ -58,9 +107,23 @@
         },
         {
             "type": "plugin", 
+            "title": "Sad Songs Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4-n1MrceNZmq-EfzXGYfOX", 
+            "thumbnail": "https://i.ytimg.com/vi/vONRcexCCiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBuKgn1DnLh2DjvqMCaB3VEBqvlOg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "Happy Songs Playlist YT", 
             "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7XQuEqjcDKvuG_zBIdYYHZ", 
             "thumbnail": "https://i.ytimg.com/vi/-psODs3rhmU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMorn2gppOQVstYP8F6QmY5c1b7A", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "St. Patrick's Day Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs6bHfp1nn6DYS42Irrojp5l", 
+            "thumbnail": "https://i.ytimg.com/vi/rroW82TvW1I/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBaKFcwDw==&rs=AOn4CLBaAZXof8SCygvK0B3izjmSnwOMGg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
