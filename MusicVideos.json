@@ -13,7 +13,56 @@
             "link": "plugin.video.youtube/playlist/PLH583WMsSz85HljEkmsdJeF4-OWjwg6By", 
             "thumbnail": "https://i.ytimg.com/vi/Ix9NXVIbm2A/hqdefault.jpg", 
             "fanart": ""
-        },       
+        },            
+        {
+            "type": "plugin", 
+            "title": "Nicki Minaj", 
+            "link": "plugin.video.youtube/playlist/PL3j4rgUz7939Y9PMZAfIvPxDCbOGl_Kvf", 
+            "thumbnail": "https://i.ytimg.com/vi/LDZX4ooRsWs/hqdefault.jpg", 
+            "fanart": ""
+        },                     
+        {
+            "type": "plugin", 
+            "title": "Pink", 
+            "link": "plugin.video.youtube/playlist/PLq3UZa7STrbpX13PljcNH6hmyrSbcMYK8", 
+            "thumbnail": "https://i.ytimg.com/vi/wGj9oADcyRs/hqdefault.jpg", 
+            "fanart": ""
+        },                      
+        {
+            "type": "plugin", 
+            "title": "Shania Twain", 
+            "link": "plugin.video.youtube/playlist/PLEH_MKt4utKlB-ts75mjlztpKqiKbRyqy", 
+            "thumbnail": "https://i.ytimg.com/vi/GMul1ZBdRmc/hqdefault.jpg", 
+            "fanart": ""
+        },                         
+        {
+            "type": "plugin", 
+            "title": "Shakira", 
+            "link": "plugin.video.youtube/playlist/PL4324C6BD2E9BA7F8", 
+            "thumbnail": "https://i.ytimg.com/vi/6Mgqbai3fKo/hqdefault.jpg", 
+            "fanart": ""
+        },                          
+        {
+            "type": "plugin", 
+            "title": "Christina Aguilera", 
+            "link": "plugin.video.youtube/playlist/PLEH_MKt4utKlKiD0EhmQKRLVLuG0mEF_b", 
+            "thumbnail": "https://i.ytimg.com/vi/kIDWgqDBNXA/hqdefault.jpg", 
+            "fanart": ""
+        },                          
+        {
+            "type": "plugin", 
+            "title": "Lionel Richie", 
+            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9Ne7pvZaLtc_ApAY8sQZ66mP", 
+            "thumbnail": "https://i.ytimg.com/vi/nqAvFx3NxUM/hqdefault.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Linkin Park", 
+            "link": "plugin.video.youtube/playlist/PL6E93C5292B5486F6", 
+            "thumbnail": "https://i.ytimg.com/vi/4qlCC1GOwFw/hqdefault.jpg", 
+            "fanart": ""
+        },  
         {
             "type": "plugin", 
             "title": "Pantera", 
