@@ -90,7 +90,70 @@
             "link": "plugin.video.youtube/playlist/PLtzV2248lUVVzJtztzISYvxBDa0wvA4cU", 
             "thumbnail": "https://lastfm.freetls.fastly.net/i/u/ar0/4003d0a1c747b9d04972eb9c70230473.jpg", 
             "fanart": ""
-        },          
+        },            
+        {
+            "type": "plugin", 
+            "title": "Billy Joel", 
+            "link": "plugin.video.youtube/playlist/PLFF4DF6DA67A50D3A", 
+            "thumbnail": "https://i.ytimg.com/vi/hSq4B_zHqPM/hqdefault.jpg", 
+            "fanart": ""
+        },                
+        {
+            "type": "plugin", 
+            "title": "Garth Brooks", 
+            "link": "plugin.video.youtube/playlist/PLIiI4TlOIndejbvW1uFfUtcPwTQyGhdFf", 
+            "thumbnail": "https://i.ytimg.com/vi/7mHJaQpgTMY/hqdefault.jpg", 
+            "fanart": ""
+        },                  
+        {
+            "type": "plugin", 
+            "title": "Drake", 
+            "link": "plugin.video.youtube/playlist/PLvXIAe9fzzc0S2VPzbXzORJ5Ct-1KWOzq", 
+            "thumbnail": "https://i.ytimg.com/vi/7LnBvuzjpr4/hqdefault.jpg", 
+            "fanart": ""
+        },                    
+        {
+            "type": "plugin", 
+            "title": "Beyonce", 
+            "link": "plugin.video.youtube/playlist/PLEPP8FBvYRtpu3oDrrZe-W_DVmvExr267", 
+            "thumbnail": "https://i.ytimg.com/vi/-0wbtk6_vpE/hqdefault.jpg", 
+            "fanart": ""
+        },                     
+        {
+            "type": "plugin", 
+            "title": "Taylor Swift", 
+            "link": "plugin.video.youtube/playlist/PLdnEKz0ib5DD8X0JeJ9MgbTLKNESWNlRe", 
+            "thumbnail": "https://i.ytimg.com/vi/VuNIsY6JdUw/hqdefault.jpg", 
+            "fanart": ""
+        },                      
+        {
+            "type": "plugin", 
+            "title": "Mariah Carey", 
+            "link": "plugin.video.youtube/playlist/PLMmBcihs-L-CP-vbRp3uPyGOgmCr51FU3", 
+            "thumbnail": "https://i.ytimg.com/vi/UM156Pkfg70/hqdefault.jpg", 
+            "fanart": ""
+        },                        
+        {
+            "type": "plugin", 
+            "title": "Madonna", 
+            "link": "plugin.video.youtube/playlist/PL49DB01A161111570", 
+            "thumbnail": "https://i.ytimg.com/vi/pufec0Hps00/hqdefault.jpg", 
+            "fanart": ""
+        },                         
+        {
+            "type": "plugin", 
+            "title": "Elton John", 
+            "link": "plugin.video.youtube/playlist/PLA910D381CD5AF74E", 
+            "thumbnail": "https://i.ytimg.com/vi/mBCVEcjScTQ/hqdefault.jpg", 
+            "fanart": ""
+        },                          
+        {
+            "type": "plugin", 
+            "title": "Michael Jackson", 
+            "link": "plugin.video.youtube/PL08865B6758432FE8", 
+            "thumbnail": "https://i.ytimg.com/vi/yURRmWtbTbo/hqdefault.jpg", 
+            "fanart": ""
+        },
         {
             "type": "plugin", 
             "title": "80s Hard Rock & Hair Metal Hits", 
@@ -125,7 +188,14 @@
             "link": "plugin.video.youtube/playlist/PL3gBudnUJUexS90-84IwbCjZf83CU2GTI", 
             "thumbnail": "https://www.nme.com/wp-content/uploads/2020/01/SocialContract_Press_Credit_MatildaHill-Jenkins.jpg", 
             "fanart": ""
-        },        
+        },           
+        {
+            "type": "plugin", 
+            "title": "Eminem", 
+            "link": "plugin.video.youtube/playlist/PL7E436F1EC114B001", 
+            "thumbnail": "https://i.ytimg.com/vi/j5-yKhDd64s/hqdefault.jpg", 
+            "fanart": ""
+        },      
         {
             "type": "plugin", 
             "title": "The Cure", 
