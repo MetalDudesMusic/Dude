@@ -6,7 +6,14 @@
             "link": "plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr", 
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZiYjU5ODktNzIxNC00NDg1LTlhNzktNDY1OTgxNmEyMWZkXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_FMjpg_UX1000_.jpg", 
             "fanart": ""
-        },        
+        },         
+        {
+            "type": "plugin", 
+            "title": "Ed Sheeran", 
+            "link": "plugin.video.youtube/playlist/PLH583WMsSz85HljEkmsdJeF4-OWjwg6By", 
+            "thumbnail": "https://i.ytimg.com/vi/Ix9NXVIbm2A/hqdefault.jpg", 
+            "fanart": ""
+        },       
         {
             "type": "plugin", 
             "title": "Pantera", 
@@ -124,6 +131,13 @@
             "title": "Taylor Swift", 
             "link": "plugin.video.youtube/playlist/PLdnEKz0ib5DD8X0JeJ9MgbTLKNESWNlRe", 
             "thumbnail": "https://i.ytimg.com/vi/VuNIsY6JdUw/hqdefault.jpg", 
+            "fanart": ""
+        },                      
+        {
+            "type": "plugin", 
+            "title": "Bruno Mars", 
+            "link": "plugin.video.youtube/playlist/PLIhLN7Z5xAvFXp0cqoWPHYt2XR4Q9o_RQ", 
+            "thumbnail": "https://i.ytimg.com/vi/OPf0YbXqDm0/hqdefault.jpg", 
             "fanart": ""
         },                      
         {
