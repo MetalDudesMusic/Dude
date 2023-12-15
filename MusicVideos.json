@@ -713,6 +713,13 @@
             "link": "plugin.video.youtube/playlist/PLF10CD8DBC7E24650", 
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjdlOTYyZjYtZTQzMC00YzdmLWE1ZjUtNjE4ODBkZGU2YmQ1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg", 
             "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Michael Jackson", 
+            "link": "plugin.video.youtube/playlist/PL08865B6758432FE8", 
+            "thumbnail": "https://i.ytimg.com/vi/QNJL6nfu__Q/hqdefault.jpg", 
+            "fanart": ""
         }
     ]
 }
