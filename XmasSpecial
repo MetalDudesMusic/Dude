@@ -1,0 +1,11 @@
+{
+    "items": [ 
+        {
+            "type": "plugin", 
+            "title": "Rock Christmas songs", 
+            "link": "plugin.video.youtube/playlist/PL7Sv7aQs2p0Uuu6vSLrsR1LpHCZRIyISr", 
+            "thumbnail": "https://i.ytimg.com/vi/94Ye-3C1FC8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        },
+    ]
+}
