@@ -6,6 +6,34 @@
             "link": "plugin.video.youtube/playlist/PL7Sv7aQs2p0Uuu6vSLrsR1LpHCZRIyISr", 
             "thumbnail": "https://i.ytimg.com/vi/94Ye-3C1FC8/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        }, 
+        {
+            "type": "plugin", 
+            "title": "Christmas Music", 
+            "link": "plugin.video.youtube/playlist/PLR7sPawuzFmKc1Q0dFwbawJASpUo8Kggp", 
+            "thumbnail": "https://i.ytimg.com/vi/j3fSknbR7Y4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        }, 
+        {
+            "type": "plugin", 
+            "title": "Top Christmas Hits", 
+            "link": "plugin.video.youtube/playlist/PLkqz3S84Tw-Sg_5kur5nP3gQxZBSc3A5z", 
+            "thumbnail": "https://i.ytimg.com/vi/T_aiaYkcSDo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
         },
+        {
+            "type": "plugin", 
+            "title": "Best Pop Christmas", 
+            "link": "plugin.video.youtube/playlist/PLzLmKWYW3AHd1uGgcDg98om9Bx48AtQEG", 
+            "thumbnail": "https://i.ytimg.com/vi/fRyhqobl0sk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        },
+        {
+            "type": "plugin", 
+            "title": "Classics Christmas", 
+            "link": "plugin.video.youtube/playlist/PLBN3i8jrg4Wze3v_KZRPFmnQrTw5jia61", 
+            "thumbnail": "https://i.ytimg.com/vi/t_xq3Bj_tas/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        }
     ]
 }
