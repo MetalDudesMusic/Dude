@@ -2,8 +2,8 @@
     "items": [ 
         {
             "type": "dir", 
-            "title": "3 Doors Down - 3 Doors Down", 
-            "link": "https://www.ashleecadell.com/xyzstorelibrary/3%20Doors%20Down", 
+            "title": "metals test xml", 
+            "link": "https://raw.githubusercontent.com/mu51c/ptfm/main/metalvids.xml", 
             "thumbnail": "", 
             "fanart": ""
         }
