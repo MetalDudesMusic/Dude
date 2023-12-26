@@ -1,14 +1,14 @@
 {
     "items": [
         {
-            "type": "plugin", 
+            "type": "item", 
             "title": "TOP 100 Songs of Ever Best Hit Music Playlist on Spotify", 
             "link": "https://www.youtube.com/watch?v=nP9tIQVfW_Q", 
             "thumbnail": "", 
             "fanart": ""
         },
         {
-            "type": "plugin", 
+            "type": "item", 
             "title": "Trance Classics 3 Hour Megamix", 
             "link": "https://www.youtube.com/watch?v=5vfQ2WNRb44", 
             "thumbnail": "", 
