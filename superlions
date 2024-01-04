@@ -2,6 +2,62 @@
     "items": [
         {
             "type": "item", 
+            "title": "Deep Purple live in 1993", 
+            "link": "https://www.youtube.com/watch?v=jmk26wwhwbo", 
+            "thumbnail": "https://i.ytimg.com/vi/doY8eabZiHI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "King Gizzard & The Lizard Wizard Live at AB", 
+            "link": "https://www.youtube.com/watch?v=PGHgpVU3UuU", 
+            "thumbnail": "https://i.ytimg.com/vi/JdZtP8CoV4s/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "Massive Attack - Live at the AB", 
+            "link": "https://www.youtube.com/watch?v=SEq6-jbC7Kg", 
+            "thumbnail": "https://i.ytimg.com/vi/TqYA7uJUbqE/sddefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "David Gilmour - Live at the Royal Albert Hall 2006 Full Concert", 
+            "link": "https://www.youtube.com/watch?v=PbtJi1-v8h8", 
+            "thumbnail": "https://i.ytimg.com/vi/PbtJi1-v8h8/sddefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "The Prodigy Greatest Hits Full Album", 
+            "link": "https://www.youtube.com/watch?v=3sUp8mDJAr4", 
+            "thumbnail": "https://i.ytimg.com/vi/4tvKBT5fJhA/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "W H I T E S N A K E Greatest Hits Full Album", 
+            "link": "https://www.youtube.com/watch?v=V3bzo7f7tsA", 
+            "thumbnail": "https://i.ytimg.com/vi/V3bzo7f7tsA/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "Vengaboys Greatest Hits Playlist Full Album", 
+            "link": "https://www.youtube.com/watch?v=BdIugBKgurc", 
+            "thumbnail": "https://i.ytimg.com/vi/BdIugBKgurc/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "Jean Michel Jarre - The Best Hit Collection", 
+            "link": "https://www.youtube.com/watch?v=ubJxTFAKlSg", 
+            "thumbnail": "https://i.ytimg.com/vi/gSDTzzOOlF8/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
             "title": "TOP 100 Songs of Ever Best Hit Music Playlist on Spotify", 
             "link": "https://www.youtube.com/watch?v=nP9tIQVfW_Q", 
             "thumbnail": "", 
