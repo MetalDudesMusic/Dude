@@ -1,11 +1,81 @@
 {
-    "items": [          
+    "items": [                                             
+        {
+            "type": "plugin", 
+            "title": "Bob Seger & the Silver Bullet Band", 
+            "link": "plugin.video.youtube/playlist/PL7geoeWeH7nQlyDNRKXW87bbk4s8nJVOE", 
+            "thumbnail": "https://i.ytimg.com/vi/PuNXEUwIQMY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                     
+        {
+            "type": "plugin", 
+            "title": "Kenny Rogers", 
+            "link": "plugin.video.youtube/playlist/PL9D739853CAC6903A", 
+            "thumbnail": "https://i.ytimg.com/vi/-pOYoNUsKWA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
+        {
+            "type": "plugin", 
+            "title": "Kenny G", 
+            "link": "plugin.video.youtube/playlist/PL7C7876DAF14DE2F4", 
+            "thumbnail": "https://i.ytimg.com/vi/447yaU_4DF8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
+        {
+            "type": "plugin", 
+            "title": "Alabama", 
+            "link": "plugin.video.youtube/playlist/PLFB058AC03D22A4D9", 
+            "thumbnail": "https://i.ytimg.com/vi/lHdXQAQHjd8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                
+        {
+            "type": "plugin", 
+            "title": "Neil Diamond", 
+            "link": "plugin.video.youtube/playlist/PLRopznIfpLoPgiqAa0i2BhWViTXO5yBmf", 
+            "thumbnail": "https://i.ytimg.com/vi/nM_7ZeUmS-8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
+        {
+            "type": "plugin", 
+            "title": "Whitney Houston", 
+            "link": "plugin.video.youtube/playlist/PLA107D57396828C61", 
+            "thumbnail": "https://i.ytimg.com/vi/3JWTaaS7LdU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                
+        {
+            "type": "plugin", 
+            "title": "Barbra Streisand", 
+            "link": "plugin.video.youtube/playlist/PLY7e2M-r5_plCdF1q2Rq894CJkPVS2_Kw", 
+            "thumbnail": "https://i.ytimg.com/vi/HNVfbaGH3_8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                 
+        {
+            "type": "plugin", 
+            "title": "George Strait", 
+            "link": "plugin.video.youtube/playlist/PL46353F3C93839689", 
+            "thumbnail": "https://i.ytimg.com/vi/9jJf-p6RYvo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },               
+        {
+            "type": "plugin", 
+            "title": "Bruce Springsteen", 
+            "link": "plugin.video.youtube/playlist/PLgaFNC_I_ZkklIJZYBYacjRkjcSOpqKSs", 
+            "thumbnail": "https://i.ytimg.com/vi/EPhWR4d3FJQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "Elvis Presley", 
+            "link": "plugin.video.youtube/playlist/PL9MhbRaJbYGw6SDNeNFIYxjUWYbebaIIq", 
+            "thumbnail": "https://i.ytimg.com/vi/KivXimwRgnY/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
         {
             "type": "plugin", 
             "title": "Tom MacDonald", 
             "link": "plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr", 
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZiYjU5ODktNzIxNC00NDg1LTlhNzktNDY1OTgxNmEyMWZkXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_FMjpg_UX1000_.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },         
         {
             "type": "plugin", 
