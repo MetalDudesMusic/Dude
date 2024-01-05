@@ -1,0 +1,18 @@
+{
+    "items": [           
+        {
+            "type": "plugin", 
+            "title": "Journey", 
+            "link": "plugin.video.youtube/playlist/PLseru_GF_QVXLY8qe6XHBo_u24jlMq1Oz", 
+            "thumbnail": "https://cdn.smehost.net/2020sonymusiccouk-ukprod/wp-content/uploads/2019/10/4955572d6b52fd1f344d6aecae7ab780.jpg", 
+            "fanart": ""
+        },       
+        {
+            "type": "plugin", 
+            "title": "Jim McCarty-Yardbirds", 
+            "link": "plugin.video.youtube/playlist/PLrYu_NffGY5y38wXMUUojVL3pyeor2AEc", 
+            "thumbnail": "https://imageio.forbes.com/blogs-images/jimclash/files/2015/04/page.jpg", 
+            "fanart": ""
+        }
+    ]
+}
