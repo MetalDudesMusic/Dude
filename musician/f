@@ -1,0 +1,25 @@
+{
+    "items": [          
+        {
+            "type": "plugin", 
+            "title": "Fleetwood Mac", 
+            "link": "plugin.video.youtube/playlist/PLdB2qly-JTgATFjyESCah_fswc5sqPMo0", 
+            "thumbnail": "https://cdn.britannica.com/25/219925-050-B508D856/British-American-rock-group-Fleetwood-Mac.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Foo Fighters", 
+            "link": "plugin.video.youtube/playlist/PLez_Te78YVuTSkIrPnn5EOeUYRvUHwgxl", 
+            "thumbnail": "https://cdn.smehost.net/2020sonymusiccouk-ukprod/wp-content/uploads/2017/06/00c04d57e42c56f9116eef3f1df14d53-800x800.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Funkadelic", 
+            "link": "plugin.video.youtube/playlist/PL097FC6598D385B32", 
+            "thumbnail": "https://cdn.britannica.com/29/204829-050-8DBD5B7A/Parliament-Funkadelic-1971.jpg", 
+            "fanart": ""
+        }
+    ]
+}
