@@ -34,4 +34,34 @@
             "link": "plugin.video.youtube/playlist/PL3gBudnUJUexS90-84IwbCjZf83CU2GTI", 
             "thumbnail": "https://www.nme.com/wp-content/uploads/2020/01/SocialContract_Press_Credit_MatildaHill-Jenkins.jpg", 
             "fanart": ""
-        }, 
+        },          
+        {
+            "type": "plugin", 
+            "title": "Aerosmith", 
+            "link": "plugin.video.youtube/playlist/PLqeOvB-u67NAYU6i6EgcninTN53WilKkX", 
+            "thumbnail": "https://townsquare.media/site/295/files/2016/01/attachment-aerosmith-debut-album1.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Alice in Chains", 
+            "link": "plugin.video.youtube/playlist/PLQEsC75v6gf45LPCcCmE4FJ-fCkdkEudU", 
+            "thumbnail": "https://www.musicmaniarecords.be/media/artist-photo/139572-alice-in-chains-band-pic.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Against Me", 
+            "link": "plugin.video.youtube/playlist/PL806A1A46217E83F5", 
+            "thumbnail": "https://event-images.tixel.com/cdn-cgi/image/width=600,format=auto/media/images/b800aecca3b7cbef55f5d133ffa474cf_1582981145_0096_l.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Amy Winehouse", 
+            "link": "plugin.video.youtube/playlist/PL9CE015AC978E88FE", 
+            "thumbnail": "https://cdn.britannica.com/17/122817-050-99DD868A/British-Amy-Winehouse.jpg", 
+            "fanart": ""
+        }
+    ]
+}
