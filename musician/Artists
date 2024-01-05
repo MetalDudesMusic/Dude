@@ -30,15 +30,15 @@
         },
         {
             "type": "dir", 
-            "title": "A Artists", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/a", 
+            "title": "E Artists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/e", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
-            "title": "B Artists", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/b", 
+            "title": "F Artists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/f", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
