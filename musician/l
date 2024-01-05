@@ -1,0 +1,39 @@
+{
+    "items": [                            
+        {
+            "type": "plugin", 
+            "title": "Lionel Richie", 
+            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9Ne7pvZaLtc_ApAY8sQZ66mP", 
+            "thumbnail": "https://i.ytimg.com/vi/nqAvFx3NxUM/hqdefault.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Linkin Park", 
+            "link": "plugin.video.youtube/playlist/PL6E93C5292B5486F6", 
+            "thumbnail": "https://i.ytimg.com/vi/4qlCC1GOwFw/hqdefault.jpg", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "Led Zeppelin", 
+            "link": "plugin.video.youtube/playlist/PLp3o6lwxnqMkm9dUECwqVBQY0IN6n1wH_", 
+            "thumbnail": "https://cdn.britannica.com/47/243647-050-7C88FBF5/Led-Zeppelin-1968-studio-portrait-John-Bohham-Jimmy-Page-Robert-Plant-John-Paul-Jones.jpg", 
+            "fanart": ""
+        },       
+        {
+            "type": "plugin", 
+            "title": "LITTLE RICHARD HITS", 
+            "link": "plugin.video.youtube/playlist/PLcSYf7ip_VP9qO0Q79yUb74YOvjxcADO2", 
+            "thumbnail": "https://media.newyorker.com/photos/5eb7192a0fe2fbfb61a29041/master/w_2560%2Cc_limit/Remnick-LittleRichard.jpg", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "LYNYRD SKYNYRD", 
+            "link": "plugin.video.youtube/playlist/PLw6p6PA8M2mheaTjACDfNa5xmXO_EO9TB", 
+            "thumbnail": "https://cdn.britannica.com/43/23143-050-B4C4503F/Lynyrd-Skynyrd-concert-October-1976.jpg", 
+            "fanart": ""
+        }
+    ]
+}
