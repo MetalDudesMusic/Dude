@@ -1,0 +1,81 @@
+{
+    "items": [                                              
+        {
+            "type": "plugin", 
+            "title": "Bob Seger & the Silver Bullet Band", 
+            "link": "plugin.video.youtube/playlist/PL7geoeWeH7nQlyDNRKXW87bbk4s8nJVOE", 
+            "thumbnail": "https://i.ytimg.com/vi/PuNXEUwIQMY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                  
+        {
+            "type": "plugin", 
+            "title": "Barbra Streisand", 
+            "link": "plugin.video.youtube/playlist/PLY7e2M-r5_plCdF1q2Rq894CJkPVS2_Kw", 
+            "thumbnail": "https://i.ytimg.com/vi/HNVfbaGH3_8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                
+        {
+            "type": "plugin", 
+            "title": "Bruce Springsteen", 
+            "link": "plugin.video.youtube/playlist/PLgaFNC_I_ZkklIJZYBYacjRkjcSOpqKSs", 
+            "thumbnail": "https://i.ytimg.com/vi/EPhWR4d3FJQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "Billy Joel", 
+            "link": "plugin.video.youtube/playlist/PLFF4DF6DA67A50D3A", 
+            "thumbnail": "https://i.ytimg.com/vi/hSq4B_zHqPM/hqdefault.jpg", 
+            "fanart": ""
+        },                   
+        {
+            "type": "plugin", 
+            "title": "Beyonce", 
+            "link": "plugin.video.youtube/playlist/PLEPP8FBvYRtpu3oDrrZe-W_DVmvExr267", 
+            "thumbnail": "https://i.ytimg.com/vi/-0wbtk6_vpE/hqdefault.jpg", 
+            "fanart": ""
+        },                        
+        {
+            "type": "plugin", 
+            "title": "Bruno Mars", 
+            "link": "plugin.video.youtube/playlist/PLIhLN7Z5xAvFXp0cqoWPHYt2XR4Q9o_RQ", 
+            "thumbnail": "https://i.ytimg.com/vi/OPf0YbXqDm0/hqdefault.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Bon Jovi", 
+            "link": "plugin.video.youtube/playlist/PLA424057908E96379", 
+            "thumbnail": "https://thehoovercardinal.org/wp-content/uploads/2021/01/Bon-Jovi.jpg", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "Beach Boys", 
+            "link": "plugin.video.youtube/playlist/PLhs-gNJvz5IXl5RpAFFQXb0E46ZQeIIDT", 
+            "thumbnail": "https://cdn.britannica.com/27/198727-050-DE491706/The-Beach-Boys-Al-Jardine-Carl-Wilson.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Beastie Boys", 
+            "link": "plugin.video.youtube/playlist/PL1A8C5629B4CDE805", 
+            "thumbnail": "https://static.independent.co.uk/2021/11/10/11/shutterstock_editorial_8551116b.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Bikini Kill", 
+            "link": "plugin.video.youtube/playlist/PLmx6LOBrJCjptPpIRS0-S_Qc39A-OoI76", 
+            "thumbnail": "https://i8.amplience.net/i/naras/gettyimages-85618261.jpg.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Blink-182", 
+            "link": "plugin.video.youtube/playlist/PLJqePS-bjbVGYXVD15f6bmJzvFAZgaqv8", 
+            "thumbnail": "https://www.billboard.com/wp-content/uploads/2022/11/blink-182-2001-billboard-1548.jpg", 
+            "fanart": ""
+        }
+    ]
+}
