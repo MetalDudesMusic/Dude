@@ -1,0 +1,25 @@
+{
+    "items": [                   
+        {
+            "type": "plugin", 
+            "title": "Drake", 
+            "link": "plugin.video.youtube/playlist/PLvXIAe9fzzc0S2VPzbXzORJ5Ct-1KWOzq", 
+            "thumbnail": "https://i.ytimg.com/vi/7LnBvuzjpr4/hqdefault.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "David Bowie", 
+            "link": "plugin.video.youtube/playlist/PLkRzqIoq7yc3A5-7E6bDlk5PLeJMNfZIi", 
+            "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/10/F6FAGT-1038x778.jpg", 
+            "fanart": ""
+        },           
+        {
+            "type": "plugin", 
+            "title": "Def Leppard", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFv7G2CZp_v2rD-YxoFek5mw", 
+            "thumbnail": "https://www.udiscovermusic.com/wp-content/uploads/2022/08/Def-Leppard-GettyImages-73991295.jpg", 
+            "fanart": ""
+        }
+    ]
+}
