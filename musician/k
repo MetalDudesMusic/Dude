@@ -1,0 +1,25 @@
+{
+    "items": [                                       
+        {
+            "type": "plugin", 
+            "title": "Kenny Rogers", 
+            "link": "plugin.video.youtube/playlist/PL9D739853CAC6903A", 
+            "thumbnail": "https://i.ytimg.com/vi/-pOYoNUsKWA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
+        {
+            "type": "plugin", 
+            "title": "Kenny G", 
+            "link": "plugin.video.youtube/playlist/PL7C7876DAF14DE2F4", 
+            "thumbnail": "https://i.ytimg.com/vi/447yaU_4DF8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Kings of Leon", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFsZKnpTl2yyLvKR4rTjqcvN", 
+            "thumbnail": "https://cdn.mos.cms.futurecdn.net/a2cec968ba235f8de86cd7949b58ad81.jpg", 
+            "fanart": ""
+        }
+    ]
+}
