@@ -1,0 +1,39 @@
+{
+    "items": [                          
+        {
+            "type": "plugin", 
+            "title": "Christina Aguilera", 
+            "link": "plugin.video.youtube/playlist/PLEH_MKt4utKlKiD0EhmQKRLVLuG0mEF_b", 
+            "thumbnail": "https://i.ytimg.com/vi/kIDWgqDBNXA/hqdefault.jpg", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "Creedence Clearwater Revival", 
+            "link": "plugin.video.youtube/playlist/PLtzV2248lUVVzJtztzISYvxBDa0wvA4cU", 
+            "thumbnail": "https://lastfm.freetls.fastly.net/i/u/ar0/4003d0a1c747b9d04972eb9c70230473.jpg", 
+            "fanart": ""
+        },           
+        {
+            "type": "plugin", 
+            "title": "Crosby Stills Nash & Young", 
+            "link": "plugin.video.youtube/playlist/PL177D38A15223DC66", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWE4YmU0NzYtNTk5Ni00ODJjLWFiZGYtYjAxYTg3YzU5ODEwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg", 
+            "fanart": ""
+        },           
+        {
+            "type": "plugin", 
+            "title": "Cheap Trick", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFs5l-JXfMFQUKoLafH2LGNn", 
+            "thumbnail": "https://www.spirit-of-rock.com/les%20goupes/C/Cheap%20Trick/pics/7113_3.jpg", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "Coldplay", 
+            "link": "plugin.video.youtube/playlist/PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU", 
+            "thumbnail": "https://event-images.tixel.com/cdn-cgi/image/width=600,format=auto/media/images/b33e013fc9637204c7ab45b1b44df735_1585498836_5897_l.jpg", 
+            "fanart": ""
+        }
+    ]
+} 
