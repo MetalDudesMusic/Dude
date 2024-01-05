@@ -1,0 +1,18 @@
+{
+    "items": [         
+        {
+            "type": "plugin", 
+            "title": "Iron Maiden", 
+            "link": "plugin.video.youtube/playlist/PL171A6536C5FDFD95", 
+            "thumbnail": "https://cdn.apollo.audio/one/media/640a/fe48/4ea1/2205/e6f8/2d0e/iron-maiden-header.jpg", 
+            "fanart": ""
+        },       
+        {
+            "type": "plugin", 
+            "title": "INXS", 
+            "link": "plugin.video.youtube/playlist/PLD34CC157066B4E3E", 
+            "thumbnail": "https://d10j3mvrs1suex.cloudfront.net/s:bzglfiles/u/127550/b5464d6686cf6b053e0aff56ec9f57a8f94ba464/original/inxs-kick2.jpg/!!/b%3AW1sic2l6ZSIsInBob3RvIl1d/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg", 
+            "fanart": ""
+        }
+    ]
+}
