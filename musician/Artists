@@ -17,14 +17,42 @@
         {
             "type": "dir", 
             "title": "C Artists", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/a", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/c", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
             "title": "D Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/d", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "dir", 
+            "title": "A Artists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/a", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "dir", 
+            "title": "B Artists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/b", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "dir", 
+            "title": "C Artists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/c", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "dir", 
+            "title": "D Artists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/d", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
