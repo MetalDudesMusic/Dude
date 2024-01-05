@@ -1,0 +1,53 @@
+{
+    "items": [                
+        {
+            "type": "plugin", 
+            "title": "George Strait", 
+            "link": "plugin.video.youtube/playlist/PL46353F3C93839689", 
+            "thumbnail": "https://i.ytimg.com/vi/9jJf-p6RYvo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": "Guns N Roses", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFtxSH5pbVxCV7B-wWsA7KZh", 
+            "thumbnail": "https://www.azcentral.com/gcdn/-mm-/496b4a61c87eeb9d1479f8c1774146c13fb325c3/c=160-0-1120-960/local/-/media/2016/08/12/Phoenix/Phoenix/636066102766755546-guns-n-roses.jpg", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "Grateful Dead", 
+            "link": "plugin.video.youtube/playlist/PLD813B9E40CEDFB48", 
+            "thumbnail": "https://i.scdn.co/image/4c000d838221db17a95ec272d79c06560829ab11", 
+            "fanart": ""
+        },                  
+        {
+            "type": "plugin", 
+            "title": "Garth Brooks", 
+            "link": "plugin.video.youtube/playlist/PLIiI4TlOIndejbvW1uFfUtcPwTQyGhdFf", 
+            "thumbnail": "https://i.ytimg.com/vi/7mHJaQpgTMY/hqdefault.jpg", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "Genesis", 
+            "link": "plugin.video.youtube/playlist/PLWnwFAnZO1AGhzxUm4YlbW7ex-33vazOT", 
+            "thumbnail": "https://cdn.britannica.com/29/102829-050-7945D19B/Genesis-Peter-Gabriel-Tony-Banks-Phil-Collins-1974.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Green Day", 
+            "link": "plugin.video.youtube/playlist/PL81_CtYCym28CNGzLEMVBl-RVgMPTu-2j", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-7276-20121007-greenday-env-thumb-624x420-1349717589.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Garbage", 
+            "link": "plugin.video.youtube/playlist/PL14984BC8FC29AD81", 
+            "thumbnail": "https://f5q7q5p2.rocketcdn.me/wp-content/uploads/Garbage-later-1024x768.jpg", 
+            "fanart": ""
+        }
+    ]
+}
