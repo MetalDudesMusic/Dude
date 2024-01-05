@@ -41,6 +41,13 @@
             "link": "plugin.video.youtube/playlist/PLIhLN7Z5xAvFXp0cqoWPHYt2XR4Q9o_RQ", 
             "thumbnail": "https://i.ytimg.com/vi/OPf0YbXqDm0/hqdefault.jpg", 
             "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Black Sabbath", 
+            "link": "plugin.video.youtube/playlist/PLVgGT_m10yKIIcafib3W7rSDYLxQMgBMB", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-225449-94171748_.jpg", 
+            "fanart": ""
         },         
         {
             "type": "plugin", 
