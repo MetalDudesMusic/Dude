@@ -1,0 +1,39 @@
+{
+    "items": [           
+        {
+            "type": "plugin", 
+            "title": "Elvis Presley", 
+            "link": "plugin.video.youtube/playlist/PL9MhbRaJbYGw6SDNeNFIYxjUWYbebaIIq", 
+            "thumbnail": "https://i.ytimg.com/vi/KivXimwRgnY/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Ed Sheeran", 
+            "link": "plugin.video.youtube/playlist/PLH583WMsSz85HljEkmsdJeF4-OWjwg6By", 
+            "thumbnail": "https://i.ytimg.com/vi/Ix9NXVIbm2A/hqdefault.jpg", 
+            "fanart": ""
+        },                          
+        {
+            "type": "plugin", 
+            "title": "Elton John", 
+            "link": "plugin.video.youtube/playlist/PLA910D381CD5AF74E", 
+            "thumbnail": "https://i.ytimg.com/vi/mBCVEcjScTQ/hqdefault.jpg", 
+            "fanart": ""
+        },            
+        {
+            "type": "plugin", 
+            "title": "EAGLES Live performances and some of the best songs", 
+            "link": "plugin.video.youtube/playlist/PLN9SUYQxOsCf7M7upaSc_-4xgJJLZiqgb", 
+            "thumbnail": "https://cdn.britannica.com/50/198850-050-46C563B5/Eagles-Bernie-Leadon-Don-Henley-Glenn-Frey.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Electric Light Orchestra", 
+            "link": "plugin.video.youtube/playlist/PLFcimSxlIkhxLXWsWkTa0y6p5BroAINhH", 
+            "thumbnail": "https://static.wikia.nocookie.net/pikminjake/images/8/8f/ELO.jpg", 
+            "fanart": ""
+        }
+    ]
+}
