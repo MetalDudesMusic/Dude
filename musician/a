@@ -1,0 +1,37 @@
+{
+    "items": [                                  
+        {
+            "type": "plugin", 
+            "title": "Alabama", 
+            "link": "plugin.video.youtube/playlist/PLFB058AC03D22A4D9", 
+            "thumbnail": "https://i.ytimg.com/vi/lHdXQAQHjd8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "AC/DC", 
+            "link": "plugin.video.youtube/playlist/PLQlc99hV-nkGWDaG-gJxwOfqp8jxyHaaQ", 
+            "thumbnail": "https://i.pinimg.com/736x/90/8f/38/908f38421a9ac5c7b24652ccc9177c6b.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2000-2009", 
+            "link": "plugin.video.youtube/playlist/PL6Lt9p1lIRZ311J9ZHuzkR5A3xesae2pk", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Foo_Fighters_-_Southside_Festival_2019_4184_-_1.jpg/800px-Foo_Fighters_-_Southside_Festival_2019_4184_-_1.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2010-2019", 
+            "link": "plugin.video.youtube/playlist/PL6Lt9p1lIRZ3m2X1Ur8ykG1XRGPFsTsbD", 
+            "thumbnail": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/pwtr6y7rm9sgtdorufye.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2020s", 
+            "link": "plugin.video.youtube/playlist/PL3gBudnUJUexS90-84IwbCjZf83CU2GTI", 
+            "thumbnail": "https://www.nme.com/wp-content/uploads/2020/01/SocialContract_Press_Credit_MatildaHill-Jenkins.jpg", 
+            "fanart": ""
+        }, 
