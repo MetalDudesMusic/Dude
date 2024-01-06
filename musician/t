@@ -1,0 +1,172 @@
+{
+    "items": [        
+        {
+            "type": "plugin", 
+            "title": "Tom MacDonald", 
+            "link": "plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZiYjU5ODktNzIxNC00NDg1LTlhNzktNDY1OTgxNmEyMWZkXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_FMjpg_UX1000_.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Beatles", 
+            "link": "plugin.video.youtube/playlist/PL0jp-uZ7a4g9FQWW5R_u0pz4yzV4RiOXu", 
+            "thumbnail": "https://cdn.britannica.com/18/136518-050-CD0E49C6/The-Beatles-Ringo-Starr-Paul-McCartney-George.jpg", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "The Jimi Hendrix Experience", 
+            "link": "plugin.video.youtube/playlist/PLEjD5gC6S-fAjJ2xqdcX0Z2vbzq4vnBIU", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjQwNzMzOGUtYmVkMS00ZmUxLWEwMDAtMWRmYTczZjQ3NWU3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_FMjpg_UX1000_.jpg", 
+            "fanart": ""
+        },                      
+        {
+            "type": "plugin", 
+            "title": "Taylor Swift", 
+            "link": "plugin.video.youtube/playlist/PLdnEKz0ib5DD8X0JeJ9MgbTLKNESWNlRe", 
+            "thumbnail": "https://i.ytimg.com/vi/VuNIsY6JdUw/hqdefault.jpg", 
+            "fanart": ""
+        },       
+        {
+            "type": "plugin", 
+            "title": "The Cure", 
+            "link": "plugin.video.youtube/playlist/PLOhQmxfeqIZVF26JqIeF3uFhp2ASc6-el", 
+            "thumbnail": "https://guitar.com/wp-content/uploads/2022/02/The-Cure-Credit-Vinnie-Zuffante-Michael-Ochs-Archives-Getty-Images@2000x1500.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Allman Brothers Band", 
+            "link": "plugin.video.youtube/playlist/PLVfOQW9L0XbGIySHs5uWdYHV_6ixerb36", 
+            "thumbnail": "https://cdns-images.dzcdn.net/images/artist/e6e510685a90247006b49a3bc5fbfc48/500x500.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "The Who", 
+            "link": "plugin.video.youtube/playlist/PLB2359E68D19BA3C0", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Who_in_1965.png/220px-The_Who_in_1965.png", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "The Ultimate Prince Playlist!", 
+            "link": "plugin.video.youtube/playlist/PL5uLaJGLPi3wb1PMCcWsByeS_erZG2RQI", 
+            "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/prince-prince-performing-on-stage---purple-rain-tour-photo-by-richard-e-aaronredferns2.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Kinks", 
+            "link": "plugin.video.youtube/playlist/RDCLAK5uy_lw7Yui8Bt-pnt3L4D3dP1M6jrdg6k57Bo", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/88/Helmfrid-sofa4_Touched.JPG", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "Tom Petty and the Heartbreakers", 
+            "link": "plugin.video.youtube/playlist/PL4_zotuuu4206U2bo1vncUELSwv_z7-lG", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdkYjRhNDAtMjA0YS00YzkxLWEyZDYtMzI5YTgzMmNlZTRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "THE DOORS", 
+            "link": "plugin.video.youtube/playlist/PL1B99DB6CAB98504E", 
+            "thumbnail": "https://www.progarchives.com/progressive_rock_discography_band/2772.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Clash", 
+            "link": "plugin.video.youtube/playlist/PLiN-7mukU_REtAHsIYJKInCIfCpNSPdN6", 
+            "thumbnail": "https://www.goldminemag.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4MzU1MTAyNzYxNDI4OTUw/clash_color.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "The Police", 
+            "link": "plugin.video.youtube/playlist/PL51EAA4AAF6A856B7", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjU0ZjU1OTUtODY0Zi00MGIzLTg0YmQtYTkzNDQ4OTBhNWIyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Talking Heads", 
+            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9NcCyvuZgkx7AaHOsclPkMxk", 
+            "thumbnail": "https://cdn.britannica.com/77/23077-004-0CBB25DF/Talking-Heads.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "THE STOOGES", 
+            "link": "plugin.video.youtube/playlist/PLAtB65HqXWtR9q1pL9Po4GWc6MBVJ8H1H", 
+            "thumbnail": "https://www.wsupress.wayne.edu/sites/default/files/Fig%2011.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Runaways", 
+            "link": "plugin.video.youtube/playlist/PL2388661D983C74CB", 
+            "thumbnail": "https://static01.nyt.com/images/2010/03/14/arts/14runaways-span/14runaways-span-articleLarge.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "The White Stripes", 
+            "link": "plugin.video.youtube/playlist/PLAC9127A72919F8DC", 
+            "thumbnail": "https://www.juxtapoz.com/images/Evan%20Pricco/2019/7July2019/White_Stripes_Elephant.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Replacements", 
+            "link": "plugin.video.youtube/playlist/PL51_Y8Mo98alGMof7KiMu-sW4V3iyMqbG", 
+            "thumbnail": "https://media2.inlander.com/inlander/imager/u/blog/20330135/music1-1-c065724307f2b25c.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "The Killers", 
+            "link": "plugin.video.youtube/playlist/PL4B2325FF6E3D0D12", 
+            "thumbnail": "https://i.ytimg.com/vi/gGdGFtwCNBE/maxresdefault.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "The Go-Gos - Belinda Carlisle", 
+            "link": "plugin.video.youtube/playlist/PL6uSNQuiliVjQEKYQ7EOnt01hOK5D0pNI", 
+            "thumbnail": "https://cdn.britannica.com/17/243917-050-23287480/The-Go-Gos-girl-band-1985.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "The Cars", 
+            "link": "plugin.video.youtube/playlist/PLmXxqSJJq-yVaHK-syRnvV74wOEGF4Idy", 
+            "thumbnail": "https://ychef.files.bbci.co.uk/live/624x351/p07nn7z1.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Cranberries", 
+            "link": "plugin.video.youtube/playlist/PLWtysTkuEQDNxgO5wJvl11Y6EE8p5XCIt", 
+            "thumbnail": "https://sungenre.com/wp-content/uploads/ultimatemember/376/profile_photo.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Toto", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFsBg9ueOCuklhCD54kAVH1M", 
+            "thumbnail": "https://static.tvtropes.org/pmwiki/pub/images/toto_old_copy.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "The Pixies", 
+            "link": "plugin.video.youtube/playlist/PLC_KiPJJicIB8XhB6jJNFPAxAOckiyY0L", 
+            "thumbnail": "https://i.pinimg.com/736x/67/d4/41/67d441582eee2d06f94baa1de75005cb.jpg", 
+            "fanart": ""
+        } 
+    ]
+}
