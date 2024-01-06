@@ -87,20 +87,20 @@
         {
             "type": "dir", 
             "title": "M Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/m", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
             "title": "N Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/n", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
-            "title": "O Artists", 
+            "title": "O Artists NONE YET", 
             "link": "", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
@@ -108,21 +108,21 @@
         {
             "type": "dir", 
             "title": "P Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/p", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
             "title": "Q Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/q", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
             "title": "R Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/r", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
