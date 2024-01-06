@@ -1,0 +1,25 @@
+{
+    "items": [         
+        {
+            "type": "plugin", 
+            "title": "Upchurch", 
+            "link": "plugin.video.youtube/playlist/PL0dDlKSElceFt3nYNotFqfx9rwV6PreLB", 
+            "thumbnail": "https://iscale.iheart.com/catalog/artist/30611580", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Ultimate Eminem Mix", 
+            "link": "plugin.video.youtube/playlist/PL1l2ekK_5Up3ByUDejiaawH2fNLbSZIx5", 
+            "thumbnail": "https://media.npr.org/assets/music/news/2010/06/eminem-52893634f7c035450a7b5ff2e040cacb4012395e-s1100-c50.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "U2", 
+            "link": "plugin.video.youtube/playlist/PLB4BE66B01E4887BB", 
+            "thumbnail": "https://www.billboard.com/wp-content/uploads/2023/04/U2-cr-Helena-Christensen-billboard-1548.jpg", 
+            "fanart": ""
+        }
+    ]
+}
