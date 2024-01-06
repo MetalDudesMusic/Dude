@@ -1,0 +1,11 @@
+{
+    "items": [          
+        {
+            "type": "plugin", 
+            "title": "Queen", 
+            "link": "plugin.video.youtube/playlist/PL2tMgWgIvcWmjs4i6DcXm7YmjPlTXUl9E", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI4OTIwNDAxMF5BMl5BanBnXkFtZTgwOTkzOTAyODE@._V1_.jpg", 
+            "fanart": ""
+        }
+    ]
+}
