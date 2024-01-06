@@ -1,9 +1,11 @@
 {
-    "items": [
+    "items": [         
         {
             "type": "plugin", 
-            "title": "80s Hard Rock & Hair Metal Hits", 
-            "link": "plugin.video.youtube/playlist/PLmXxqSJJq-yVWpRFGImHYZBQTuBGLjG4t", 
-            "thumbnail": "https://i.ytimg.com/vi/WyF8RHM1OCg/hqdefault.jpg", 
+            "title": "3 Doors Down", 
+            "link": "plugin.video.youtube/playlist/PLE8882827DC004972", 
+            "thumbnail": "https://www.songwritingmagazine.co.uk/wp-content/uploads/3-doors-down-1-by-dove-shore.jpg.webp", 
             "fanart": ""
-        }, 
+        }
+    ]
+}
