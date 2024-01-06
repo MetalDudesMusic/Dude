@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "item", 
+            "title": "Deep Purple Live in Europe 1993 4CD Edition", 
+            "link": "https://www.youtube.com/watch?v=jW4n_0cN2yQ", 
+            "thumbnail": "https://images.45worlds.com/f/cd/deep-purple-hnecd024d-2-cd.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
             "title": "Deep Purple live in 1993", 
             "link": "https://www.youtube.com/watch?v=jmk26wwhwbo", 
             "thumbnail": "https://i.ytimg.com/vi/doY8eabZiHI/maxresdefault.jpg", 
