@@ -1,0 +1,46 @@
+{
+    "items": [                                
+        {
+            "type": "plugin", 
+            "title": "Neil Diamond", 
+            "link": "plugin.video.youtube/playlist/PLRopznIfpLoPgiqAa0i2BhWViTXO5yBmf", 
+            "thumbnail": "https://i.ytimg.com/vi/nM_7ZeUmS-8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "Nicki Minaj", 
+            "link": "plugin.video.youtube/playlist/PL3j4rgUz7939Y9PMZAfIvPxDCbOGl_Kvf", 
+            "thumbnail": "https://i.ytimg.com/vi/LDZX4ooRsWs/hqdefault.jpg", 
+            "fanart": ""
+        },        
+        {
+            "type": "plugin", 
+            "title": "N.W.A. - All Their Songs", 
+            "link": "plugin.video.youtube/playlist/PLideJWc8vR0H7VPVtMnK-5iNyw4DCXcal", 
+            "thumbnail": "https://cdns-images.dzcdn.net/images/artist/8255886bcd9442e3d385ff054ef04245/500x500.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Nirvana", 
+            "link": "plugin.video.youtube/playlist/PLmoa95rrVksZ97QUoXhZVVsYZa3dcozTp", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-nirvana-e9e22e4b-f7d9-4fc7-bd94-23c30084ce94.jpg", 
+            "fanart": ""
+        },           
+        {
+            "type": "plugin", 
+            "title": "Nine Inch Nails", 
+            "link": "plugin.video.youtube/playlist/PL5AE2DCEE06CFE4AA", 
+            "thumbnail": "https://cdn.shopify.com/s/files/1/0015/0840/9399/files/nine-inch-nails-80s.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "No Doubt - Gwen Stefani", 
+            "link": "plugin.video.youtube/playlist/PLrKMiVh6uoiJJ92beCveEbnpIGMonNyvS", 
+            "thumbnail": "https://cdns-images.dzcdn.net/images/artist/eab30d828f05c2ec5d1e6c2d05b2c2a7/500x500.jpg", 
+            "fanart": ""
+        }
+    ]
+}
