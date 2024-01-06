@@ -1,2 +1,88 @@
 {
-    "items": [ 
+    "items": [                       
+        {
+            "type": "plugin", 
+            "title": "Shania Twain", 
+            "link": "plugin.video.youtube/playlist/PLEH_MKt4utKlB-ts75mjlztpKqiKbRyqy", 
+            "thumbnail": "https://i.ytimg.com/vi/GMul1ZBdRmc/hqdefault.jpg", 
+            "fanart": ""
+        },                         
+        {
+            "type": "plugin", 
+            "title": "Shakira", 
+            "link": "plugin.video.youtube/playlist/PL4324C6BD2E9BA7F8", 
+            "thumbnail": "https://i.ytimg.com/vi/6Mgqbai3fKo/hqdefault.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Steve Miller Band", 
+            "link": "plugin.video.youtube/playlist/PL2myD0mnnO91DtAg2jDPzW6ojwU1muP5z", 
+            "thumbnail": "https://www.udiscovermusic.com/wp-content/uploads/2021/10/Steve-Miller-Band-GettyImages-84999776-1000x600.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Sly & The Family Stone", 
+            "link": "plugin.video.youtube/playlist/PLiKtJ6o0GOY7cBn7EKOyvBjCb8yXcCC-w", 
+            "thumbnail": "https://static.tvtropes.org/pmwiki/pub/images/sly_and_the_family_stone_1969_promo.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Steely Dan", 
+            "link": "plugin.video.youtube/playlist/PLe8Z_l5Ergd0_7h2G8DEIjjMHCMByCK7t", 
+            "thumbnail": "https://cdn.britannica.com/45/23345-004-37717395/Steely-Dan-1977.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Smashing Pumpkins", 
+            "link": "plugin.video.youtube/playlist/PL7zrnXIkwlVypkCzwbSBpSIrdNWPDqfe1", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmNlOWZkMGItNGNmMS00NzhmLTkyY2YtYWQ4ZWI5NmQzOGExXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Soundgarden", 
+            "link": "plugin.video.youtube/playlist/PLyVhNY-g2JDjYvQzN1SLYN92XOve9rF0Z", 
+            "thumbnail": "https://www.billboard.com/wp-content/uploads/stylus/2625999-soundgarden-michael-lavine-617-409.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Santana", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFv6RZzbHM_M3vChUW15yXSz", 
+            "thumbnail": "https://cdn.britannica.com/41/74841-050-7F506B51/Carlos-Santana-2000.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Slayer", 
+            "link": "plugin.video.youtube/playlist/PLVgGT_m10yKKj4rwdiE2xwrKIfnC-cVay", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjk0ZmY4ZWItODNhZi00ZDM5LTk2ZTgtMDFhMzcxMWM1ZmMzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Sonic Youth", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFupM3aRLllJuW3Yz4MxbrZk", 
+            "thumbnail": "https://media.pitchfork.com/photos/6230a0d3d53e7900ece6fecf/master/w_1600%2Cc_limit/syinline1.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Siouxsie and the Banshees", 
+            "link": "plugin.video.youtube/playlist/PLC_KiPJJicIDvGXbP_ks9MrumJ5T9RLVH", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2JlYzhhNjktNzNjMC00NjM3LWIyZTgtOWIyODkzN2EwOTQ3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Stone Temple Pilots", 
+            "link": "plugin.video.youtube/playlist/PLFxMph_JHJZyQHUJb0udwrRG2jqek7zVV", 
+            "thumbnail": "https://www.billboard.com/wp-content/uploads/media/stone-temple-pilots-1994-Chris-Cuffaro-b-billboard-1548.jpg", 
+            "fanart": ""
+        }
+    ]
+}
