@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "dir", 
+            "title": "0-9 Artists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/0-9", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "dir", 
             "title": "A Artists", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/a", 
             "thumbnail": "", 
@@ -101,7 +108,7 @@
         {
             "type": "dir", 
             "title": "O Artists NONE YET", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/o", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
@@ -129,56 +136,56 @@
         {
             "type": "dir", 
             "title": "S Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/s", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
             "title": "T Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/t", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
             "title": "U Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/u", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
             "title": "V Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/v", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
             "title": "W Artists", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/w", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
-            "title": "X Artists", 
-            "link": "", 
+            "title": "X Artists NONE YET", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/x", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
-            "title": "Y Artists", 
-            "link": "", 
+            "title": "Y Artists NONE YET", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/y", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
-            "title": "Z Artists", 
-            "link": "", 
+            "title": "Z Artists NONE YET", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/z", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
