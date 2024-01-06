@@ -2,6 +2,41 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "80s Hard Rock & Hair Metal Hits", 
+            "link": "plugin.video.youtube/playlist/PLmXxqSJJq-yVWpRFGImHYZBQTuBGLjG4t", 
+            "thumbnail": "https://i.ytimg.com/vi/WyF8RHM1OCg/hqdefault.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "90s Alternative Rock Grunge", 
+            "link": "plugin.video.youtube/playlist/PLD58ECddxRngHs9gZPQWOCAKwV1hTtYe4", 
+            "thumbnail": "https://static.tumblr.com/51b14b7ee48b415e9865d4f89e27c10a/26hywbh/9w3nu4bsz/tumblr_static_wwthje1xg00wgoowg00w8wcs_2048_v2.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2000-2009", 
+            "link": "plugin.video.youtube/playlist/PL6Lt9p1lIRZ311J9ZHuzkR5A3xesae2pk", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Foo_Fighters_-_Southside_Festival_2019_4184_-_1.jpg/800px-Foo_Fighters_-_Southside_Festival_2019_4184_-_1.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2010-2019", 
+            "link": "plugin.video.youtube/playlist/PL6Lt9p1lIRZ3m2X1Ur8ykG1XRGPFsTsbD", 
+            "thumbnail": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/pwtr6y7rm9sgtdorufye.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2020s", 
+            "link": "plugin.video.youtube/playlist/PL3gBudnUJUexS90-84IwbCjZf83CU2GTI", 
+            "thumbnail": "https://www.nme.com/wp-content/uploads/2020/01/SocialContract_Press_Credit_MatildaHill-Jenkins.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
             "title": "Christmas Holiday Playlist YT", 
             "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7MxJyTNj_Y3YnEAQ9PsA28", 
             "thumbnail": "https://i.ytimg.com/vi/IfRWtKuepDM/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4OgAK4CIoCDAgAEAEYfyATKB4wDw==&rs=AOn4CLBR2P8ogYXZGi8cr7ugu3En2ZmUkQ", 
