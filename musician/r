@@ -1,0 +1,60 @@
+{
+    "items": [          
+        {
+            "type": "plugin", 
+            "title": "Rolling Stones", 
+            "link": "plugin.video.youtube/playlist/PLNav38spIZE4tpahnCBoXIp6xFZQYY9eV", 
+            "thumbnail": "https://cdn.britannica.com/41/197341-050-4859B808/The-Rolling-Stones-Bill-Wyman-Keith-Richards-1964.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Ramones", 
+            "link": "plugin.video.youtube/playlist/PL133AF799150D0983", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-226789-BPW2FR.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "R.E.M.", 
+            "link": "plugin.video.youtube/playlist/PLC7B9C3CEACF3407A", 
+            "thumbnail": "https://cdn.britannica.com/19/246519-050-B3A607CE/Photo-of-REM-band-members.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Rush", 
+            "link": "plugin.video.youtube/playlist/PLyzOXHX-1l7dNOm_KqOqM9q-W76gVPclW", 
+            "thumbnail": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2013/08/rush.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Red Hot Chili Peppers", 
+            "link": "plugin.video.youtube/playlist/PL1343579D67ED4740", 
+            "thumbnail": "https://variety.com/wp-content/uploads/2022/03/Red-Hot-Chili-Peppers-Walk-of-Fame.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "REO Speedwagon", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFtsJ2sC7k7W8I-B2xFEESIb", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGUwMDM0OWUtYmIzZi00OTlmLWEzZDgtZmU2MWNhYWIxM2UxXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_FMjpg_UX1000_.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Radiohead", 
+            "link": "plugin.video.youtube/playlist/PLukmsaXDPJie7L7Ihn63HJhA6YMp7tUUr", 
+            "thumbnail": "https://uw.edu/news/archive/images/20090507_pid49558_aid49553_radio_w400.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Rage Against the Machine", 
+            "link": "plugin.video.youtube/playlist/PLPbCXiOeC78e8BzAq3R7nHHWoqvXXYN53", 
+            "thumbnail": "https://i8.amplience.net/i/naras/Rage%20Against%20The%20Machine_1992.jpg", 
+            "fanart": ""
+        }
+    ]
+}
