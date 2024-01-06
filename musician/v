@@ -1,0 +1,25 @@
+{
+    "items": [         
+        {
+            "type": "plugin", 
+            "title": "Van Halen", 
+            "link": "plugin.video.youtube/playlist/PLXSlB4yMaoJt0a3U3L0mCfkBl8E9Fb80e", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2020/10/van-halen-charts.jpg", 
+            "fanart": ""
+        },           
+        {
+            "type": "plugin", 
+            "title": "Veruca Salt", 
+            "link": "plugin.video.youtube/playlist/PLw405kull-J2j7dlj6RRb2CX2O_yJ608q", 
+            "thumbnail": "https://traceypepper.com/wp-content/uploads/2020/06/vs-adyer6-1024x701-1.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "Velvet Underground & Members", 
+            "link": "plugin.video.youtube/playlist/PLHahHqCn1CvnzGhEtdbe6TxMDq3ez_iuZ", 
+            "thumbnail": "https://magazine-resources.tidal.com/uploads/2020/11/velvets_resized-1280x982.jpg", 
+            "fanart": ""
+        } 
+    ]
+}
