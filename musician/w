@@ -1,0 +1,11 @@
+{
+    "items": [                                 
+        {
+            "type": "plugin", 
+            "title": "Whitney Houston", 
+            "link": "plugin.video.youtube/playlist/PLA107D57396828C61", 
+            "thumbnail": "https://i.ytimg.com/vi/3JWTaaS7LdU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
