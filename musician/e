@@ -1,5 +1,54 @@
 {
-    "items": [           
+    "items": [                                 
+        {
+            "type": "plugin", 
+            "title": "EDDIE COCHRAN", 
+            "link": "plugin.video.youtube/playlist/PLcSYf7ip_VP-Ok4Hrlmo2OqW_ku5KTioL", 
+            "thumbnail": "https://i.ytimg.com/vi/hw8MXhFupno/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                        
+        {
+            "type": "plugin", 
+            "title": "Echo And The Bunnymen", 
+            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9NdEOWN_giQrXyDzO8Jeh4SX", 
+            "thumbnail": "https://i.ytimg.com/vi/LWz0JC7afNQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                   
+        {
+            "type": "plugin", 
+            "title": "Easybeats", 
+            "link": "plugin.video.youtube/playlist/PLNre918LkiEL3zNgVa7d1pMmsDK9-ZypF", 
+            "thumbnail": "https://i.ytimg.com/vi/UcWVCloTUFE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                
+        {
+            "type": "plugin", 
+            "title": "East 17", 
+            "link": "plugin.video.youtube/playlist/PL1xm0HhIaKcGvHcPO4Gg3gOetITbg-4In", 
+            "thumbnail": "https://i.ytimg.com/vi/-wNhdjoF-6M/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                 
+        {
+            "type": "plugin", 
+            "title": "Earth Wind & Fire", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFsfzcVDPe-zXLtAfprf9Gut", 
+            "thumbnail": "https://i.ytimg.com/vi/god7hAPv8f0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },               
+        {
+            "type": "plugin", 
+            "title": "Eamon", 
+            "link": "plugin.video.youtube/playlist/PLaqwGYD_Je646T00b5Zj4LjsqvBEo0umU", 
+            "thumbnail": "https://i.ytimg.com/vi/1FXQOfM-mIY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "Evanescence", 
+            "link": "plugin.video.youtube/playlist/PL3DF195124B30541F", 
+            "thumbnail": "https://i.ytimg.com/vi/KivXimwRgnY/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
         {
             "type": "plugin", 
             "title": "Elvis Presley", 
@@ -12,28 +61,84 @@
             "title": "Ed Sheeran", 
             "link": "plugin.video.youtube/playlist/PLH583WMsSz85HljEkmsdJeF4-OWjwg6By", 
             "thumbnail": "https://i.ytimg.com/vi/Ix9NXVIbm2A/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                          
         {
             "type": "plugin", 
             "title": "Elton John", 
             "link": "plugin.video.youtube/playlist/PLA910D381CD5AF74E", 
             "thumbnail": "https://i.ytimg.com/vi/mBCVEcjScTQ/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },            
         {
             "type": "plugin", 
             "title": "EAGLES Live performances and some of the best songs", 
             "link": "plugin.video.youtube/playlist/PLN9SUYQxOsCf7M7upaSc_-4xgJJLZiqgb", 
             "thumbnail": "https://cdn.britannica.com/50/198850-050-46C563B5/Eagles-Bernie-Leadon-Don-Henley-Glenn-Frey.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },         
         {
             "type": "plugin", 
             "title": "Electric Light Orchestra", 
             "link": "plugin.video.youtube/playlist/PLFcimSxlIkhxLXWsWkTa0y6p5BroAINhH", 
             "thumbnail": "https://static.wikia.nocookie.net/pikminjake/images/8/8f/ELO.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Eddie Money", 
+            "link": "plugin.video.youtube/playlist/PLaQfiri4jKsmtcfryPWeWMSeqI0HzIwyT", 
+            "thumbnail": "https://i.ytimg.com/vi/ywDRaIPc2YE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Eddie Murphy LOL", 
+            "link": "plugin.video.youtube/playlist/PLN6jq8RUNHSWsq_N7PR6aeLze9H3Qqdbx", 
+            "thumbnail": "https://i.ytimg.com/vi/iWa-6g-TbgI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Eddie Rabbitt", 
+            "link": "plugin.video.youtube/playlist/PL0X3Zja-NB3JKcVgLZzYavx5jwodjMQVh", 
+            "thumbnail": "https://i.ytimg.com/vi/jtLrTrjwzLo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Eddy Grant", 
+            "link": "plugin.video.youtube/playlist/PL5C9501A378FAA476", 
+            "thumbnail": "https://i.ytimg.com/vi/9de6jeOevi8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Eiffel 65", 
+            "link": "plugin.video.youtube/playlist/PL70E11202486AA7AD", 
+            "thumbnail": "https://i.ytimg.com/vi/zQ6HBbyJR34/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Elvis Costello", 
+            "link": "plugin.video.youtube/playlist/PLpVS-EirdhxbqWdWdS3YzTg7SARsPiBMv", 
+            "thumbnail": "https://i.ytimg.com/vi/V1d4r9awjKE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Enya", 
+            "link": "plugin.video.youtube/playlist/PL987071C2963B7058", 
+            "thumbnail": "https://i.ytimg.com/vi/Jl8iYAo90pE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Erasure", 
+            "link": "plugin.video.youtube/PLyQy-tokPWDAPcdPankt4CYCZnmlTeFab", 
+            "thumbnail": "https://i.ytimg.com/vi/ZX0VJhrw01w/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
