@@ -1,5 +1,138 @@
 {
-    "items": [          
+    "items": [       
+        {
+            "type": "plugin", 
+            "title": "Top Music - 70s 80s 90s Music Greatest Hits", 
+            "link": "plugin.video.youtube/playlist/PLUEG9cVdox9JmpwQW5n4WABXVJvNebVCf",
+            "thumbnail": "https://i.ytimg.com/vi/-ln1U4zsLRM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "plugin", 
+            "title": "K e n n y R o g e r s Greatest Hits Billboard Hot 100 Popular Music Hits Of All Time", 
+            "link": "plugin.video.youtube/playlist/PLUEG9cVdox9I2ebyt5tNCCqLX-sJfJ5lW",
+            "thumbnail": "https://i.ytimg.com/vi/LHd1FURsYrA/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "item", 
+            "title": "G r e e n D a y Greatest Hits 80s 90s - The Best of G r e e n D a y Love Songs Of All Time", 
+            "link": "https://www.youtube.com/watch?v=-ln1U4zsLRM", 
+            "thumbnail": "https://i.ytimg.com/vi/l1MPteIqZKs/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "item", 
+            "title": "DJ DISCO REMIX 2023 - Mashups & Remixes of Popular Songs 2023", 
+            "link": "https://www.youtube.com/watch?v=e8IQeI0u1qk", 
+            "thumbnail": "https://i.ytimg.com/vi/_8Xa0nbP46M/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "item", 
+            "title": "3 HOURS SUPERTRAMP SONGS - VINYL SOUND", 
+            "link": "https://www.youtube.com/watch?v=257GFVidHiQ", 
+            "thumbnail": "https://i.ytimg.com/vi/257GFVidHiQ/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "item", 
+            "title": "Reggae Instrumental Mix - Vol 3 - Relax and unwind", 
+            "link": "https://www.youtube.com/watch?v=s0t8jiSIiNw", 
+            "thumbnail": "https://i.ytimg.com/vi/s0t8jiSIiNw/sddefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "item", 
+            "title": "Greatest Hits 1980s Oldies But Goodies Of All Time Best Songs Of 80s Music Hits Playlist Ever", 
+            "link": "https://www.youtube.com/watch?v=HZ5VzNdExTA", 
+            "thumbnail": "https://i.ytimg.com/vi/HZ5VzNdExTA/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "item", 
+            "title": "Rag'n'Bone - Rag'n'Bone Man Album", 
+            "link": "https://www.youtube.com/watch?v=xGU7E5QDtkk", 
+            "thumbnail": "https://i.ytimg.com/vi/Yx340UzdPyo/sddefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "item", 
+            "title": "Best Rock Songs - Video Mix", 
+            "link": "https://www.youtube.com/watch?v=O5290Sf8zhA", 
+            "thumbnail": "https://i.ytimg.com/vi/O5290Sf8zhA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "item", 
+            "title": "The Best Of Leo Rojas Leo Rojas Greatest Hits Full Album 2017", 
+            "link": "https://www.youtube.com/watch?v=gVwJfyINmq4", 
+            "thumbnail": "https://i.ytimg.com/vi/gVwJfyINmq4/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },    
+        {
+            "type": "item", 
+            "title": "THE AUSTRALIAN PINK FLOYD - FULL SHOW", 
+            "link": "https://www.youtube.com/watch?v=6SLxeck02mU", 
+            "thumbnail": "https://i.ytimg.com/vi/6SLxeck02mU/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }, 
+        {
+            "type": "item", 
+            "title": "Enigma 2023 Best song", 
+            "link": "https://www.youtube.com/watch?v=xhuFX9InMQA", 
+            "thumbnail": "https://i.ytimg.com/vi/xhuFX9InMQA/mqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "Pink Floyd Greatest Hits ~ Best Songs Of 80s 90s Old Music Hits Collection", 
+            "link": "https://www.youtube.com/watch?v=xVtFVRofVng", 
+            "thumbnail": "https://i.ytimg.com/vi/xVtFVRofVng/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }, 
+        {
+            "type": "item", 
+            "title": "BBC Radio 1 Ibiza Prom Live From The Royal Albert Hall", 
+            "link": "https://www.youtube.com/watch?v=g1LaprZNVNQ", 
+            "thumbnail": "https://ichef.bbci.co.uk/images/ic/1920x1080/p02ycn25.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }, 
+        {
+            "type": "item", 
+            "title": "TOMORROWLAND 2024 La Mejor Música Electrónica 2024", 
+            "link": "https://www.youtube.com/watch?v=u1mZ_xKAjXw", 
+            "thumbnail": "https://i.ytimg.com/vi/BN8UKb2qiMM/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },     
+        {
+            "type": "plugin", 
+            "title": "GREATEST OLD MUSIC", 
+            "link": "plugin.video.youtube/playlist/PLU7GYz6ldtXrEU1k0rB-5-jXtYiVKlXSy",
+            "thumbnail": "https://i.ytimg.com/vi/5b0XiAVSBiw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },     
+        {
+            "type": "plugin", 
+            "title": "GREATEST OLD MUSIC II", 
+            "link": "plugin.video.youtube/playlist/PLU7GYz6ldtXpVS6ydOUPSPVdnrLUuzIGQ",
+            "thumbnail": "https://i.ytimg.com/vi/HwBFnUFDsBE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "Def Leppard Greatest Hits ~ Best Songs Of 80s 90s Old Music Hits Collection", 
+            "link": "https://www.youtube.com/watch?v=PxOk6FQ30oc", 
+            "thumbnail": "https://i.ytimg.com/vi/PxOk6FQ30oc/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "PINK PANTHER & JAMES BOND", 
+            "link": "https://www.youtube.com/watch?v=CXaYr2o-YeY", 
+            "thumbnail": "https://i.ytimg.com/vi/CXaYr2o-YeY/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },     
         {
             "type": "plugin", 
             "title": "The Dionne Warwick Collection: Her All-Time Greatest Hits", 
