@@ -2,38 +2,67 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "Vietnam hippies", 
+            "link": "plugin.video.youtube/playlist/PLrjNdGnvZkQe20qSZnqt_-GVmAbpfwEau", 
+            "thumbnail": "https://i.ytimg.com/vi/Tsjk5y36Fr8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "101 GREATEST HIPPIE SONGS OF ALL TIME", 
+            "link": "plugin.video.youtube/playlist/PLvPG3YUtlLt-2bVQyAm5pHTYTomRsKRm_", 
+            "thumbnail": "https://i.ytimg.com/vi/q3SjqGfe-yM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "99 Hippie Videos", 
+            "link": "plugin.video.youtube/playlist/PLUZp1FWvAEwpHTQ5zoloelp8ZnbrHxDJq", 
+            "thumbnail": "https://i.ytimg.com/vi/SQptBA2aUQs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Best of the late 1960s hippie music", 
+            "link": "plugin.video.youtube/playlist/PLcKsmDSQYsoGtUH85L4Wa5yRVxOAD29iu", 
+            "thumbnail": "https://i.ytimg.com/vi/Mb3iPP-tHdA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "Forgotten 60s Songs", 
             "link": "plugin.video.youtube/playlist/PLt6swLxjyFncx6OSTWzUGNh5SY8z8PHti", 
             "thumbnail": "https://i.ytimg.com/vi/IQ2SAtkEsqU/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "plugin", 
             "title": "60s Hits - Sixties Greatest Music Hits", 
             "link": "plugin.video.youtube/playlist/PLGBuKfnErZlCkRRgt06em8nbXvcV5Sae7", 
             "thumbnail": "https://i.ytimg.com/vi/dTd2ylacYNU/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "plugin", 
             "title": "60s bands - live performances", 
             "link": "plugin.video.youtube/playlist/PLu6swaUPS8tt-3oOsxaTkC06kOeG9HiM3", 
             "thumbnail": "https://i.ytimg.com/vi/InRb7bOuT9c/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "plugin", 
             "title": "Greatest 1960's Folk Songs", 
             "link": "plugin.video.youtube/playlist/PLGBuKfnErZlAn6KQURHt9biYXrIcHZbKW", 
             "thumbnail": "https://i.ytimg.com/vi/w6iRNVwslM4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAM2RNAuhYDPbHDzSVzoll6UwcJSQ", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "plugin", 
             "title": "1960s Soul", 
             "link": "plugin.video.youtube/playlist/PLHOg3W1KTU9OpushjxXVIjZKoRqQBtSEM", 
             "thumbnail": "https://i.ytimg.com/vi/hwZNL7QVJjE/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
