@@ -1,9 +1,9 @@
 {
-    "items": [
+    "items": [          
         {
-            "type": "dir", 
+            "type": "plugin", 
             "title": "The Dionne Warwick Collection: Her All-Time Greatest Hits", 
-            "link": "https://www.youtube.com/playlist?list=PLhvHZMHe-N_JlpdzdNiDgUtOgHjFTHq2u", 
+            "link": "plugin.video.youtube/playlist/PLhvHZMHe-N_JlpdzdNiDgUtOgHjFTHq2u",
             "thumbnail": "https://i.ytimg.com/vi/5MMTyIPF9qM/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
