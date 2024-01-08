@@ -1,5 +1,5 @@
 {
-    "items": [                   
+    "items": [                 
         {
             "type": "plugin", 
             "title": "Drake", 
@@ -19,6 +19,13 @@
             "title": "Def Leppard", 
             "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFv7G2CZp_v2rD-YxoFek5mw", 
             "thumbnail": "https://www.udiscovermusic.com/wp-content/uploads/2022/08/Def-Leppard-GettyImages-73991295.jpg", 
+            "fanart": ""
+        },                     
+        {
+            "type": "plugin", 
+            "title": "Dionne Warwick", 
+            "link": "plugin.video.youtube/playlist/PLmxGDTmqIb19q20yXjqYz688_oVesI3q0", 
+            "thumbnail": "https://i.ytimg.com/vi/8VCuCm6XKeA/hqdefault.jpg", 
             "fanart": ""
         }
     ]
