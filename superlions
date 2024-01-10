@@ -1,5 +1,222 @@
 {
-    "items": [       
+    "items": [                                       
+        {
+            "type": "item", 
+            "title": "MUSIC MIX 2024 Mashups & Remixes Of Popular Songs EDM Bass Boosted Club Music Mix", 
+            "link": "https://www.youtube.com/watch?v=7qi139MfdCg", 
+            "thumbnail": "https://i.ytimg.com/vi/7qi139MfdCg/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                     
+        {
+            "type": "item", 
+            "title": "Elvis LIVE Royal Philharmonic Concert Orchestra The O2 Arena 31 Oct 2023", 
+            "link": "https://www.youtube.com/watch?v=EWIPLwTBwds", 
+            "thumbnail": "https://i.ytimg.com/vi/EWIPLwTBwds/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
+        {
+            "type": "item", 
+            "title": "Best Songs Of Frank Sinatra", 
+            "link": "https://www.youtube.com/watch?v=i5WuMKv0ga0", 
+            "thumbnail": "https://i.ytimg.com/vi/i5WuMKv0ga0/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                  
+        {
+            "type": "item", 
+            "title": "Elvis Presley Greatest Hit", 
+            "link": "https://www.youtube.com/watch?v=zgXCehwbu54", 
+            "thumbnail": "https://i.ytimg.com/vi/zgXCehwbu54/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                  
+        {
+            "type": "item", 
+            "title": "Def Leppard Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=Cg9eCLcZI0s", 
+            "thumbnail": "https://i.ytimg.com/vi/KPF87nJHVIM/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
+        {
+            "type": "item", 
+            "title": "The Moody Blues Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=4ydjIi5pmhc", 
+            "thumbnail": "https://i.ytimg.com/vi/4ydjIi5pmhc/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                
+        {
+            "type": "item", 
+            "title": "The Very Best Songs Of Sting", 
+            "link": "https://www.youtube.com/watch?v=UDwVhGl-Gy0", 
+            "thumbnail": "https://i.ytimg.com/vi/UDwVhGl-Gy0/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                               
+        {
+            "type": "item", 
+            "title": "The Best of Phil Collins", 
+            "link": "https://www.youtube.com/watch?v=4aAwAtdTl7U", 
+            "thumbnail": "https://i.ytimg.com/vi/4aAwAtdTl7U/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                             
+        {
+            "type": "item", 
+            "title": "Duran Duran Greatest Hits Full Album", 
+            "link": "https://www.youtube.com/watch?v=Jwy70dd_IrU", 
+            "thumbnail": "https://i.ytimg.com/vi/Jwy70dd_IrU/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                              
+        {
+            "type": "item", 
+            "title": "W h a m ! The Best Music Of All Time", 
+            "link": "https://www.youtube.com/watch?v=Ck2Ah7zhdVE", 
+            "thumbnail": "https://i.ytimg.com/vi/Ck2Ah7zhdVE/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                            
+        {
+            "type": "item", 
+            "title": "T h e P o l i c e MIX", 
+            "link": "https://www.youtube.com/watch?v=PGianb13SsA", 
+            "thumbnail": "https://i.ytimg.com/vi/PGianb13SsA/sddefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                            
+        {
+            "type": "item", 
+            "title": "The Beatles Greatest Hits Full Album Best Beatles Songs Collection", 
+            "link": "https://www.youtube.com/watch?v=yyWJaTD_Yqk", 
+            "thumbnail": "https://i.ytimg.com/vi/yyWJaTD_Yqk/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                          
+        {
+            "type": "item", 
+            "title": "David Guetta Mix 2023 - Future Rave", 
+            "link": "https://www.youtube.com/watch?v=-njVLuicctI", 
+            "thumbnail": "https://i.ytimg.com/vi/-njVLuicctI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                          
+        {
+            "type": "item", 
+            "title": "Bob Marley, Gregory Isaacs, Peter Tosh, Jimmy Cliff, Lucky Dube, Eric Donaldson - Best Reggae Songs 2023", 
+            "link": "https://www.youtube.com/watch?v=9DQLYH24C_I", 
+            "thumbnail": "https://i.ytimg.com/vi/Wlo0g5d0QJI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                         
+        {
+            "type": "item", 
+            "title": "Zz Top-Best Songs", 
+            "link": "https://www.youtube.com/watch?v=fL8DB5avX2c", 
+            "thumbnail": "https://i.ytimg.com/vi/K3RLIU7T39I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                       
+        {
+            "type": "item", 
+            "title": "Old School Hip Hop Mix Snoop Dogg, 50 Cent, Eminem, 2Pac, Ice Cube", 
+            "link": "https://www.youtube.com/watch?v=Hds0BTGkuuc", 
+            "thumbnail": "https://i.ytimg.com/vi/Hds0BTGkuuc/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                        
+        {
+            "type": "item", 
+            "title": "R e d H o t C h i l i P e p p e r s Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=9xErJOsBkeA", 
+            "thumbnail": "https://i.ytimg.com/vi/GFgi3MipNQ8/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                      
+        {
+            "type": "item", 
+            "title": "UB40 classic Reggae Hits", 
+            "link": "https://www.youtube.com/watch?v=Q6EUNrAFHuM", 
+            "thumbnail": "https://i.ytimg.com/vi/Q6EUNrAFHuM/mqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                       
+        {
+            "type": "item", 
+            "title": "Trance Classics 90s & early 00s Tiesto Lange Ferry Corsten Paul Van Dyk", 
+            "link": "https://www.youtube.com/watch?v=6Ob2Pqcrmog", 
+            "thumbnail": "https://i.ytimg.com/vi/6Ob2Pqcrmog/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                       
+        {
+            "type": "item", 
+            "title": "America MIX", 
+            "link": "https://www.youtube.com/watch?v=9prk0Phg_zw", 
+            "thumbnail": "https://i.ytimg.com/vi/9prk0Phg_zw/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                       
+        {
+            "type": "item", 
+            "title": "Fleetwood Mac - Top10 Hits", 
+            "link": "https://www.youtube.com/watch?v=wrrNkJh6v84", 
+            "thumbnail": "https://i.ytimg.com/vi/wrrNkJh6v84/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                      
+        {
+            "type": "item", 
+            "title": "D I S T U R B E D Greatest Hits Full Album", 
+            "link": "https://www.youtube.com/watch?v=6dJkRMEUYr0", 
+            "thumbnail": "https://i.ytimg.com/vi/6dJkRMEUYr0/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                     
+        {
+            "type": "item", 
+            "title": "Nickelback Greatest Hits Collections Of All Time", 
+            "link": "https://www.youtube.com/watch?v=F6PdTWLYHWU", 
+            "thumbnail": "https://i.ytimg.com/vi/F6PdTWLYHWU/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                     
+        {
+            "type": "item", 
+            "title": "K.o.o.l a.n.d t.h.e G.a.n.g Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=SQfgKcz4CUI", 
+            "thumbnail": "https://i.ytimg.com/vi/SQfgKcz4CUI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                    
+        {
+            "type": "item", 
+            "title": "80s Music Hits Best Oldies Songs Of 1980s Oldies But Goodies Greatest Hits 80s", 
+            "link": "https://www.youtube.com/watch?v=ew_4CUbUN2k", 
+            "thumbnail": "https://i.ytimg.com/vi/EQydbdZP06I/mqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                    
+        {
+            "type": "item", 
+            "title": "Enigma Best Remix", 
+            "link": "https://www.youtube.com/watch?v=yYEgI4IHsjs", 
+            "thumbnail": "https://i.ytimg.com/vi/yYEgI4IHsjs/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                  
+        {
+            "type": "item", 
+            "title": "ROCK BALLADS MIX", 
+            "link": "https://www.youtube.com/watch?v=r-dM55h0Hqc", 
+            "thumbnail": "https://i.ytimg.com/vi/r-dM55h0Hqc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Cat Stevens - Greatest Hits Best Songs Playlist", 
+            "link": "https://www.youtube.com/watch?v=w2NTbARPBpE", 
+            "thumbnail": "https://i.ytimg.com/vi/w2NTbARPBpE/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
+        {
+            "type": "item", 
+            "title": "Alternative Rock Of The 2000s - Linkin park, Evanescence, Creed, AudioSlave, Hinder", 
+            "link": "https://www.youtube.com/watch?v=dD68xmKw-ec", 
+            "thumbnail": "https://i.ytimg.com/vi/dD68xmKw-ec/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },               
+        {
+            "type": "item", 
+            "title": "Aerosmith Greatest Hits Best Songs Of 80s 90s Old Music Hits Collection", 
+            "link": "https://www.youtube.com/watch?v=ueGte7dGOUo", 
+            "thumbnail": "https://i.ytimg.com/vi/ogSchxoEj0Y/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "item", 
+            "title": "The Very Best Of Uriah Heep ", 
+            "link": "https://www.youtube.com/watch?v=cccIKwOUx18", 
+            "thumbnail": "https://i.ytimg.com/vi/cccIKwOUx18/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
         {
             "type": "plugin", 
             "title": "Top Music - 70s 80s 90s Music Greatest Hits", 
