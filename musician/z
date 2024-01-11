@@ -1,4 +1,11 @@
 {
-    "items": [ 
+    "items": [                                   
+        {
+            "type": "plugin", 
+            "title": "ZZ Top", 
+            "link": "plugin.video.youtube/playlist/PLw6p6PA8M2mjHiBa6PCcYEaJBKceG3DK_", 
+            "thumbnail": "https://i.ytimg.com/vi/https://i.ytimg.com/vi/Ae829mFAGGE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
     ]
 }
