@@ -9,6 +9,13 @@
         },               
         {
             "type": "plugin", 
+            "title": "The Cure", 
+            "link": "plugin.video.youtube/playlist/PLMEZyDHJojxMksi3Fe4fR6VjyjbTlHodw", 
+            "thumbnail": "https://i.ytimg.com/vi/9GkVhgIeGJQ/hqdefault.jpg", 
+            "fanart": ""
+        },               
+        {
+            "type": "plugin", 
             "title": "The Offspring", 
             "link": "plugin.video.youtube/playlist/PL0cFw4QpfnEZ8dstFGJ90zEo--wZAa6T7", 
             "thumbnail": "https://i.ytimg.com/vi/_g19fCJotPc/hqdefault.jpg", 
