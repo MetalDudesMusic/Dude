@@ -1,5 +1,12 @@
 {
-    "items": [          
+    "items": [            
+        {
+            "type": "plugin", 
+            "title": "Fine Young Cannibals", 
+            "link": "plugin.video.youtube/playlist/PLdB2qly-JTgATFjyESCah_fswc5sqPMo0", 
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-183022-3038806.jpg", 
+            "fanart": ""
+        },        
         {
             "type": "plugin", 
             "title": "Fleetwood Mac", 
