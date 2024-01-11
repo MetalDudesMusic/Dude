@@ -6,7 +6,14 @@
             "link": "plugin.video.youtube/playlist/PLuiynvNke2wDYNHFnOksxAwobcDuAcezs", 
             "thumbnail": "https://i.ytimg.com/vi/ykIRhszzm9U/hqdefault.jpg", 
             "fanart": ""
-        },                          
+        },                           
+        {
+            "type": "plugin", 
+            "title": "Chyp-Notic", 
+            "link": "plugin.video.youtube/playlist/PLPe7dunoX-EPnUCi0bAAVZQ7uRii-FQui", 
+            "thumbnail": "https://i.ytimg.com/vi/PlRSOuV1B1I/hqdefault.jpg", 
+            "fanart": ""
+        },                         
         {
             "type": "plugin", 
             "title": "Christina Aguilera", 
