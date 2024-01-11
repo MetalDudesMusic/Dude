@@ -2,6 +2,13 @@
     "items": [          
         {
             "type": "plugin", 
+            "title": "Motorhead", 
+            "link": "plugin.video.youtube/playlist/PLk-DD1p2E1sjxy3gbvXePRZzIhzNHVHSy", 
+            "thumbnail": "https://i.ytimg.com/vi/eilzQSthLCY/hqdefault.jpg", 
+            "fanart": ""
+        },            
+        {
+            "type": "plugin", 
             "title": "Metallica", 
             "link": "plugin.video.youtube/playlist/PL2D4A44B959D87893", 
             "thumbnail": "https://ichef.bbci.co.uk/news/976/cpsprodpb/17FBE/production/_129283289_gettyimages-521764750.jpg", 
