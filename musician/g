@@ -1,5 +1,12 @@
 {
-    "items": [                
+    "items": [                  
+        {
+            "type": "plugin", 
+            "title": "Golden Earring", 
+            "link": "plugin.video.youtube/playlist/PL7geoeWeH7nQCHn-5O_SQ_PRFdGsq3smF", 
+            "thumbnail": "https://i.ytimg.com/vi/ckM51xoTC2U/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
         {
             "type": "plugin", 
             "title": "George Strait", 
