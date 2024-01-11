@@ -1,5 +1,12 @@
 {
-    "items": [                                 
+    "items": [                                    
+        {
+            "type": "plugin", 
+            "title": "Live", 
+            "link": "plugin.video.youtube/playlist/Lh9igKIxJKf7zOeJpo1UeV8ja0DnngOj3", 
+            "thumbnail": "https://i.ytimg.com/vi/xsJ4O-nSveg/hqdefault.jpg", 
+            "fanart": ""
+        },                              
         {
             "type": "plugin", 
             "title": "Limp Bizkit", 
