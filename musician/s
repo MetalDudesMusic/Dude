@@ -1,5 +1,12 @@
 {
-    "items": [                         
+    "items": [                           
+        {
+            "type": "plugin", 
+            "title": "Sepultura", 
+            "link": "plugin.video.youtube/playlist/PLS1TixhpGR6GxbvHVg_m6rYVjPeNlVp_4", 
+            "thumbnail": "https://i.ytimg.com/vi/F_6IjeprfEs/hqdefault.jpg", 
+            "fanart": ""
+        },                       
         {
             "type": "plugin", 
             "title": "Slade", 
