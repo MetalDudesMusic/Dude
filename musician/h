@@ -1,5 +1,12 @@
 {
-    "items": [           
+    "items": [             
+        {
+            "type": "plugin", 
+            "title": "Heart", 
+            "link": "plugin.video.youtube/playlist/PLRYjIdaAzRVmmaJEG-elAlp91clvYXnws", 
+            "thumbnail": "https://i.ytimg.com/vi/1Cw1ng75KP0/hqdefault.jpg", 
+            "fanart": ""
+        },         
         {
             "type": "plugin", 
             "title": "Hall & Oates", 
