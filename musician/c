@@ -1,5 +1,12 @@
 {
-    "items": [                          
+    "items": [                           
+        {
+            "type": "plugin", 
+            "title": "Cher", 
+            "link": "plugin.video.youtube/playlist/PLuiynvNke2wDYNHFnOksxAwobcDuAcezs", 
+            "thumbnail": "https://i.ytimg.com/vi/ykIRhszzm9U/hqdefault.jpg", 
+            "fanart": ""
+        },                          
         {
             "type": "plugin", 
             "title": "Christina Aguilera", 
