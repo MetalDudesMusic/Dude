@@ -1,5 +1,12 @@
 {
-    "items": [                                   
+    "items": [                                 
+        {
+            "type": "plugin", 
+            "title": "NEFFEX", 
+            "link": "plugin.video.youtube/playlist/PLrxcNWZXdQ2mizTQf5G8VfQvpO7t9oPQ_", 
+            "thumbnail": "https://i.ytimg.com/vi/kcSeTPWJmsA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                    
         {
             "type": "plugin", 
             "title": "New Medicine", 
