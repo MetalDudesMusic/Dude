@@ -2,6 +2,13 @@
     "items": [                         
         {
             "type": "plugin", 
+            "title": "Slade", 
+            "link": "plugin.video.youtube/playlist/PL0VQVFM4ctAmlMTKUyHoJFomdVN2iWrd8", 
+            "thumbnail": "https://i.ytimg.com/vi/hrWbSDsFTYo/hqdefault.jpg", 
+            "fanart": ""
+        },                         
+        {
+            "type": "plugin", 
             "title": "System of a Down", 
             "link": "plugin.video.youtube/playlist/PLDC0E3D2BB4F3D234", 
             "thumbnail": "https://i.ytimg.com/vi/5vBGOrI6yBk/hqdefault.jpg", 
