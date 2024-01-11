@@ -1,10 +1,17 @@
 {
-    "items": [         
+    "items": [          
+        {
+            "type": "plugin", 
+            "title": "Uriah Heep", 
+            "link": "plugin.video.youtube/playlist/PLB2WFbEDWjv9Gq1UR4aapMzHQeUKxytXd", 
+            "thumbnail": "https://i.ytimg.com/vi/b_5CgNbo0ns/hqdefault.jpg", 
+            "fanart": ""
+        },         
         {
             "type": "plugin", 
             "title": "Upchurch", 
             "link": "plugin.video.youtube/playlist/PL0dDlKSElceFt3nYNotFqfx9rwV6PreLB", 
-            "thumbnail": "https://iscale.iheart.com/catalog/artist/30611580", 
+            "thumbnail": "https://i.ytimg.com/vi/Ikxnz2NIdxI/sddefault.jpg", 
             "fanart": ""
         },         
         {
