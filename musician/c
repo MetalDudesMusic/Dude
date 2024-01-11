@@ -1,5 +1,12 @@
 {
-    "items": [                           
+    "items": [                             
+        {
+            "type": "plugin", 
+            "title": "Cascada", 
+            "link": "plugin.video.youtube/playlist/PLphJpuK5IiCbyCNAXAAovZ40c55musjP6", 
+            "thumbnail": "https://i.ytimg.com/vi/4G6QDNC4jPs/hqdefault.jpg", 
+            "fanart": ""
+        },                         
         {
             "type": "plugin", 
             "title": "Cher", 
