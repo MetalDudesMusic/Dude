@@ -6,7 +6,21 @@
             "link": "plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr", 
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZiYjU5ODktNzIxNC00NDg1LTlhNzktNDY1OTgxNmEyMWZkXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_FMjpg_UX1000_.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },         
+        },               
+        {
+            "type": "plugin", 
+            "title": "The Offspring", 
+            "link": "plugin.video.youtube/playlist/PL0cFw4QpfnEZ8dstFGJ90zEo--wZAa6T7", 
+            "thumbnail": "https://i.ytimg.com/vi/_g19fCJotPc/hqdefault.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
+            "title": "The Smashing Pumpkins", 
+            "link": "plugin.video.youtube/playlist/PLfZDsAXnHHxrO8gQaA9P2XJvU_OLpTjOK", 
+            "thumbnail": "https://i.ytimg.com/vi/HPArxFdoezk/maxresdefault.jpg", 
+            "fanart": ""
+        },      
         {
             "type": "plugin", 
             "title": "The Beatles", 
