@@ -1,5 +1,12 @@
 {
-    "items": [                                
+    "items": [                                   
+        {
+            "type": "plugin", 
+            "title": "New Medicine", 
+            "link": "plugin.video.youtube/playlist/PLBC316AE5D44E3AF0", 
+            "thumbnail": "https://i.ytimg.com/vi/GwMePJGEjzg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                             
         {
             "type": "plugin", 
             "title": "Neil Diamond", 
