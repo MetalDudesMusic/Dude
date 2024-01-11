@@ -1,5 +1,12 @@
 {
-    "items": [                      
+    "items": [                       
+        {
+            "type": "plugin", 
+            "title": "Pat Benatar", 
+            "link": "plugin.video.youtube/playlist/PLC27525BE472A271F", 
+            "thumbnail": "https://i.ytimg.com/vi/XC-GAzAeIg8/hqdefault.jpg", 
+            "fanart": ""
+        },                      
         {
             "type": "plugin", 
             "title": "Pink", 
