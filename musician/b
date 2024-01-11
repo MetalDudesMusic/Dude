@@ -1,5 +1,12 @@
 {
-    "items": [                                              
+    "items": [                                             
+        {
+            "type": "plugin", 
+            "title": "Boston", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFvggJd3GG6gwFVXY8auC-nu", 
+            "thumbnail": "https://i.ytimg.com/vi/RmD7-BO6EbM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
         {
             "type": "plugin", 
             "title": "Bob Seger & the Silver Bullet Band", 
