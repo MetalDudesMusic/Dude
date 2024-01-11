@@ -2,6 +2,13 @@
     "items": [                             
         {
             "type": "plugin", 
+            "title": "C&C Music Factory", 
+            "link": "plugin.video.youtube/playlist/PLC8E228F1D2ABEAA4", 
+            "thumbnail": "https://i.ytimg.com/vi/XF2ayWcJfxo/hqdefault.jpg", 
+            "fanart": ""
+        },                             
+        {
+            "type": "plugin", 
             "title": "Cascada", 
             "link": "plugin.video.youtube/playlist/PLphJpuK5IiCbyCNAXAAovZ40c55musjP6", 
             "thumbnail": "https://i.ytimg.com/vi/4G6QDNC4jPs/hqdefault.jpg", 
