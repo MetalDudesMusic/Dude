@@ -1,5 +1,12 @@
 {
-    "items": [                            
+    "items": [                                 
+        {
+            "type": "plugin", 
+            "title": "Limp Bizkit", 
+            "link": "plugin.video.youtube/playlist/PL119816F23E12BCCB", 
+            "thumbnail": "https://i.ytimg.com/vi/ZpUYjpKg9KY/hqdefault.jpg", 
+            "fanart": ""
+        },                       
         {
             "type": "plugin", 
             "title": "Lionel Richie", 
