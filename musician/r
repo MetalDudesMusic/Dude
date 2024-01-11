@@ -1,5 +1,12 @@
 {
-    "items": [          
+    "items": [                  
+        {
+            "type": "plugin", 
+            "title": "Ramones", 
+            "link": "plugin.video.youtube/playlist/PLBiOlSrDEaK-DYfCGOLpDF645zvzx6nqh", 
+            "thumbnail": "https://i.ytimg.com/vi/yCW7Aw8ugOI/hqdefault.jpg", 
+            "fanart": ""
+        },         
         {
             "type": "plugin", 
             "title": "Ryan Mack", 
