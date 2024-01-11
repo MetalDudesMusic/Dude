@@ -1,5 +1,12 @@
 {
-    "items": [                       
+    "items": [                        
+        {
+            "type": "plugin", 
+            "title": "Snow", 
+            "link": "plugin.video.youtube/playlist/PLlURvmhgrErYdoF4RPjRwLxSzgq2g2K7E", 
+            "thumbnail": "MzG5jMEiFto/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mzkz/MzAtMTQyMzYzMjk3/Ni02NTc3LmpwZWc.jpeg", 
+            "fanart": ""
+        },                      
         {
             "type": "plugin", 
             "title": "Shania Twain", 
