@@ -2,6 +2,13 @@
     "items": [          
         {
             "type": "plugin", 
+            "title": "Roxette", 
+            "link": "plugin.video.youtube/playlist/PL187C5C64908106DA", 
+            "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71ZIUw8lQzL._UF1000,1000_QL80_.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
             "title": "Rolling Stones", 
             "link": "plugin.video.youtube/playlist/PLNav38spIZE4tpahnCBoXIp6xFZQYY9eV", 
             "thumbnail": "https://cdn.britannica.com/41/197341-050-4859B808/The-Rolling-Stones-Bill-Wyman-Keith-Richards-1964.jpg", 
