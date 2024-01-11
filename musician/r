@@ -2,6 +2,13 @@
     "items": [          
         {
             "type": "plugin", 
+            "title": "Ryan Mack", 
+            "link": "plugin.video.youtube/playlist/PL-1dWpFx5Ha3L5LHECM4Jhi1H1Bs_d4SP", 
+            "thumbnail": "https://i.ytimg.com/vi/jR1xEDHiBWA/hqdefault.jpg", 
+            "fanart": ""
+        },           
+        {
+            "type": "plugin", 
             "title": "Roxette", 
             "link": "plugin.video.youtube/playlist/PL187C5C64908106DA", 
             "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71ZIUw8lQzL._UF1000,1000_QL80_.jpg", 
