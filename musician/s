@@ -1,5 +1,12 @@
 {
-    "items": [                        
+    "items": [                         
+        {
+            "type": "plugin", 
+            "title": "System of a Down", 
+            "link": "plugin.video.youtube/playlist/PLDC0E3D2BB4F3D234", 
+            "thumbnail": "https://i.ytimg.com/vi/5vBGOrI6yBk/hqdefault.jpg", 
+            "fanart": ""
+        },                       
         {
             "type": "plugin", 
             "title": "Snow", 
