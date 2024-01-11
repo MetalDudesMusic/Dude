@@ -1,5 +1,26 @@
 {
-    "items": [                                       
+    "items": [                                             
+        {
+            "type": "item", 
+            "title": "Alan Jackson Kenny Rogers Dolly Parton George Strait The Legend Country Songs Of All Time", 
+            "link": "https://www.youtube.com/watch?v=VrlyWJ6g36Q", 
+            "thumbnail": "https://i.ytimg.com/vi/VrlyWJ6g36Q/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                          
+        {
+            "type": "item", 
+            "title": "Best of Chicago, Bee Gees, Bread and America v2", 
+            "link": "https://www.youtube.com/watch?v=JffSz-aLeZE", 
+            "thumbnail": "https://i.ytimg.com/vi/JffSz-aLeZE/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                       
+        {
+            "type": "item", 
+            "title": "Car Race Music Remix & Mashup Tiësto, Mashmello, Kygo", 
+            "link": "https://www.youtube.com/watch?v=azLwQHyBF3E", 
+            "thumbnail": "https://i.ytimg.com/vi/azLwQHyBF3E/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                      
         {
             "type": "item", 
             "title": "MUSIC MIX 2024 Mashups & Remixes Of Popular Songs EDM Bass Boosted Club Music Mix", 
