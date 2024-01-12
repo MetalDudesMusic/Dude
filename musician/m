@@ -2,6 +2,13 @@
     "items": [          
         {
             "type": "plugin", 
+            "title": "MEUTE", 
+            "link": "plugin.video.youtube/playlist/PL0F3yEq2UmsCktg7rUDOMt5Y1vfZJ28h5", 
+            "thumbnail": "https://i.ytimg.com/vi/dlFrI8_Orys/mqdefault.jpg", 
+            "fanart": ""
+        },          
+        {
+            "type": "plugin", 
             "title": "Motorhead", 
             "link": "plugin.video.youtube/playlist/PLk-DD1p2E1sjxy3gbvXePRZzIhzNHVHSy", 
             "thumbnail": "https://i.ytimg.com/vi/eilzQSthLCY/hqdefault.jpg", 
