@@ -1,0 +1,11 @@
+{
+    "items": [                                            
+        {
+            "type": "item", 
+            "title": "John Cougar Mellencamp Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=VGV08VtTpiM", 
+            "thumbnail": "https://i.ytimg.com/vi/VGV08VtTpiM/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }, 
+    ]
+}
