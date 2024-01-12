@@ -1,4 +1,39 @@
 {
-    "items": [ 
+    "items": [                                                   
+        {
+            "type": "plugin", 
+            "title": "One Republic", 
+            "link": "plugin.video.youtube/playlist/PLEh852h0CioQYcLRsS4LrYVsGnnnGkrjy", 
+            "thumbnail": "https://i.ytimg.com/vi/qKCGBgOgp08/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                
+        {
+            "type": "plugin", 
+            "title": "One Direction", 
+            "link": "plugin.video.youtube/playlist/PLiiZGGu-nYNxOuRQNTymxM9BwVoHQ30uL", 
+            "thumbnail": "https://i.ytimg.com/vi/QJO3ROT-A4E/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                              
+        {
+            "type": "plugin", 
+            "title": "Olivia Newton-John", 
+            "link": "plugin.video.youtube/playlist/PLH3MQ-PMNCqwCn279lC8LEKytqJrQolXE", 
+            "thumbnail": "https://i.ytimg.com/vi/JLpXh_e2i5w/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                  
+        {
+            "type": "plugin", 
+            "title": "Oasis", 
+            "link": "plugin.video.youtube/playlist/PLBeeiCx5Kc2uJ7TjYPpQyLaNkHDKegMBB", 
+            "thumbnail": "https://i.ytimg.com/vi/BJKpUH2kJQg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                      
+        {
+            "type": "plugin", 
+            "title": "Oak Ridge Boys", 
+            "link": "plugin.video.youtube/playlist/PLQTz7zPCx-UDlhdu2uTdZINrf-VdcN8JE", 
+            "thumbnail": "https://i.ytimg.com/vi/1dISBYL-acE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
     ]
 }
