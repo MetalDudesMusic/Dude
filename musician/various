@@ -1,0 +1,11 @@
+{
+    "items": [                 
+        {
+            "type": "plugin", 
+            "title": "DJ BoBo", 
+            "link": "plugin.video.youtube/playlist/PLgKoEh79JAdo_4FVAtrlLbMfkvrijsBIy", 
+            "thumbnail": "https://i.ytimg.com/vi/NmmSAIfY2oA/hqdefault.jpg", 
+            "fanart": ""
+        },  
+    ]
+}
