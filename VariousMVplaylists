@@ -1,5 +1,12 @@
 {
-    "items": [
+    "items": [     
+        {
+            "type": "plugin", 
+            "title": "GREATEST OLD MUSIC", 
+            "link": "plugin.video.youtube/playlist/PLU7GYz6ldtXrEU1k0rB-5-jXtYiVKlXSy",
+            "thumbnail": "https://i.ytimg.com/vi/5b0XiAVSBiw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }, 
         {
             "type": "plugin", 
             "title": "80s Hard Rock & Hair Metal Hits", 
