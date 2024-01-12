@@ -6,7 +6,14 @@
             "link": "plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr", 
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZiYjU5ODktNzIxNC00NDg1LTlhNzktNDY1OTgxNmEyMWZkXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_FMjpg_UX1000_.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },               
+        },                
+        {
+            "type": "plugin", 
+            "title": "Texas Hippie Coalition", 
+            "link": "plugin.video.youtube/playlist/PLDB2D550793828E4A", 
+            "thumbnail": "https://i.ytimg.com/vi/O2BouT3rbwA/hqdefault.jpg", 
+            "fanart": ""
+        },              
         {
             "type": "plugin", 
             "title": "The Cure", 
