@@ -1,5 +1,12 @@
 {
-    "items": [                                       
+    "items": [                                          
+        {
+            "type": "plugin", 
+            "title": "Kate Bush", 
+            "link": "plugin.video.youtube/playlist/PLwJ3dKGiVfLJq8HzJ7kQbZ9OG_ZSXk1Ul", 
+            "thumbnail": "https://i.ytimg.com/vi/6xckBwPdo1c/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                     
         {
             "type": "plugin", 
             "title": "Kenny Rogers", 
