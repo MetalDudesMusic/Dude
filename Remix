@@ -1,5 +1,12 @@
 {
-    "items": [
+    "items": [                    
+        {
+            "type": "item", 
+            "title": "DAVID GUETTA MIX 2024 As Melhores Eletrônicas 2024", 
+            "link": "https://www.youtube.com/watch?v=pGn9ehaQwPs", 
+            "thumbnail": "https://i.ytimg.com/vi/pGn9ehaQwPs/maxresdefault.jpg", 
+            "fanart": ""
+        },  
         {
             "type": "item", 
             "title": "Synth Covers feat. Crocketts Theme Axel F Ghostbusters Airwolf", 
