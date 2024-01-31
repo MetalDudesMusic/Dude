@@ -1,5 +1,12 @@
 {
-    "items": [                            
+    "items": [                              
+        {
+            "type": "item", 
+            "title": "Djs From Mars - Best of 2023 Megamashup - 40 Songs in 8 Minutes", 
+            "link": "https://www.youtube.com/watch?v=h3Y4jKS8yKo", 
+            "thumbnail": "https://i.ytimg.com/vi/_KBZuyQkCds/hq720.jpg", 
+            "fanart": ""
+        },                          
         {
             "type": "item", 
             "title": "Tomorrowland 2024 - Best Songs Remixes & Mashups", 
