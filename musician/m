@@ -1,5 +1,12 @@
 {
-    "items": [          
+    "items": [             
+        {
+            "type": "plugin", 
+            "title": "Max Richter", 
+            "link": "plugin.video.youtube/playlist/PLU6c0pDSf4AfDACMHjEGe-xKRDQhIxFAb", 
+            "thumbnail": "https://i.ytimg.com/vi/3L2s1I3l0Cg/hqdefault.jpg", 
+            "fanart": ""
+        },        
         {
             "type": "plugin", 
             "title": "MEUTE", 
