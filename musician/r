@@ -1,5 +1,12 @@
 {
-    "items": [                  
+    "items": [                      
+        {
+            "type": "plugin", 
+            "title": "Rain Paris", 
+            "link": "plugin.video.youtube/playlist/PLvgkBoQzM-XYF34kV3JS55mG2JHtvysgu", 
+            "thumbnail": "https://i.ytimg.com/vi/mYVRsPjC0Pw/maxresdefault.jpg", 
+            "fanart": ""
+        },              
         {
             "type": "plugin", 
             "title": "Ramones", 
