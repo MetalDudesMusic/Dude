@@ -1,5 +1,12 @@
 {
-    "items": [                                                 
+    "items": [         
+        {
+            "type": "plugin", 
+            "title": "Jive Bunny", 
+            "link": "plugin.video.youtube/playlist/PLI1doQOwfWB78wPfr0LConwObqdEG9IU6", 
+            "thumbnail": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1491/14911143_so.jpg", 
+            "fanart": ""
+        },                                                
         {
             "type": "item", 
             "title": "John Cougar Mellencamp Greatest Hits", 
