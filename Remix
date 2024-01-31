@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "item", 
+            "title": "Synth Covers feat. Crocketts Theme Axel F Ghostbusters Airwolf", 
+            "link": "https://www.youtube.com/watch?v=x6Ddl8uyc-Q", 
+            "thumbnail": "https://i.ytimg.com/vi/k0zF5klI9og/hq720.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
             "title": "One Last Christmas Metallica vs. Wham! mashup", 
             "link": "https://www.youtube.com/watch?v=r3j47YqmwHo", 
             "thumbnail": "https://i.ytimg.com/vi/r3j47YqmwHo/maxresdefault.jpg", 
