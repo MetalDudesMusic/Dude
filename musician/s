@@ -48,7 +48,14 @@
             "link": "plugin.video.youtube/playlist/PL2myD0mnnO91DtAg2jDPzW6ojwU1muP5z", 
             "thumbnail": "https://www.udiscovermusic.com/wp-content/uploads/2021/10/Steve-Miller-Band-GettyImages-84999776-1000x600.jpg", 
             "fanart": ""
-        },          
+        },               
+        {
+            "type": "item", 
+            "title": "Steve Miller Band Best Of One Click", 
+            "link": "plugin.video.youtube/playlist/PL2myD0mnnO91DtAg2jDPzW6ojwU1muP5z", 
+            "thumbnail": "https://i.ytimg.com/vi/fk9-VYrjd0s/maxresdefault.jpg", 
+            "fanart": ""
+        },     
         {
             "type": "plugin", 
             "title": "Sly & The Family Stone", 
