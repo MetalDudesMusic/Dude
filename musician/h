@@ -1,5 +1,12 @@
 {
-    "items": [             
+    "items": [                
+        {
+            "type": "item", 
+            "title": "Hans Zimmer The Best Symphony Ever 2023 Best Of one click", 
+            "link": "https://www.youtube.com/watch?v=-zi5nENK1po", 
+            "thumbnail": "https://i.ytimg.com/vi/-zi5nENK1po/mqdefault.jpg", 
+            "fanart": ""
+        },          
         {
             "type": "plugin", 
             "title": "Heart", 
