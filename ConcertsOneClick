@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "item", 
+            "title": "Rammstein – Live aus Helsinki 2023 1080p", 
+            "link": "https://www.youtube.com/watch?v=nkveXCBUWGs", 
+            "thumbnail": "https://i.ytimg.com/vi/nkveXCBUWGs/maxresdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
             "title": "Scooter Highfield Festival 2016 - WDR Rockpalast 1080p", 
             "link": "https://www.youtube.com/watch?v=E3Y-0b6BRtc", 
             "thumbnail": "https://i.ytimg.com/vi/vjOVFNnSDH4/hq720.jpg", 
