@@ -1,5 +1,19 @@
 {
-    "items": [                                              
+    "items": [                                                
+        {
+            "type": "item", 
+            "title": "The Very Best Of Enigma", 
+            "link": "https://www.youtube.com/watch?v=aHiYcGN0pO0", 
+            "thumbnail": "https://i.ytimg.com/vi/aHiYcGN0pO0/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
+        {
+            "type": "item", 
+            "title": "Eagles Greatest Hits Full Album", 
+            "link": "https://www.youtube.com/watch?v=1L7MnMaKLsw", 
+            "thumbnail": "https://i.ytimg.com/vi/1L7MnMaKLsw/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                              
         {
             "type": "item", 
             "title": "THE SOUND OF 007 in CONCERT from ROYAL ALBERT HALL in LONDON UK 2022", 
