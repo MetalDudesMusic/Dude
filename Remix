@@ -1,5 +1,19 @@
 {
-    "items": [                                
+    "items": [                                       
+        {
+            "type": "item", 
+            "title": "THE STICKMEN PROJECT - HOUSE PARTY MIX", 
+            "link": "https://www.youtube.com/watch?v=h9l-JJLEIY4", 
+            "thumbnail": "https://i.ytimg.com/vi/h9l-JJLEIY4/maxresdefault.jpg", 
+            "fanart": ""
+        },                             
+        {
+            "type": "item", 
+            "title": "POP SONGS WORLD 1997-2021 200+ Songs Mashup", 
+            "link": "https://www.youtube.com/watch?v=BwCCg6905gk", 
+            "thumbnail": "https://i.ytimg.com/vi/BwCCg6905gk/maxresdefault.jpg", 
+            "fanart": ""
+        },                              
         {
             "type": "item", 
             "title": "Classicos Eurodance Viagem Suprema aos Anos 90 - Set 02", 
