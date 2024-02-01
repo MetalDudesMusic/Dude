@@ -1,0 +1,26 @@
+{
+    "items": [               
+        {
+            "type": "item", 
+            "title": "Best Of Albums in One", 
+            "summary": "This list are all best of's in one. The tunes are mixed into one long tune.", 
+            "link": "", 
+            "thumbnail": "", 
+            "fanart": ""
+        },     
+        {
+            "type": "item", 
+            "title": "Deep Purple Greatest Hits Full Album", 
+            "link": "plugin.video.youtube/playlist/PLE8882827DC004972", 
+            "thumbnail": "https://www.songwritingmagazine.co.uk/wp-content/uploads/3-doors-down-1-by-dove-shore.jpg.webp", 
+            "fanart": ""
+        },        
+        {
+            "type": "item", 
+            "title": "60s 70s 80s 90s live", 
+            "link": "plugin.video.youtube/playlist/PLgTorTVCekZhQesUUZRLh_FKEZjaovpJi", 
+            "thumbnail": "https://i.ytimg.com/vi/VBTKVjs_I1w/hqdefault.jpg", 
+            "fanart": ""
+        }
+    ]
+}
