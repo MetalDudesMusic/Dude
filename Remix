@@ -1,5 +1,12 @@
 {
-    "items": [                                       
+    "items": [                                          
+        {
+            "type": "item", 
+            "title": "Best Remixes & Mashups Of 2023 EDM Bass Music", 
+            "link": "https://www.youtube.com/watch?v=JCZgDa4X8tI", 
+            "thumbnail": "https://i.ytimg.com/vi/JCZgDa4X8tI/maxresdefault.jpg", 
+            "fanart": ""
+        },                                     
         {
             "type": "item", 
             "title": "THE STICKMEN PROJECT - HOUSE PARTY MIX", 
