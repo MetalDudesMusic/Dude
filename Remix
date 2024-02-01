@@ -1,5 +1,12 @@
 {
-    "items": [                              
+    "items": [                                
+        {
+            "type": "item", 
+            "title": "Classicos Eurodance Viagem Suprema aos Anos 90 - Set 02", 
+            "link": "https://www.youtube.com/watch?v=MWmT82rlTfA", 
+            "thumbnail": "https://i.ytimg.com/vi/MWmT82rlTfA/maxresdefault.jpg", 
+            "fanart": ""
+        },                             
         {
             "type": "item", 
             "title": "Djs From Mars - Best of 2023 Megamashup - 40 Songs in 8 Minutes", 
