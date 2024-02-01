@@ -1,5 +1,12 @@
 {
-    "items": [                       
+    "items": [                          
+        {
+            "type": "item", 
+            "title": "Pentatonix", 
+            "link": "https://www.youtube.com/watch?v=QOSnliRueb4", 
+            "thumbnail": "https://i.ytimg.com/vi/QOSnliRueb4/maxresdefault.jpg", 
+            "fanart": ""
+        },                    
         {
             "type": "plugin", 
             "title": "Pat Benatar", 
