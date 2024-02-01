@@ -1,5 +1,19 @@
 {
-    "items": [                                                
+    "items": [                                                     
+        {
+            "type": "item", 
+            "title": "The Essential Irish Pub Songs Collection", 
+            "link": "https://www.youtube.com/watch?v=-7GN1_gVObc", 
+            "thumbnail": "https://i.kfs.io/album/global/266235466,0v1/fit/500x500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                               
+        {
+            "type": "item", 
+            "title": "INXS Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=NRY11rXVbDg", 
+            "thumbnail": "https://i.ytimg.com/vi/NRY11rXVbDg/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                               
         {
             "type": "item", 
             "title": "The Very Best Of Enigma", 
