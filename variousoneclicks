@@ -1,5 +1,19 @@
 {
-    "items": [                                                               
+    "items": [                                                                   
+        {
+            "type": "item", 
+            "title": "Depeche Mode Top Hits", 
+            "link": "https://www.youtube.com/watch?v=lmnzoN-fiec", 
+            "thumbnail": "https://i.ytimg.com/vi/lmnzoN-fiec/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                
+        {
+            "type": "item", 
+            "title": "Non Stop Heavy Metal", 
+            "link": "https://www.youtube.com/watch?v=m6p85kZyfoI", 
+            "thumbnail": "https://i.ytimg.com/vi/m6p85kZyfoI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                             
         {
             "type": "item", 
             "title": "Lewis Capaldi Greatest Hits", 
@@ -13,14 +27,42 @@
             "link": "https://www.youtube.com/watch?v=awTfi_lBk9U", 
             "thumbnail": "https://i.ytimg.com/vi/awTfi_lBk9U/maxresdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                     
+        },                                                       
+        {
+            "type": "item", 
+            "title": "Cascada - Greatest Hits Megamix", 
+            "link": "https://www.youtube.com/watch?v=bKeQ3stdUsc", 
+            "thumbnail": "https://i.ytimg.com/vi/bKeQ3stdUsc/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                   
         {
             "type": "item", 
             "title": "Pet Shop Boys Greatest Hits", 
             "link": "https://www.youtube.com/watch?v=XuH-GAKxTKI", 
             "thumbnail": "https://i.ytimg.com/vi/XuH-GAKxTKI/maxresdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                    
+        },                                                            
+        {
+            "type": "item", 
+            "title": "Best Old Country Songs All Time", 
+            "link": "https://www.youtube.com/watch?v=Hw-ZzLczJKI", 
+            "thumbnail": "https://i.ytimg.com/vi/Hw-ZzLczJKI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                             
+        {
+            "type": "item", 
+            "title": "Chris De Burgh Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=gHoujE6lpU0", 
+            "thumbnail": "https://i.ytimg.com/vi/gHoujE6lpU0/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                         
+        {
+            "type": "item", 
+            "title": "Smokie Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=mpBMALVrL78", 
+            "thumbnail": "https://i.ytimg.com/vi/mpBMALVrL78/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                              
         {
             "type": "item", 
             "title": "The Best Of Michael Jackson", 
@@ -41,7 +83,14 @@
             "link": "https://www.youtube.com/watch?v=-7GN1_gVObc", 
             "thumbnail": "https://i.kfs.io/album/global/266235466,0v1/fit/500x500.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                               
+        },                                                
+        {
+            "type": "item", 
+            "title": "TOTO Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=riLIwuJO9qY", 
+            "thumbnail": "https://i.ytimg.com/vi/riLIwuJO9qY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                              
         {
             "type": "item", 
             "title": "INXS Greatest Hits", 
@@ -69,6 +118,13 @@
             "link": "https://www.youtube.com/watch?v=0rCfXr-FWt4", 
             "thumbnail": "https://i.ytimg.com/vi/0rCfXr-FWt4/maxresdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                               
+        {
+            "type": "item", 
+            "title": "Greatest Hits of VENGABOYS", 
+            "link": "https://www.youtube.com/watch?v=EIf0FvQVMiA", 
+            "thumbnail": "https://i.ytimg.com/vi/EIf0FvQVMiA/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                            
         {
             "type": "item", 
@@ -83,7 +139,14 @@
             "link": "https://www.youtube.com/watch?v=VrlyWJ6g36Q", 
             "thumbnail": "https://i.ytimg.com/vi/VrlyWJ6g36Q/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                          
+        },                                            
+        {
+            "type": "item", 
+            "title": "Mariah Carey, Celine Dion, Whitney Houston Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=66dq_-8ydSA", 
+            "thumbnail": "https://i.ytimg.com/vi/66dq_-8ydSA/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                         
         {
             "type": "item", 
             "title": "Best of Chicago, Bee Gees, Bread and America v2", 
