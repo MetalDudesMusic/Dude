@@ -13,7 +13,14 @@
             "link": "plugin.video.youtube/playlist/PL0dDlKSElceFt3nYNotFqfx9rwV6PreLB", 
             "thumbnail": "https://i.ytimg.com/vi/Ikxnz2NIdxI/sddefault.jpg", 
             "fanart": ""
-        },         
+        },           
+        {
+            "type": "plugin", 
+            "title": "Undertones", 
+            "link": "plugin.video.youtube/playlist/PL34FD89F54C381FFD", 
+            "thumbnail": "https://i.ytimg.com/vi/Pgqa3cVOxUc/hqdefault.jpg", 
+            "fanart": ""
+        },       
         {
             "type": "plugin", 
             "title": "Ultimate Eminem Mix", 
