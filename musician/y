@@ -1,4 +1,18 @@
 {
-    "items": [ 
+    "items": [                                  
+        {
+            "type": "plugin", 
+            "title": "Yardbirds", 
+            "link": "plugin.video.youtube/playlist/PLoM4LAiKzCdUOTabVrQbF7rc2BE4e2lLu", 
+            "thumbnail": "https://i.ytimg.com/vi/-OjcB-D5Yy4/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                  
+        {
+            "type": "plugin", 
+            "title": "Yoko Ono", 
+            "link": "plugin.video.youtube/playlist/PLLt4c8GNY6VJyaHVWf9gnkSJ4dEE8lxDf", 
+            "thumbnail": "https://i.ytimg.com/vi/ZIR3KXWNPto/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
     ]
 }
