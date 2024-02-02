@@ -1,5 +1,12 @@
 {
-    "items": [                                          
+    "items": [                                             
+        {
+            "type": "item", 
+            "title": "Disco Banger remix nonstop 2024", 
+            "link": "https://www.youtube.com/watch?v=k9_FLQ_hsCc", 
+            "thumbnail": "https://i.ytimg.com/vi/k9_FLQ_hsCc/maxresdefault.jpg", 
+            "fanart": ""
+        },                                       
         {
             "type": "item", 
             "title": "Best Remixes & Mashups Of 2023 EDM Bass Music", 
