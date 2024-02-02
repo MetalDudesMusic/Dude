@@ -1,5 +1,19 @@
 {
-    "items": [                                             
+    "items": [                                                 
+        {
+            "type": "item", 
+            "title": "5 HOURS OF PARTY MIX NON STOP  Deejay FDB Live", 
+            "link": "https://www.youtube.com/watch?v=4Dg6KLaZi8Y", 
+            "thumbnail": "https://i.ytimg.com/vi/4Dg6KLaZi8Y/maxresdefault.jpg", 
+            "fanart": ""
+        },                                            
+        {
+            "type": "item", 
+            "title": "WE ARE THE 2000s Mashup By Blanter Co 170+ Tunes", 
+            "link": "https://www.youtube.com/watch?v=5Swey1Pe3-w", 
+            "thumbnail": "https://i.ytimg.com/vi/5Swey1Pe3-w/maxresdefault.jpg", 
+            "fanart": ""
+        },                                            
         {
             "type": "item", 
             "title": "Disco Banger remix nonstop 2024", 
