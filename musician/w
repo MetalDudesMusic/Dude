@@ -1,5 +1,19 @@
 {
-    "items": [                                 
+    "items": [                                      
+        {
+            "type": "plugin", 
+            "title": "Who", 
+            "link": "plugin.video.youtube/playlist/PLB2359E68D19BA3C0", 
+            "thumbnail": "https://i.ytimg.com/vi/gDbAtWpoA6k/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                
+        {
+            "type": "plugin", 
+            "title": "White Stripes", 
+            "link": "plugin.video.youtube/playlist/PLRkypqpSISVuNhUGTlveY9V1L-ZCZvOU2", 
+            "thumbnail": "https://i.ytimg.com/vi/vGMI7Tdd014/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                               
         {
             "type": "plugin", 
             "title": "Whitney Houston", 
