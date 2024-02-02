@@ -1,25 +1,39 @@
 {
-    "items": [         
+    "items": [           
+        {
+            "type": "plugin", 
+            "title": "Van Morrison", 
+            "link": "plugin.video.youtube/playlist/PLFDl3gMaGEsHVqSPLFjmfA7KTw-Z_Ofdb", 
+            "thumbnail": "https://i.ytimg.com/vi/3UUWkr4FUlo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
         {
             "type": "plugin", 
             "title": "Van Halen", 
             "link": "plugin.video.youtube/playlist/PLXSlB4yMaoJt0a3U3L0mCfkBl8E9Fb80e", 
             "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2020/10/van-halen-charts.jpg", 
-            "fanart": ""
-        },           
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "Velvet Revolver", 
+            "link": "plugin.video.youtube/playlist/PLRbvHDw413i02NwFUsUVE4CxKzrRGR4z1", 
+            "thumbnail": "https://i.ytimg.com/vi/_ih7Plsc1r0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
         {
             "type": "plugin", 
             "title": "Veruca Salt", 
             "link": "plugin.video.youtube/playlist/PLw405kull-J2j7dlj6RRb2CX2O_yJ608q", 
             "thumbnail": "https://traceypepper.com/wp-content/uploads/2020/06/vs-adyer6-1024x701-1.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },          
         {
             "type": "plugin", 
             "title": "Velvet Underground & Members", 
             "link": "plugin.video.youtube/playlist/PLHahHqCn1CvnzGhEtdbe6TxMDq3ez_iuZ", 
             "thumbnail": "https://magazine-resources.tidal.com/uploads/2020/11/velvets_resized-1280x982.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         } 
     ]
 }
