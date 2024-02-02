@@ -1,5 +1,12 @@
 {
-    "items": [                                                                   
+    "items": [                                                                      
+        {
+            "type": "item", 
+            "title": "Metallica The Best Rock Songs Ever", 
+            "link": "https://www.youtube.com/watch?v=uO8xz0aNGUM", 
+            "thumbnail": "https://i.ytimg.com/vi/uO8xz0aNGUM/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                  
         {
             "type": "item", 
             "title": "Depeche Mode Top Hits", 
