@@ -1,4 +1,11 @@
 {
-    "items": [ 
+    "items": [                                  
+        {
+            "type": "plugin", 
+            "title": "Coming Soon ", 
+            "link": "", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
     ]
 }
