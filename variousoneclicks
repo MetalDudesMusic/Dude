@@ -1,5 +1,33 @@
 {
-    "items": [                                                     
+    "items": [                                                               
+        {
+            "type": "item", 
+            "title": "Lewis Capaldi Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=cMvDoPjWbZc", 
+            "thumbnail": "https://i.ytimg.com/vi/cMvDoPjWbZc/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                        
+        {
+            "type": "item", 
+            "title": "Pet Shop Boys Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=XuH-GAKxTKI", 
+            "thumbnail": "https://i.ytimg.com/vi/XuH-GAKxTKI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                    
+        {
+            "type": "item", 
+            "title": "The Best Of Michael Jackson", 
+            "link": "https://www.youtube.com/watch?v=-6-AnhFG3cI", 
+            "thumbnail": "https://i.ytimg.com/vi/-6-AnhFG3cI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                  
+        {
+            "type": "item", 
+            "title": "Rick Astley - Ultimate Collection", 
+            "link": "https://www.youtube.com/watch?v=995b1TJG69g", 
+            "thumbnail": "https://i.ytimg.com/vi/995b1TJG69g/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                   
         {
             "type": "item", 
             "title": "The Essential Irish Pub Songs Collection", 
