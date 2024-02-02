@@ -6,7 +6,14 @@
             "link": "https://www.youtube.com/watch?v=cMvDoPjWbZc", 
             "thumbnail": "https://i.ytimg.com/vi/cMvDoPjWbZc/maxresdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                        
+        },                                                           
+        {
+            "type": "item", 
+            "title": "Creedence Clearwater Revival 35 Tunes", 
+            "link": "https://www.youtube.com/watch?v=awTfi_lBk9U", 
+            "thumbnail": "https://i.ytimg.com/vi/awTfi_lBk9U/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                     
         {
             "type": "item", 
             "title": "Pet Shop Boys Greatest Hits", 
