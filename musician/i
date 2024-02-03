@@ -5,14 +5,28 @@
             "title": "Iron Maiden", 
             "link": "plugin.video.youtube/playlist/PL171A6536C5FDFD95", 
             "thumbnail": "https://cdn.apollo.audio/one/media/640a/fe48/4ea1/2205/e6f8/2d0e/iron-maiden-header.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },       
         {
             "type": "plugin", 
             "title": "INXS", 
             "link": "plugin.video.youtube/playlist/PLD34CC157066B4E3E", 
             "thumbnail": "https://d10j3mvrs1suex.cloudfront.net/s:bzglfiles/u/127550/b5464d6686cf6b053e0aff56ec9f57a8f94ba464/original/inxs-kick2.jpg/!!/b%3AW1sic2l6ZSIsInBob3RvIl1d/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Ian Dury", 
+            "link": "plugin.video.youtube/playlist/PLCB8848A0BD23169A", 
+            "thumbnail": "https://i.ytimg.com/vi/c-VeOakGGPQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Iggy Pop", 
+            "link": "plugin.video.youtube/playlist/PLhky9DIg-9uiv-rY_5Qg6VXyrsEG6dufe", 
+            "thumbnail": "https://i.ytimg.com/vi/gApaNggGmQw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
