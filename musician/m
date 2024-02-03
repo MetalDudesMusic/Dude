@@ -1,67 +1,74 @@
 {
-    "items": [             
+    "items": [          
+        {
+            "type": "plugin", 
+            "title": "Method Man", 
+            "link": "plugin.video.youtube/playlist/PL97347189F6AB6806", 
+            "thumbnail": "https://i.ytimg.com/vi/LJFe9pP7_go/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
         {
             "type": "plugin", 
             "title": "Max Richter", 
             "link": "plugin.video.youtube/playlist/PLU6c0pDSf4AfDACMHjEGe-xKRDQhIxFAb", 
             "thumbnail": "https://i.ytimg.com/vi/3L2s1I3l0Cg/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },        
         {
             "type": "plugin", 
             "title": "MEUTE", 
             "link": "plugin.video.youtube/playlist/PL0F3yEq2UmsCktg7rUDOMt5Y1vfZJ28h5", 
             "thumbnail": "https://i.ytimg.com/vi/dlFrI8_Orys/mqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },          
         {
             "type": "plugin", 
             "title": "Motorhead", 
             "link": "plugin.video.youtube/playlist/PLk-DD1p2E1sjxy3gbvXePRZzIhzNHVHSy", 
             "thumbnail": "https://i.ytimg.com/vi/eilzQSthLCY/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },            
         {
             "type": "plugin", 
             "title": "Metallica", 
             "link": "plugin.video.youtube/playlist/PL2D4A44B959D87893", 
             "thumbnail": "https://ichef.bbci.co.uk/news/976/cpsprodpb/17FBE/production/_129283289_gettyimages-521764750.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                      
         {
             "type": "plugin", 
             "title": "Mariah Carey", 
             "link": "plugin.video.youtube/playlist/PLMmBcihs-L-CP-vbRp3uPyGOgmCr51FU3", 
             "thumbnail": "https://i.ytimg.com/vi/UM156Pkfg70/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                        
         {
             "type": "plugin", 
             "title": "Madonna", 
             "link": "plugin.video.youtube/playlist/PL49DB01A161111570", 
             "thumbnail": "https://i.ytimg.com/vi/pufec0Hps00/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                        
         {
             "type": "plugin", 
             "title": "Michael Jackson", 
             "link": "plugin.video.youtube/PL08865B6758432FE8", 
             "thumbnail": "https://i.ytimg.com/vi/yURRmWtbTbo/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },         
         {
             "type": "plugin", 
             "title": "Misfits", 
             "link": "plugin.video.youtube/playlist/PLVgGT_m10yKKkWm0y1mwyldgF__pLIh1v", 
             "thumbnail": "https://www.starnewsonline.com/gcdn/authoring/2013/12/03/NSTN/ghows-NC-93eda0f4-9844-4e49-8564-f2417f71fdc8-2bf22e3d.jpeg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },         
         {
             "type": "plugin", 
             "title": "MC5", 
             "link": "plugin.video.youtube/playlist/PLr3Jt6z6eRwKE8sI0orvA7t9IuXrW7QI8", 
             "thumbnail": "https://i.cbc.ca/1.4785857.1534337774!/fileImage/httpImage/wayne-kramer-mc5.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
