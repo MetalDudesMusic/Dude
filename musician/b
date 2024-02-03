@@ -1,5 +1,12 @@
 {
-    "items": [                                             
+    "items": [                                                
+        {
+            "type": "plugin", 
+            "title": "Bad Bunny ", 
+            "link": "plugin.video.youtube/playlist/PLOhV0FrFphUeqtesMo_7NYB-Mfs86Ys5C", 
+            "thumbnail": "https://i.ytimg.com/vi/_PJvpq8uOZM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                          
         {
             "type": "plugin", 
             "title": "Boston", 
