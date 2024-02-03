@@ -1,18 +1,95 @@
 {
-    "items": [         
+    "items": [              
+        {
+            "type": "plugin", 
+            "title": "10cc", 
+            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9Ncc5HJwyaXrQdFeF6qmX6TV", 
+            "thumbnail": "https://i.ytimg.com/vi/fUNTk5xsxk4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "10,000 Maniacs", 
+            "link": "plugin.video.youtube/playlist/PLQlc99hV-nkED77GktWtjq4dIWVPl4KB7", 
+            "thumbnail": "https://i.ytimg.com/vi/GJ75F_MdJYc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "2 live Crew", 
+            "link": "plugin.video.youtube/playlist/PLcraugI2wQnYAyeho7WgVkU5un84QaObN", 
+            "thumbnail": "https://i.ytimg.com/vi/Y3YevE4pI0k/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                
+        {
+            "type": "plugin", 
+            "title": "2Pac", 
+            "link": "plugin.video.youtube/playlist/PLLeKuzVILjsXoMacRFRjeVIUNhzJtl3zD", 
+            "thumbnail": "https://i.ytimg.com/vi/G7chDL-cVqU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "2 Unlimited", 
+            "link": "plugin.video.youtube/playlist/PLQlc99hV-nkED77GktWtjq4dIWVPl4KB7", 
+            "thumbnail": "PLJBorKKZq5Vt-6cJ5b0gitc3LYBVtOYX3", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "4 Non Blondes", 
+            "link": "plugin.video.youtube/playlist/PLgaFNC_I_ZknW4h80tQWh0lsIdl_et5aR", 
+            "thumbnail": "https://i.ytimg.com/vi/6NXnxTNIWkc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Thirty Seconds To Mars", 
+            "link": "plugin.video.youtube/playlist/PLXLyLYYBBdij6Uy2bjJRclM2BUgc09lNE", 
+            "thumbnail": "https://i.ytimg.com/vi/Ntlt2tKi4do/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "plugin", 
+            "title": "1910 Fruitgum Company", 
+            "link": "plugin.video.youtube/playlist/PLJwA39Pw7y-ldVk9idbiRLsa2wGVXfJzE", 
+            "thumbnail": "https://i.ytimg.com/vi/PYQkq84t0DQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "50 Cent", 
+            "link": "plugin.video.youtube/playlist/PL-QNJV86VT5mR5pi49NSOL5s7dNH-A56K", 
+            "thumbnail": "https://i.ytimg.com/vi/5qm8PH4xAss/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "5 Seconds of Summer", 
+            "link": "plugin.video.youtube/playlist/PLdvtiPoD-IUBJgztksoM2ha75OsoN3FZs", 
+            "thumbnail": "https://i.ytimg.com/vi/X2BYmmTI04I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Twenty One Pilots", 
+            "link": "plugin.video.youtube/playlist/PL0A42C164824B74F9", 
+            "thumbnail": "https://i.ytimg.com/vi/Io2hbcrAYBw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
         {
             "type": "plugin", 
             "title": "3 Doors Down", 
             "link": "plugin.video.youtube/playlist/PLE8882827DC004972", 
             "thumbnail": "https://www.songwritingmagazine.co.uk/wp-content/uploads/3-doors-down-1-by-dove-shore.jpg.webp", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },        
         {
             "type": "plugin", 
             "title": "60s 70s 80s 90s live", 
             "link": "plugin.video.youtube/playlist/PLgTorTVCekZhQesUUZRLh_FKEZjaovpJi", 
             "thumbnail": "https://i.ytimg.com/vi/VBTKVjs_I1w/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
