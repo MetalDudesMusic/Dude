@@ -1,5 +1,12 @@
 {
-    "items": [          
+    "items": [           
+        {
+            "type": "plugin", 
+            "title": "Marshmallow", 
+            "link": "plugin.video.youtube/playlist/PL4FB1JvhTLrGNSL4odYt72EqjDPJfjSdp", 
+            "thumbnail": "https://i.ytimg.com/vi/ALZHF5UqnU4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
         {
             "type": "plugin", 
             "title": "Method Man", 
