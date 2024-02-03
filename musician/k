@@ -1,5 +1,12 @@
 {
-    "items": [                                          
+    "items": [                                             
+        {
+            "type": "plugin", 
+            "title": "Kanye West", 
+            "link": "plugin.video.youtube/playlist/PLq3UZa7STrbolKNNnuh9P0Tr6nVxV0Sve", 
+            "thumbnail": "https://i.ytimg.com/vi/cwQgjq0mCdE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                       
         {
             "type": "plugin", 
             "title": "Kate Bush", 
