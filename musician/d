@@ -2,45 +2,52 @@
     "items": [                  
         {
             "type": "plugin", 
+            "title": "Diplo", 
+            "link": "plugin.video.youtube/playlist/RDCLAK5uy_kyF_I7y27IbLLa1IHYi4ZJYWkBkzAYayk", 
+            "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kyF_I7y27IbLLa1IHYi4ZJYWkBkzAYayk/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                  
+        {
+            "type": "plugin", 
             "title": "DJ BoBo", 
             "link": "plugin.video.youtube/playlist/PLgKoEh79JAdo_4FVAtrlLbMfkvrijsBIy", 
             "thumbnail": "https://i.ytimg.com/vi/NmmSAIfY2oA/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                 
         {
             "type": "plugin", 
             "title": "Deep Purple", 
             "link": "plugin.video.youtube/playlist/PLU3xuDFDbMMf1AFr1dLHprsOmJWEJ4gBp", 
             "thumbnail": "https://i.ytimg.com/vi/W1PNvopXjbg/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                 
         {
             "type": "plugin", 
             "title": "Drake", 
             "link": "plugin.video.youtube/playlist/RDCLAK5uy_n7TBD7OyJBbU9VnPuvrCbgpU5AXRY2lYg", 
             "thumbnail": "https://i.ytimg.com/vi/7LnBvuzjpr4/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },         
         {
             "type": "plugin", 
             "title": "David Bowie", 
             "link": "plugin.video.youtube/playlist/PLkRzqIoq7yc3A5-7E6bDlk5PLeJMNfZIi", 
             "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/10/F6FAGT-1038x778.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },           
         {
             "type": "plugin", 
             "title": "Def Leppard", 
             "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFv7G2CZp_v2rD-YxoFek5mw", 
             "thumbnail": "https://www.udiscovermusic.com/wp-content/uploads/2022/08/Def-Leppard-GettyImages-73991295.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                     
         {
             "type": "plugin", 
             "title": "Dionne Warwick", 
             "link": "plugin.video.youtube/playlist/PLmxGDTmqIb19q20yXjqYz688_oVesI3q0", 
             "thumbnail": "https://i.ytimg.com/vi/8VCuCm6XKeA/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
