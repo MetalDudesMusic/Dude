@@ -20,7 +20,14 @@
             "link": "https://www.youtube.com/watch?v=m6p85kZyfoI", 
             "thumbnail": "https://i.ytimg.com/vi/m6p85kZyfoI/maxresdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                             
+        },                                                                  
+        {
+            "type": "item", 
+            "title": "St. Patrick's Day With The Dubliners", 
+            "link": "https://www.youtube.com/watch?v=FgSZgakakLw", 
+            "thumbnail": "https://i.ytimg.com/vi/FgSZgakakLw/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                        
         {
             "type": "item", 
             "title": "Lewis Capaldi Greatest Hits", 
