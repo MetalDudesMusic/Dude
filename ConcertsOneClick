@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "item", 
+            "title": "The Beach Boys 25 Years Together: A Celebration in Waikiki 1080p", 
+            "link": "https://www.youtube.com/watch?v=cuYeV2bV0P0", 
+            "thumbnail": "https://i.ytimg.com/vi/cuYeV2bV0P0/maxresdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
             "title": "Rammstein – Live aus Helsinki 2023 1080p", 
             "link": "https://www.youtube.com/watch?v=nkveXCBUWGs", 
             "thumbnail": "https://i.ytimg.com/vi/nkveXCBUWGs/maxresdefault.jpg", 
