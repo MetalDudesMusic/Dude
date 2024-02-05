@@ -13,6 +13,20 @@
             "link": "plugin.video.youtube/playlist/PLvPG3YUtlLt-2bVQyAm5pHTYTomRsKRm_", 
             "thumbnail": "https://i.ytimg.com/vi/q3SjqGfe-yM/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        }
+        },
+        {
+            "type": "plugin", 
+            "title": "Hippie Videos", 
+            "link": "plugin.video.youtube/playlist/PLUZp1FWvAEwpHTQ5zoloelp8ZnbrHxDJq", 
+            "thumbnail": "https://i.ytimg.com/vi/SQptBA2aUQs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Best of the late 1960s hippie music", 
+            "link": "plugin.video.youtube/playlist/PLcKsmDSQYsoGtUH85L4Wa5yRVxOAD29iu", 
+            "thumbnail": "https://i.ytimg.com/vi/Mb3iPP-tHdA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
     ]
 }
