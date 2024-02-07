@@ -1,5 +1,12 @@
 {
-    "items": [                                      
+    "items": [                                         
+        {
+            "type": "plugin", 
+            "title": "Wilco", 
+            "link": "plugin.video.youtube/PLLWq1N9a7WIpwo_zHaNZ5O7ytsnqw_oHc", 
+            "thumbnail": "https://i.ytimg.com/vi/P2Gbbd6pVMg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                    
         {
             "type": "plugin", 
             "title": "Who", 
