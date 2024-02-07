@@ -1,5 +1,12 @@
 {
-    "items": [                                                    
+    "items": [                                                      
+        {
+            "type": "item", 
+            "title": "Los del Rio Vs Snoop Dogg - Macarena like it's hot", 
+            "link": "https://www.youtube.com/watch?v=H6FZJikLeIk", 
+            "thumbnail": "https://i.ytimg.com/vi/H6FZJikLeIk/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                   
         {
             "type": "item", 
             "title": "Clubland Bounce 2024 by Djbangerz", 
