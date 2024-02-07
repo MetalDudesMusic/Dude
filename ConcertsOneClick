@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "item", 
+            "title": "Neil Diamond Greatest Hits Live 1988", 
+            "link": "https://www.youtube.com/watch?v=y_jUX98mpxE", 
+            "thumbnail": "https://i.ytimg.com/vi/y_jUX98mpxE/sddefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
             "title": "Cliff Richard & The Shadows The Final Reunion 2009 720p", 
             "link": "https://www.youtube.com/watch?v=NrQigVJNzrw", 
             "thumbnail": "https://i.ytimg.com/vi/ZXWL33rrsyg/hq720.jpg", 
