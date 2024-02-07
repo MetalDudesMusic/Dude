@@ -2,6 +2,20 @@
     "items": [                                                                      
         {
             "type": "item", 
+            "title": "Lynyrd Skynyrd Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=JgjrxIczT18", 
+            "thumbnail": "https://i.ytimg.com/vi/JgjrxIczT18/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                      
+        {
+            "type": "item", 
+            "title": "Lindsey Stirling Greatest Hits Collection Best Violin Music", 
+            "link": "https://www.youtube.com/watch?v=0-1jEhT3umA", 
+            "thumbnail": "https://i.ytimg.com/vi/0-1jEhT3umA/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                     
+        {
+            "type": "item", 
             "title": "Metallica The Best Rock Songs Ever", 
             "link": "https://www.youtube.com/watch?v=uO8xz0aNGUM", 
             "thumbnail": "https://i.ytimg.com/vi/uO8xz0aNGUM/maxresdefault.jpg", 
