@@ -1,10 +1,17 @@
 {
-    "items": [                                                                      
+    "items": [                                                                       
         {
             "type": "item", 
-            "title": "Lynyrd Skynyrd Greatest Hits", 
-            "link": "https://www.youtube.com/watch?v=JgjrxIczT18", 
-            "thumbnail": "https://i.ytimg.com/vi/JgjrxIczT18/maxresdefault.jpg", 
+            "title": "Hawaiian Reggae With Fiji, J Boog, Kolohe Kai, Maoli, The Green & More", 
+            "link": "https://www.youtube.com/watch?v=EePPGmGCTe0", 
+            "thumbnail": "https://i.ytimg.com/vi/EePPGmGCTe0/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                     
+        {
+            "type": "item", 
+            "title": "Josh Turner Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=2wXA6lbF_yk", 
+            "thumbnail": "https://i.ytimg.com/vi/qElOfBhzyhY/maxresdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                                      
         {
