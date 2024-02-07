@@ -1,5 +1,12 @@
 {
-    "items": [                                  
+    "items": [                                      
+        {
+            "type": "plugin", 
+            "title": "Yes", 
+            "link": "plugin.video.youtube/playlist/PLaH6m1ajIWp6_Oabv1Q_5u4x9cCWuYNsX", 
+            "thumbnail": "https://i.ytimg.com/vi/W10qiXqlvo8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                               
         {
             "type": "plugin", 
             "title": "Yardbirds", 
