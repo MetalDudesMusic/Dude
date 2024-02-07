@@ -6,7 +6,14 @@
             "link": "https://www.youtube.com/watch?v=H6FZJikLeIk", 
             "thumbnail": "https://i.ytimg.com/vi/H6FZJikLeIk/maxresdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                   
+        },                                                       
+        {
+            "type": "item", 
+            "title": "Kevin and Perry Go Large or Go Home mix", 
+            "link": "https://www.youtube.com/watch?v=tek9VEysgmU", 
+            "thumbnail": "https://i.ytimg.com/vi/A3zq-noPAs4/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                  
         {
             "type": "item", 
             "title": "Clubland Bounce 2024 by Djbangerz", 
