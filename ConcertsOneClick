@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "item", 
+            "title": "Cliff Richard & The Shadows The Final Reunion 2009 720p", 
+            "link": "https://www.youtube.com/watch?v=NrQigVJNzrw", 
+            "thumbnail": "https://i.ytimg.com/vi/ZXWL33rrsyg/hq720.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
             "title": "The Beach Boys 25 Years Together: A Celebration in Waikiki 1080p", 
             "link": "https://www.youtube.com/watch?v=cuYeV2bV0P0", 
             "thumbnail": "https://i.ytimg.com/vi/cuYeV2bV0P0/maxresdefault.jpg", 
