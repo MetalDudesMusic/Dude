@@ -6,6 +6,13 @@
             "link": "https://www.youtube.com/watch?v=HHQS-gNFiuk", 
             "thumbnail": "https://i.ytimg.com/vi/vwpbz6ttBo8/hq720.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                       
+        {
+            "type": "item", 
+            "title": "Best of Vengaboys", 
+            "link": "https://www.youtube.com/watch?v=8FXZO5IgLxI", 
+            "thumbnail": "https://i.ytimg.com/vi/8FXZO5IgLxI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                                      
         {
             "type": "item", 
@@ -33,6 +40,13 @@
             "title": "Metallica The Best Rock Songs Ever", 
             "link": "https://www.youtube.com/watch?v=uO8xz0aNGUM", 
             "thumbnail": "https://i.ytimg.com/vi/uO8xz0aNGUM/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                       
+        {
+            "type": "item", 
+            "title": "Best Songs Of John Denver", 
+            "link": "https://www.youtube.com/watch?v=_24E4W7_JK4", 
+            "thumbnail": "https://i.ytimg.com/vi/TW2bShT_0f8/maxresdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                                  
         {
@@ -181,7 +195,14 @@
             "link": "https://www.youtube.com/watch?v=VrlyWJ6g36Q", 
             "thumbnail": "https://i.ytimg.com/vi/VrlyWJ6g36Q/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                            
+        },                                              
+        {
+            "type": "item", 
+            "title": "Demis Roussos Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=TAKqZdnuZ8c", 
+            "thumbnail": "https://i.ytimg.com/vi/TAKqZdnuZ8c/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                           
         {
             "type": "item", 
             "title": "Mariah Carey, Celine Dion, Whitney Houston Greatest Hits", 
