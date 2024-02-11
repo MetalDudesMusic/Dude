@@ -2,80 +2,87 @@
     "items": [
         {
             "type": "item", 
+            "title": "Bonnie Raitt", 
+            "link": "https://my.mail.ru/mail/brucegill993/video/Concerts/53.html", 
+            "thumbnail": "https://i.ytimg.com/vi/CR4LYkYX1yw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
             "title": "Neil Diamond Greatest Hits Live 1988", 
             "link": "https://www.youtube.com/watch?v=y_jUX98mpxE", 
             "thumbnail": "https://i.ytimg.com/vi/y_jUX98mpxE/sddefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Cliff Richard & The Shadows The Final Reunion 2009 720p", 
             "link": "https://www.youtube.com/watch?v=NrQigVJNzrw", 
             "thumbnail": "https://i.ytimg.com/vi/ZXWL33rrsyg/hq720.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "The Beach Boys 25 Years Together: A Celebration in Waikiki 1080p", 
             "link": "https://www.youtube.com/watch?v=cuYeV2bV0P0", 
             "thumbnail": "https://i.ytimg.com/vi/cuYeV2bV0P0/maxresdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Rammstein – Live aus Helsinki 2023 1080p", 
             "link": "https://www.youtube.com/watch?v=nkveXCBUWGs", 
             "thumbnail": "https://i.ytimg.com/vi/nkveXCBUWGs/maxresdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Scooter Highfield Festival 2016 - WDR Rockpalast 1080p", 
             "link": "https://www.youtube.com/watch?v=E3Y-0b6BRtc", 
             "thumbnail": "https://i.ytimg.com/vi/vjOVFNnSDH4/hq720.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Rammstein - Live Berlin 2019 720p", 
             "link": "https://vk.com/video-63758929_456288620", 
             "thumbnail": "https://sun6-22.userapi.com/c851524/v851524829/168953/3BmcW-3IBQk.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Down - Hellfest 2022 1080p", 
             "link": "https://vk.com/video155225046_456242999", 
             "thumbnail": "https://i.mycdn.me/getVideoPreview?id=2678653782742&idx=6&type=39&tkn=c3pdUTQDU1J5AFPpVcePXDMAWi8&fn=vid_l", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "BON JOVI 360p", 
             "link": "https://vk.com/video155225046_456242999", 
             "thumbnail": "https://sun6-20.userapi.com/CZMpd3n2HY87EkrUltuj8Hjkn_bZPi35fN0tPw/4BBNE1HwZd8.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Pink Floyd - The Later Years - Venice Concert 1989 & Knebworth Concert 1990 1080p", 
             "link": "https://vk.com/video-141496373_456240511", 
             "thumbnail": "https://i.mycdn.me/getVideoPreview?id=5282989869731&idx=13&type=39&tkn=vXX11-1a_06Ado327_QS2RipBFQ&fn=vid_l", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Motorhead - 2015 1080p", 
             "link": "https://vk.com/video220023713_456239245", 
             "thumbnail": "https://sun6-22.userapi.com/c637321/v637321713/ad6/GWTYLEsTerU.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Bob Moses Falling Into Focus 1080p", 
             "link": "https://vk.com/video-1959_456249531", 
             "thumbnail": "https://i.mycdn.me/getVideoPreview?id=1259303013044&idx=0&type=39&tkn=B_k2mMvSv7Fili_nV_Xslm99AQg&fn=vid_l", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
