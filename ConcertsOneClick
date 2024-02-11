@@ -2,7 +2,42 @@
     "items": [
         {
             "type": "item", 
-            "title": "Bonnie Raitt", 
+            "title": "RUSH Time Machine Live in Cleveland 2011", 
+            "link": "https://my.mail.ru/mail/brucegill993/video/Concerts/47.html", 
+            "thumbnail": "https://i.ytimg.com/vi/ngzWoc6W5uQ/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "U2 LIVE What A Summer Night Cleveland 2017", 
+            "link": "https://my.mail.ru/mail/brucegill993/video/Concerts/48.html", 
+            "thumbnail": "https://i.ytimg.com/vi/mt1EPbrNpg4/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "Alice Cooper -Halloween Night Of Fear 2011", 
+            "link": "https://my.mail.ru/mail/brucegill993/video/Concerts/49.html", 
+            "thumbnail": "https://i.ytimg.com/vi/7HEeuIShALk/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "BLACK SABBATH - Live in Paris 1970", 
+            "link": "https://my.mail.ru/mail/brucegill993/video/Concerts/50.html", 
+            "thumbnail": "https://i.ytimg.com/vi/Xqjify__PWw/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "Chris Cornell Acoustic Live", 
+            "link": "https://my.mail.ru/mail/brucegill993/video/Concerts/51.html", 
+            "thumbnail": "https://images.squarespace-cdn.com/content/536cdcbae4b0128e37adc2e0/1504793142322-KMCDMYPLNY6SO2J7KQKC/Screen+Shot+2017-09-07+at+10.05.06+AM.png", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
+            "title": "Bonnie Raitt 1994", 
             "link": "https://my.mail.ru/mail/brucegill993/video/Concerts/53.html", 
             "thumbnail": "https://i.ytimg.com/vi/CR4LYkYX1yw/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
