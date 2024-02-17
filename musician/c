@@ -1,5 +1,12 @@
 {
-    "items": [                             
+    "items": [                              
+        {
+            "type": "plugin", 
+            "title": "Charlie Daniels Band", 
+            "link": "plugin.video.youtube/playlist/PLLDVfSPfze0sj5SEDmq3QwizQXQOpAyLB", 
+            "thumbnail": "https://i.ytimg.com/vi/XboVpx8MPfM/hqdefault.jpg", 
+            "fanart": ""
+        },                           
         {
             "type": "plugin", 
             "title": "C&C Music Factory", 
