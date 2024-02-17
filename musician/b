@@ -1,5 +1,12 @@
 {
-    "items": [                                                
+    "items": [                                                   
+        {
+            "type": "plugin", 
+            "title": "Brad Paisley", 
+            "link": "plugin.video.youtube/playlist/PL22B6532B483DC049", 
+            "thumbnail": "https://i.ytimg.com/vi/UE6iAjEv9dQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
         {
             "type": "plugin", 
             "title": "Bad Bunny ", 
