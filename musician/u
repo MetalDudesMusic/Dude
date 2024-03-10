@@ -1,5 +1,12 @@
 {
-    "items": [          
+    "items": [            
+        {
+            "type": "plugin", 
+            "title": "Ultravox", 
+            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9NeuCVJ_sRtTwGaN9MVtoFM7", 
+            "thumbnail": "https://i.ytimg.com/vi/VVkHZz0WOqs/hqdefault.jpg", 
+            "fanart": ""
+        },          
         {
             "type": "plugin", 
             "title": "Uriah Heep", 
