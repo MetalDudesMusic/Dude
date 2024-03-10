@@ -13,7 +13,14 @@
             "link": "plugin.video.youtube/playlist/PLXSlB4yMaoJt0a3U3L0mCfkBl8E9Fb80e", 
             "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2020/10/van-halen-charts.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },             
+        },            
+        {
+            "type": "plugin", 
+            "title": "Vangelis", 
+            "link": "plugin.video.youtube/playlist/PL3zFoNUcbyY_VqRnX4nMGDiJZ0VX7kqg4", 
+            "thumbnail": "https://i.ytimg.com/vi/UdPOCQGYwrk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
         {
             "type": "plugin", 
             "title": "Velvet Revolver", 
