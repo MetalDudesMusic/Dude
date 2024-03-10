@@ -1,5 +1,12 @@
 {
-    "items": [                                                      
+    "items": [                                                             
+        {
+            "type": "item", 
+            "title": "DJ DISCO REMIX 2024 - Mashups & Remixes of Popular Songs 2024", 
+            "link": "https://www.youtube.com/watch?v=aGAUeEc7KCo", 
+            "thumbnail": "https://glarity.app/cover-photo/uGSTpjN1e8g/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                               
         {
             "type": "item", 
             "title": "Los del Rio Vs Snoop Dogg - Macarena like it's hot", 
