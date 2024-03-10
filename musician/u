@@ -2,13 +2,6 @@
     "items": [            
         {
             "type": "plugin", 
-            "title": "Ultravox", 
-            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9NeuCVJ_sRtTwGaN9MVtoFM7", 
-            "thumbnail": "https://i.ytimg.com/vi/VVkHZz0WOqs/hqdefault.jpg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },          
-        {
-            "type": "plugin", 
             "title": "Uriah Heep", 
             "link": "plugin.video.youtube/playlist/PLB2WFbEDWjv9Gq1UR4aapMzHQeUKxytXd", 
             "thumbnail": "https://i.ytimg.com/vi/b_5CgNbo0ns/hqdefault.jpg", 
