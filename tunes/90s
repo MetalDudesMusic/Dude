@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "Oldies But Goodies Non Stop Medley Playlist YT", 
+            "link": "https://www.youtube.com/watch?v=GMJe5p_vIPY", 
+            "thumbnail": "https://i.ytimg.com/vi/GMJe5p_vIPY/sddefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "90s Hidden Gems Playlist YT", 
             "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5YmthdJhinsjjl048UTMe5", 
             "thumbnail": "https://i.ytimg.com/vi/W8oa790RFUU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDmjMEICDUd65qJVe-CiSQmTuwzPA", 
