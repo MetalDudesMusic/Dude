@@ -1,5 +1,12 @@
 {
-    "items": [           
+    "items": [               
+        {
+            "type": "plugin", 
+            "title": "Morrissey", 
+            "link": "plugin.video.youtube/playlist/PLcbZsrmlXdIDGJt728xJph5Ob3uaiW0bz", 
+            "thumbnail": "https://i.ytimg.com/vi/T8V82TXOzm0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
         {
             "type": "plugin", 
             "title": "Marshmallow", 
