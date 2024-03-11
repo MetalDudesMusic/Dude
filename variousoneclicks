@@ -1,5 +1,12 @@
 {
-    "items": [                                                 
+    "items": [                                                     
+        {
+            "type": "plugin", 
+            "title": "test", 
+            "link": "plugin.video.youtube/playlist/PLrCxDXHhHU9GSSYzkrT40lCWLX6RJnP4M", 
+            "thumbnail": "https://i.ytimg.com/vi/SIX6HBNpvJA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
         {
             "type": "plugin", 
             "title": "100 Greatest Movie Songs of All Time", 
