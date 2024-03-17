@@ -1,5 +1,26 @@
 {
-    "items": [                  
+    "items": [                               
+        {
+            "type": "plugin", 
+            "title": "Davai", 
+            "link": "plugin.video.youtube/playlist/PLQCa41GWKYtl9XqiMcrFJ94opGLzFWAyR", 
+            "thumbnail": "https://i.ytimg.com/vi/ZFCtgNF5BGY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                            
+        {
+            "type": "plugin", 
+            "title": "Dua lipa", 
+            "link": "plugin.video.youtube/playlist/PLku4OZMkmaZ77ZS0A_LRVUr2vU95ZXCLl", 
+            "thumbnail": "https://i.ytimg.com/vi/Nz-dPOjK1gQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                 
+        {
+            "type": "plugin", 
+            "title": "Dennis Lloyd", 
+            "link": "plugin.video.youtube/playlist/PL8x1IFvRiFsMQ-l46APDbjG8k7iFn33_d", 
+            "thumbnail": "https://i.ytimg.com/vi/lhGl9D514Bc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
         {
             "type": "plugin", 
             "title": "Diplo", 
