@@ -1,19 +1,5 @@
 {
-    "items": [               
-        {
-            "type": "plugin", 
-            "title": "Jack Back", 
-            "link": "plugin.video.youtube/playlist/PLz1iM8YfFbTf-5l5oU-zRKCFOhiXcO6Dc", 
-            "thumbnail": "https://i.ytimg.com/vi/gui-Ldpqnkg/hqdefault.jpg", 
-            "fanart": ""
-        },          
-        {
-            "type": "plugin", 
-            "title": "Jem", 
-            "link": "plugin.video.youtube/playlist/PL1B10E14A5F860D1A", 
-            "thumbnail": "https://i.ytimg.com/vi/O4FiHEWqE0Q/hqdefault.jpg", 
-            "fanart": ""
-        },           
+    "items": [           
         {
             "type": "plugin", 
             "title": "Fine Young Cannibals", 
