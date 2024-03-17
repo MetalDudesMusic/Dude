@@ -2,6 +2,13 @@
     "items": [                                    
         {
             "type": "plugin", 
+            "title": "NF", 
+            "link": "plugin.video.youtube/playlist/PLlHv2_0xmZFSghNk73-vXAxT9zchFrJDg", 
+            "thumbnail": "https://i.ytimg.com/vi/vhumOLNSSJY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                    
+        {
+            "type": "plugin", 
             "title": "Noel Gallagher", 
             "link": "plugin.video.youtube/playlist/PLhnSpZ9Wd-pQ8amhm-HA5qHiyiwkWXHFt", 
             "thumbnail": "https://i.ytimg.com/vi/QDVKurl_d4g/mqdefault.jpg", 
