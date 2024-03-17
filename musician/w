@@ -1,5 +1,12 @@
 {
-    "items": [                                         
+    "items": [                                                 
+        {
+            "type": "plugin", 
+            "title": "Wolfgang Lohr", 
+            "link": "plugin.video.youtube/PLv3UtBdl018Iy26tQ-VjHkYkuIlxtWNyN", 
+            "thumbnail": "https://i.ytimg.com/vi/EsCzq-H4PB4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
         {
             "type": "plugin", 
             "title": "Wilco", 
