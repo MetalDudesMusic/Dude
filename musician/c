@@ -1,5 +1,33 @@
 {
-    "items": [                              
+    "items": [                                      
+        {
+            "type": "plugin", 
+            "title": "Camelphat", 
+            "link": "plugin.video.youtube/playlist/PLVZUD3UGJqShi9G2HYU2c6xj_quj3-nXY", 
+            "thumbnail": "https://i.ytimg.com/vi/jAOiRIOll4c/hqdefault.jpg", 
+            "fanart": ""
+        },                                
+        {
+            "type": "plugin", 
+            "title": "Calvin Harris", 
+            "link": "plugin.video.youtube/playlist/PLCnkz7la5RxOXZyYZ9vfqRcphjnk6xThN", 
+            "thumbnail": "https://i.ytimg.com/vi/ir6nk2zrMG0/hqdefault.jpg", 
+            "fanart": ""
+        },                              
+        {
+            "type": "plugin", 
+            "title": "Clean bandit", 
+            "link": "plugin.video.youtube/playlist/PLQ0ZpN7kem-g99ULNf1WPSWmWr3jef2cB", 
+            "thumbnail": "https://i.ytimg.com/vi/Osq0RgGVwK8/hqdefault.jpg", 
+            "fanart": ""
+        },                               
+        {
+            "type": "plugin", 
+            "title": "Confetti", 
+            "link": "plugin.video.youtube/playlist/PLqphpN6E8or5gHn5id3ymhj4QuLMMmwG_", 
+            "thumbnail": "https://i.ytimg.com/vi/QALdcYCujLw/hqdefault.jpg", 
+            "fanart": ""
+        },                             
         {
             "type": "plugin", 
             "title": "Charlie Daniels Band", 
