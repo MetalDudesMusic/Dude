@@ -1,5 +1,12 @@
 {
-    "items": [           
+    "items": [              
+        {
+            "type": "plugin", 
+            "title": "Fall out boy", 
+            "link": "plugin.video.youtube/playlist/PLB43607A7266FA847", 
+            "thumbnail": "https://i.ytimg.com/vi/ADWypQgZxoY/hqdefault.jpg", 
+            "fanart": ""
+        },         
         {
             "type": "plugin", 
             "title": "Fine Young Cannibals", 
