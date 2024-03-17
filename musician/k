@@ -1,5 +1,19 @@
 {
-    "items": [                                             
+    "items": [                                               
+        {
+            "type": "plugin", 
+            "title": "Klingande", 
+            "link": "plugin.video.youtube/playlist/PLebBtf9eNlV0SUpqmtmamm1xV1_c3MF8J", 
+            "thumbnail": "https://i.ytimg.com/vi/b6vSf0cA9qY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
+        {
+            "type": "plugin", 
+            "title": "Kiesza", 
+            "link": "plugin.video.youtube/playlist/PLphth7Q0zqXejRI1XrRfh_IgYmicXqZVD", 
+            "thumbnail": "https://i.ytimg.com/vi/ESXgJ9-H-2U/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
         {
             "type": "plugin", 
             "title": "Kanye West", 
