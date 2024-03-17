@@ -1,5 +1,26 @@
 {
-    "items": [                                  
+    "items": [                                          
+        {
+            "type": "plugin", 
+            "title": "Acraze", 
+            "link": "plugin.video.youtube/playlist/PLD-Xvjaw-gxyzWXfN93XDYmQ80IOtm0t2", 
+            "thumbnail": "https://i.ytimg.com/vi/zDlTfNpLWOU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                    
+        {
+            "type": "plugin", 
+            "title": "Avicii", 
+            "link": "plugin.video.youtube/playlist/PLl8VaWiKm5oul9IUo2qviQAcuHTXMQsQH", 
+            "thumbnail": "https://i.ytimg.com/vi/u8tdT5pAE34/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
+        {
+            "type": "plugin", 
+            "title": "Alex Gaudino", 
+            "link": "plugin.video.youtube/playlist/PLrJAm4P7jiT2UE8A8odqJYAiPJ52hFqPZ", 
+            "thumbnail": "https://i.ytimg.com/vi/1qf91PKPYOw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
         {
             "type": "plugin", 
             "title": "Alabama", 
