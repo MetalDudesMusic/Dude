@@ -1,8 +1,22 @@
 {
-    "items": [                                 
+    "items": [                                    
         {
             "type": "plugin", 
-            "title": "EDDIE COCHRAN", 
+            "title": "Electric Swing Circus", 
+            "link": "plugin.video.youtube/playlist/PLCNIBpXkRPdD1Uf3Cff2qGZgjYZ8GDO4c", 
+            "thumbnail": "https://i.ytimg.com/vi/-E44oN4iVR8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
+        {
+            "type": "plugin", 
+            "title": "Elderbrook", 
+            "link": "plugin.video.youtube/playlist/PLFsaANvBXW-CW7XiYD10Hn76v3mufu5a1", 
+            "thumbnail": "https://i.ytimg.com/vi/IMjgxqRQltw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                               
+        {
+            "type": "plugin", 
+            "title": "Eddie Cochran", 
             "link": "plugin.video.youtube/playlist/PLcSYf7ip_VP-Ok4Hrlmo2OqW_ku5KTioL", 
             "thumbnail": "https://i.ytimg.com/vi/hw8MXhFupno/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
