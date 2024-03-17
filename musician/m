@@ -1,5 +1,19 @@
 {
-    "items": [               
+    "items": [                                                       
+        {
+            "type": "plugin", 
+            "title": "Massive Attack", 
+            "link": "plugin.video.youtube/playlist/PLE5E8A70C17C88527", 
+            "thumbnail": "https://i.ytimg.com/vi/PKtTmZnVhhI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                     
+        {
+            "type": "plugin", 
+            "title": "Mazzy Star", 
+            "link": "plugin.video.youtube/playlist/PLC063D3B9D014F694", 
+            "thumbnail": "https://i.ytimg.com/vi/k6WW97xjvmM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
         {
             "type": "plugin", 
             "title": "Morrissey", 
