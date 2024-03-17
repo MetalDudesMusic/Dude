@@ -1,5 +1,26 @@
 {
-    "items": [                               
+    "items": [                                            
+        {
+            "type": "plugin", 
+            "title": "Skydxddy", 
+            "link": "plugin.video.youtube/playlist/PLspLzdS4_Ba1hSYJSenZJFRTZSjSkCNO3", 
+            "thumbnail": "https://i.ytimg.com/vi/B6Rp9Uc96E8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                          
+        {
+            "type": "plugin", 
+            "title": "Sofi tukker", 
+            "link": "plugin.video.youtube/playlist/PLt76zUfZPnMoUJ521P2Dy5cwBOA8CtbyL", 
+            "thumbnail": "https://i.ytimg.com/vi/5uctsXTwdAE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
+        {
+            "type": "plugin", 
+            "title": "Skylar grey", 
+            "link": "plugin.video.youtube/playlist/PLAGEqetsi5-QGNS_39m7ngP-tT7VghvA8", 
+            "thumbnail": "https://i.ytimg.com/vi/QA_apC4rJyk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                              
         {
             "type": "plugin", 
             "title": "Skrillex", 
