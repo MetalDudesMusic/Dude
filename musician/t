@@ -1,5 +1,61 @@
 {
-    "items": [        
+    "items": [                         
+        {
+            "type": "plugin", 
+            "title": "Tones & I", 
+            "link": "plugin.video.youtube/playlist/PL--TAhjiDC0t4DXZeJA2ZM9Sfxd907K0e", 
+            "thumbnail": "https://i.ytimg.com/vi/l43Xkyvq47w/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                       
+        {
+            "type": "plugin", 
+            "title": "The Blue Stones", 
+            "link": "plugin.video.youtube/playlist/PLMLTuLSeb-L0osp7fMbZumImm_uXVzFht", 
+            "thumbnail": "https://i.ytimg.com/vi/lP_fTSo_zW4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                   
+        {
+            "type": "plugin", 
+            "title": "Throttle", 
+            "link": "plugin.video.youtube/playlist/PLOnBsD7DF_cn2DERZ_h7aYqviim0KhgK2", 
+            "thumbnail": "https://i.ytimg.com/vi/OoBjlsXJl1k/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                    
+        {
+            "type": "plugin", 
+            "title": "Ten Walls", 
+            "link": "plugin.video.youtube/playlist/PLTFkPTr1B_aLCzkmurzaCUCUARw55dBax", 
+            "thumbnail": "https://i.ytimg.com/vi/tuMgJrFoAFY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                   
+        {
+            "type": "plugin", 
+            "title": "Tape Five", 
+            "link": "plugin.video.youtube/playlist/PL58CC68916B896625", 
+            "thumbnail": "https://i.ytimg.com/vi/1TrwxhHXEnE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "The xx", 
+            "link": "plugin.video.youtube/playlist/PL5-5yamiGqUvAxMg55mbfey-BTseukOqp", 
+            "thumbnail": "https://i.ytimg.com/vi/blJKoXWlqJk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Tenacious D", 
+            "link": "plugin.video.youtube/playlist/PLEE257DC0BEA14CD9", 
+            "thumbnail": "https://i.ytimg.com/vi/hvvjiE4AdUI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },     
+        {
+            "type": "plugin", 
+            "title": "The Cardigans", 
+            "link": "plugin.video.youtube/playlist/PL2Ayy56eNU7eXwDER2QKFo1kajoQkhZxw", 
+            "thumbnail": "https://i.ytimg.com/vi/46EwecvbGp8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
         {
             "type": "plugin", 
             "title": "Tom MacDonald", 
