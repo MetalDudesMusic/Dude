@@ -1,5 +1,12 @@
 {
-    "items": [                                    
+    "items": [                                       
+        {
+            "type": "plugin", 
+            "title": "Naz Tokio", 
+            "link": "plugin.video.youtube/playlist/PLTFkPTr1B_aKYFcN0raI5wzsmrf1KYklp", 
+            "thumbnail": "https://i.ytimg.com/vi/pQ2ByoOuOAk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
         {
             "type": "plugin", 
             "title": "NF", 
