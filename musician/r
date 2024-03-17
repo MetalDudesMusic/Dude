@@ -1,5 +1,26 @@
 {
-    "items": [                        
+    "items": [                                      
+        {
+            "type": "plugin", 
+            "title": "Rooftime", 
+            "link": "plugin.video.youtube/playlist/PLeiHB_zRPcMdwr-KR0hZISOaF524EO1pK", 
+            "thumbnail": "https://i.ytimg.com/vi/kgwvfepGnfY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                      
+        {
+            "type": "plugin", 
+            "title": "Route 94", 
+            "link": "plugin.video.youtube/playlist/PLArI9P-52nKHpdihma2J785O1Fvps4xUC", 
+            "thumbnail": "https://i.ytimg.com/vi/BS46C2z5lVE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                             
+        {
+            "type": "plugin", 
+            "title": "Ren", 
+            "link": "plugin.video.youtube/playlist/PL6hptYUfDvzfjcM6hzbf1zGGH8QnCgKr2", 
+            "thumbnail": "https://i.ytimg.com/vi/OjElKx6q2Wc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                 
         {
             "type": "plugin", 
             "title": "Redman", 
