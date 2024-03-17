@@ -1,5 +1,19 @@
 {
-    "items": [                                                   
+    "items": [                                                       
+        {
+            "type": "plugin", 
+            "title": "Oliver $", 
+            "link": "plugin.video.youtube/playlist/PL2gusRdbuxAd9_u6BYqhjS5rndv8L8UEw", 
+            "thumbnail": "https://i.ytimg.com/vi/TV9iU5mkOC0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                    
+        {
+            "type": "plugin", 
+            "title": "Of monsters and men", 
+            "link": "plugin.video.youtube/playlist/PL4JDGwggfdfCFoY5zBbQtjEp8FFT9jjiQ", 
+            "thumbnail": "https://i.ytimg.com/vi/ghb6eDopW8I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                 
         {
             "type": "plugin", 
             "title": "One Republic", 
