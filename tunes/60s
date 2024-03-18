@@ -2,6 +2,34 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "1960s Music Performances in 4K", 
+            "link": "plugin.video.youtube/playlist/PLncUCZkpIEBI9d65pVNRrhP-QGMEj-jFp", 
+            "thumbnail": "https://i.ytimg.com/vi/4c7D0YsgnrE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Most Popular 1960s Performances on The Ed Sullivan Show", 
+            "link": "plugin.video.youtube/playlist/PLQWND5qZhbj1DyOnezEzydithIi-32Fi4", 
+            "thumbnail": "https://i.ytimg.com/vi/MIIU9xkGAMs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Greatest 1960s & 1970s Folk Songs", 
+            "link": "plugin.video.youtube/playlist/PLGBuKfnErZlBLNzS_JlDAeiH5aW26rvHc", 
+            "thumbnail": "https://i.ytimg.com/vi/dN3GbF9Bx6E/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "60s Music Hits", 
+            "link": "plugin.video.youtube/playlist/PLxA687tYuMWhsg1ZOb7dctduaJu4yUPUI", 
+            "thumbnail": "https://i.ytimg.com/vi/2RicaUqd9Hg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "Vietnam hippies", 
             "link": "plugin.video.youtube/playlist/PLrjNdGnvZkQe20qSZnqt_-GVmAbpfwEau", 
             "thumbnail": "https://i.ytimg.com/vi/Tsjk5y36Fr8/hqdefault.jpg", 
@@ -19,13 +47,6 @@
             "title": "Hippie Videos", 
             "link": "plugin.video.youtube/playlist/PLUZp1FWvAEwpHTQ5zoloelp8ZnbrHxDJq", 
             "thumbnail": "https://i.ytimg.com/vi/SQptBA2aUQs/hqdefault.jpg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Best of the late 1960s hippie music", 
-            "link": "plugin.video.youtube/playlist/PLcKsmDSQYsoGtUH85L4Wa5yRVxOAD29iu", 
-            "thumbnail": "https://i.ytimg.com/vi/Mb3iPP-tHdA/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
