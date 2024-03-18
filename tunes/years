@@ -1,5 +1,12 @@
 {
-    "items": [     
+    "items": [         
+        {
+            "type": "dir", 
+            "title": "Coming Soon Billboard top 100 for every year from 1960 until Now", 
+            "link": "", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
         {
             "type": "dir", 
             "title": "60s Music Videos YT", 
