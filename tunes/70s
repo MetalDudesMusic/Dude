@@ -2,6 +2,27 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "70s Lite Hits Playlist YT", 
+            "link": "plugin.video.youtube/playlist/RDCLAK5uy_maC8_YA458CPC-VeeLpyPPJbj2mA9Y6lY", 
+            "thumbnail": "https://i.ytimg.com/vi/tH2w6Oxx0kQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "The Hits 70s Playlist YT", 
+            "link": "plugin.video.youtube/playlist/RDCLAK5uy_l9zGPtwEeIpwVXtBZ216yRhklsre5bbOM", 
+            "thumbnail": "https://i.ytimg.com/vi/yDzhrO5K02c/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "70's Music Hits Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PLGBuKfnErZlAkaUUy57-mR97f8SBgMNHh", 
+            "thumbnail": "https://i.ytimg.com/vi/ZhIsAZO5gl0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "70s Hidden Gems Playlist YT", 
             "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5xxO3-PpiQMIWRYFgpxAPL", 
             "thumbnail": "https://i.ytimg.com/vi/aogEfnvFq7s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAQMTI4nIEFdRqcYQn8xKlSN8CoIg", 
