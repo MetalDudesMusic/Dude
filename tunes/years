@@ -3,7 +3,7 @@
         {
             "type": "dir", 
             "title": "Coming Soon Billboard top 100 for every year from 1960 until Now", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard1960s.json", 
             "thumbnail": "", 
             "fanart": ""
         },
