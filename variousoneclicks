@@ -1,5 +1,19 @@
 {
-    "items": [                                              
+    "items": [                                                     
+        {
+            "type": "item", 
+            "title": "Barry White Greatest Hits", 
+            "link": "https://www.youtube.com/watch?v=vu7Upgn2L54", 
+            "thumbnail": "https://i.ytimg.com/vi/vu7Upgn2L54/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                    
+        {
+            "type": "item", 
+            "title": "David Guetta Greatest Hits Popular Songs", 
+            "link": "https://www.youtube.com/watch?v=mPtTWaDtZ9U", 
+            "thumbnail": "https://i.ytimg.com/vi/mPtTWaDtZ9U/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
         {
             "type": "plugin", 
             "title": "100 Greatest Movie Songs of All Time", 
