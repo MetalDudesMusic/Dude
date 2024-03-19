@@ -1,49 +1,49 @@
 {
     "items": [
         {
-            "type": "item", 
+            "type": "dir", 
             "title": "Billboard 60s", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard1960s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
-            "type": "item", 
+            "type": "dir", 
             "title": "Billboard 70s", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard1970s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
-            "type": "item", 
+            "type": "dir", 
             "title": "Billboard 80s", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard1980s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
-            "type": "item", 
+            "type": "dir", 
             "title": "Billboard 90s", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard1990s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
-            "type": "item", 
+            "type": "dir", 
             "title": "Billboard 00s", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard2000s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
-            "type": "item", 
+            "type": "dir", 
             "title": "Billboard 10s", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard2010s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
-            "type": "item", 
+            "type": "dir", 
             "title": "Billboard 20s", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard2020s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
