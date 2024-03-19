@@ -30,21 +30,21 @@
         },
         {
             "type": "dir", 
-            "title": "Billboard 00s", 
+            "title": "Billboard 00s Coming Soon", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard2000s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
             "type": "dir", 
-            "title": "Billboard 10s", 
+            "title": "Billboard 10s Coming Soon", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard2010s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
             "type": "dir", 
-            "title": "Billboard 20s", 
+            "title": "Billboard 20s Coming Soon", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboard2020s.json", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
