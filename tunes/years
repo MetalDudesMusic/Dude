@@ -3,7 +3,7 @@
         {
             "type": "dir", 
             "title": "Billboard Top 100 for every year from 1960 until Now", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/Billboardtop100.json", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/billboardtop100.json", 
             "thumbnail": "", 
             "fanart": ""
         },
