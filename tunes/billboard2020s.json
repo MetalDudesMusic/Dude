@@ -1,28 +1,28 @@
 {
     "items": [
         {
-            "type": "item", 
+            "type": "plugin", 
             "title": "Billboard year-end top 100 singles of 2020", 
             "link": "plugin.video.youtube/playlist/PLr9aaTkgt7X3LhROw6WECgiFqRlIkAgaD", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
-            "type": "item", 
+            "type": "plugin", 
             "title": "Billboard year-end top 100 singles of 2021", 
             "link": "plugin.video.youtube/playlist/PLQ6EBwcX6Ye70GJU5tvG81hohK5mDLItL", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
-            "type": "item", 
+            "type": "plugin", 
             "title": "Billboard year-end top 100 singles of 2022", 
             "link": "plugin.video.youtube/playlist/PLQ6EBwcX6Ye4J0whg0fw04iYphrqG3F7x", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
             "fanart": ""
         },
         {
-            "type": "item", 
+            "type": "plugin", 
             "title": "Billboard year-end top 100 singles of 2023", 
             "link": "plugin.video.youtube/playlist/PLdv33Q3_-41Hvf43VtcqsfQQOpWFd1_BF", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
