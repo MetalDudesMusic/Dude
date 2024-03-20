@@ -1,5 +1,33 @@
 {
-    "items": [                                                     
+    "items": [                                                                                                                                                                   
+        {
+            "type": "item", 
+            "title": "Dark Country Playlist", 
+            "link": "https://www.youtube.com/watch?v=vM_654DYN9w", 
+            "thumbnail": "https://i.ytimg.com/vi/XBVWALD96zE/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                            
+        {
+            "type": "item", 
+            "title": "SASH! - The Megamix All the Hits 1997 - 2009", 
+            "link": "https://www.youtube.com/watch?v=C-T8bUmeoCs", 
+            "thumbnail": "https://i.ytimg.com/vi/C-T8bUmeoCs/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                       
+        {
+            "type": "item", 
+            "title": "Boney M Megamix DJMars", 
+            "link": "https://www.youtube.com/watch?v=mP8wHg4PufU", 
+            "thumbnail": "https://i.ytimg.com/vi/mP8wHg4PufU/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                      
+        {
+            "type": "item", 
+            "title": "Axel F (Beverly Hills Cop) x Mission Impossible Epic Mashup 2024", 
+            "link": "https://www.youtube.com/watch?v=LxpWCUh6WLg", 
+            "thumbnail": "https://i.ytimg.com/vi/LxpWCUh6WLg/sddefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                  
         {
             "type": "item", 
             "title": "Barry White Greatest Hits", 
