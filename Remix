@@ -1,5 +1,26 @@
 {
-    "items": [                                                                                                                                                    
+    "items": [                                                                                                                                                        
+        {
+            "type": "item", 
+            "title": "This Is Bounce UK - The Big Bounce Mash Up Mix", 
+            "link": "https://www.youtube.com/watch?v=Dhej7rNKOlU", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-a9UPHsnIuFLyfPcO-6w11rw-t500x500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                       
+        {
+            "type": "item", 
+            "title": "Best Pop Music Playlist 2021", 
+            "link": "https://www.youtube.com/watch?v=nP9tIQVfW_Q", 
+            "thumbnail": "https://i.ytimg.com/vi/nP9tIQVfW_Q/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                       
+        {
+            "type": "item", 
+            "title": "Musicas Romanticas Anos 70 80 e 90 (9+ Hours)", 
+            "link": "https://www.youtube.com/watch?v=jMAcugyqIcU", 
+            "thumbnail": "https://i.ytimg.com/vi/jMAcugyqIcU/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                              
         {
             "type": "item", 
             "title": "Techno Mega Mix 2024 Techno EDM Tech House - Bass Mix", 
