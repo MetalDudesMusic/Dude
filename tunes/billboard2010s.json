@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2010", 
+            "link": "plugin.video.youtube/playlist/PLQ6EBwcX6Ye6kgMMuLIGBqtZBIWuxX14o", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2011", 
+            "link": "plugin.video.youtube/playlist/PLQ6EBwcX6Ye4NGx53_P8nhuQ_XdSPHa9p", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2012", 
+            "link": "plugin.video.youtube/playlist/PLQ6EBwcX6Ye5gawgo-K3d7AuTdAhbyrjk", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2013", 
+            "link": "plugin.video.youtube/playlist/PLr9aaTkgt7X2MPCx79IvT3oizRn_ieY26", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2014", 
+            "link": "plugin.video.youtube/playlist/PL-f5sU8-_h3ckGFGs6rd6flVWbA9OPcc-", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2015", 
+            "link": "plugin.video.youtube/playlist/PLQ6EBwcX6Ye7SWkoiUK74ICjsgFV0fuB5", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2016", 
+            "link": "plugin.video.youtube/playlist/PLQ6EBwcX6Ye6aHVcTG5av099CwXYjOSOd", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2017", 
+            "link": "plugin.video.youtube/playlist/PLO256yRQ7Mmne7tSd9f8jY5gmuQcNlqoT", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2018", 
+            "link": "plugin.video.youtube/playlist/PLQ6EBwcX6Ye7TmcDrM0NRpwiyFyXerr2w", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "Billboard year-end top 100 singles of 2019", 
+            "link": "plugin.video.youtube/playlist/PLQ6EBwcX6Ye7VLGjocry0abOBLnVLt2do", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg", 
+            "fanart": ""
+        }
+    ]
+}
