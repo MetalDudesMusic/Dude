@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "type": "plugin", 
+            "title": "Top Music Videos and Songs from the 1950s and 1960s", 
+            "link": "plugin.video.youtube/playlist/PLW4gZU2BEoN2-ngny0_NHUU_lOaM3X6tb", 
+            "thumbnail": "https://i.ytimg.com/vi/MggQSspSGU8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "50s Dance Music Hits Playlist", 
+            "link": "plugin.video.youtube/playlist/PLGBuKfnErZlBu0CMNZUBcww_EB1g2Vj5Z", 
+            "thumbnail": "https://i.ytimg.com/vi/RBj2HN2uuNA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "1950s Slow Dance Music", 
+            "link": "plugin.video.youtube/playlist/PLfkRMJrx6DIKVq8Ny9dKbwmV0RqapGivD", 
+            "thumbnail": "https://i.ytimg.com/vi/SyLQViMuE7I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "100 Greatest Rock n Roll Songs of the 50s", 
+            "link": "plugin.video.youtube/playlist/PLJwjh0h_yZsY0v-S2ZJqAvgdwJ76IcpPs", 
+            "thumbnail": "https://i.ytimg.com/vi/gj0Rz-uP4Mk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "The Ultimate 1950s", 
+            "link": "plugin.video.youtube/playlist/PLNN3uW5nkSpf1qFlDT4B5mkLflywfvbBC", 
+            "thumbnail": "https://i.ytimg.com/vi/CX45pYvxDiA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Oldies but Goodies 50s 60s", 
+            "link": "plugin.video.youtube/playlist/PLCFEB3C06C87F6748", 
+            "thumbnail": "https://i.ytimg.com/vi/425GpjTSlS4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "1940s and 1950s Movie Music", 
+            "link": "plugin.video.youtube/playlist/PL_W2LwZLdKkbkmkNDhIklLZe5UZtSz7mD", 
+            "thumbnail": "https://i.ytimg.com/vi/mxPgplMujzQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Golden Oldies 50s & 60s", 
+            "link": "plugin.video.youtube/playlist/PLMZxug3Hi7FaMqhuWrdUOqFD2h711RfXm", 
+            "thumbnail": "https://i.ytimg.com/vi/qiiyq2xrSI0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}

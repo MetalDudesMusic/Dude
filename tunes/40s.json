@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "type": "plugin", 
+            "title": "Greatest 1940s Dance Songs", 
+            "link": "plugin.video.youtube/playlist/PLGBuKfnErZlC9UGby-2eHXbyhW9V2VLfL", 
+            "thumbnail": "https://i.ytimg.com/vi/8of3uhG1tCI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Big Band Swing Old Time Radio", 
+            "link": "plugin.video.youtube/playlist/PL9FE671118F78E7A6", 
+            "thumbnail": "https://i.ytimg.com/vi/r2S1I_ien6A/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Dans fantabulous Swing dance Lindy hop", 
+            "link": "plugin.video.youtube/playlist/PL5Ue50lM4qB5c6VTEj5XYI2kFfLj6wG1H", 
+            "thumbnail": "https://i.ytimg.com/vi/VBTSoLzZ3-U/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "1940s Hit Songs", 
+            "link": "plugin.video.youtube/playlist/PLXRivw5Pd9qlAqt_On-hR6kFlFahfjLsQ", 
+            "thumbnail": "https://i.ytimg.com/vi/UcFNRGsDQ1s/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Greatest 40s Music Hits", 
+            "link": "plugin.video.youtube/playlist/PLRZlMhcYkA2Fhwg-NxJewUIgm01o9fzwB", 
+            "thumbnail": "https://i.ytimg.com/vi/TmIwm5RElRs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "1940s music videos", 
+            "link": "plugin.video.youtube/playlist/PLgREVCDj1b89kqIEEL7wLJk0TtLtuHdmc", 
+            "thumbnail": "https://i.ytimg.com/vi/OoLpe-H4tZ4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "1940s love songs", 
+            "link": "plugin.video.youtube/playlist/PLmUF-nY8ifuzs-IrC-lu8NcMeg2s7IrXn", 
+            "thumbnail": "https://i.ytimg.com/vi/EW39rXgujrg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "20s 30s 40s 50s music", 
+            "link": "plugin.video.youtube/playlist/PLMZxug3Hi7FaMqhuWrdUOqFD2h711RfXm", 
+            "thumbnail": "https://i.ytimg.com/vi/qiiyq2xrSI0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
