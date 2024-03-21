@@ -9,6 +9,20 @@
         },
         {
             "type": "dir", 
+            "title": "40s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/40s.json", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "dir", 
+            "title": "50s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/50s.json", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "dir", 
             "title": "60s Music Videos YT", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/60s", 
             "thumbnail": "", 
