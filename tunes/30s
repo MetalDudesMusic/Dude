@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "type": "plugin", 
+            "title": "1930s Dance Music", 
+            "link": "plugin.video.youtube/playlist/PL1uoHbzYQbsVDhOfKs7YXUjXwEyBU6p2D", 
+            "thumbnail": "https://i.ytimg.com/vi/nn0aKc7Ux9k/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "1920s-1930s - Party music", 
+            "link": "plugin.video.youtube/playlist/PLVQFdJrMfvXxIrmVnyOqIPqF24aTU7Dxb", 
+            "thumbnail": "https://i.ytimg.com/vi/r2S1I_ien6A/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Lindy Hop & African American Vernacular Jazz Dance", 
+            "link": "plugin.video.youtube/playlist/PLdHuyaXcphJzyZ5yHnyoi-R2-f2KPH5UB", 
+            "thumbnail": "https://i.ytimg.com/vi/s1Hy4SyUm94/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "1930s Depression Era Golden Age of Radio", 
+            "link": "plugin.video.youtube/playlist/PLF0A3FC3B01A0DF8F", 
+            "thumbnail": "https://i.ytimg.com/vi/Hce32X6TXoA/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "1930 AMERICA BEST DANCE", 
+            "link": "plugin.video.youtube/playlist/PLrt36Zga0c74gBwjbHVSkj4KwB_K5aUmh", 
+            "thumbnail": "https://i.ytimg.com/vi/fNKRm6H-qOU/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "https://i.ytimg.com/vi/fc3dxt2yu6g/hqdefault.jpg", 
+            "link": "plugin.video.youtube/playlist/PL7OSf8gfvQF-XZsJmhXkge81LRCKoseih", 
+            "thumbnail": "https://i.ytimg.com/vi/fc3dxt2yu6g/hqdefault.jpg", 
+            "fanart": ""
+        }
+    ]
+}
