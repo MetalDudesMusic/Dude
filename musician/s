@@ -1,5 +1,12 @@
 {
-    "items": [                                            
+    "items": [                                             
+        {
+            "type": "plugin", 
+            "title": "Sigma", 
+            "link": "plugin.video.youtube/playlist/PLMEZyDHJojxNamlNZ7fhV8O9__hAeKiLS", 
+            "thumbnail": "https://i.ytimg.com/vi/gEmZChlQFSM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                           
         {
             "type": "plugin", 
             "title": "Skydxddy", 
