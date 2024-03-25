@@ -1,10 +1,10 @@
 {
-    "items": [                                  
+    "items": [                                           
         {
             "type": "plugin", 
-            "title": "Coming Soon ", 
-            "link": "", 
-            "thumbnail": "", 
+            "title": "X Ambassadors", 
+            "link": "plugin.video.youtube/playlist/PLkuSLXbMJ4tG_FQQNkA_AlCocKs9KRwsb", 
+            "thumbnail": "https://i.ytimg.com/vi/n2RGleYl5e0/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
