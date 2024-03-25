@@ -1,5 +1,12 @@
 {
-    "items": [                                          
+    "items": [                                            
+        {
+            "type": "plugin", 
+            "title": "AJR", 
+            "link": "plugin.video.youtube/playlist/PL3yTe6Ujnhji8IF6dpafT5_xOoywopY2m", 
+            "thumbnail": "https://i.ytimg.com/vi/UnyLfqpyi94/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                       
         {
             "type": "plugin", 
             "title": "Acraze", 
