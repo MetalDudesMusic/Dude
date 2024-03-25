@@ -1,5 +1,12 @@
 {
-    "items": [                                    
+    "items": [                                        
+        {
+            "type": "plugin", 
+            "title": "Lovelytheband", 
+            "link": "plugin.video.youtube/playlist/PLawMnLhQ0BR_2Zof9eQn_O4eNPch4htYR", 
+            "thumbnail": "https://i.ytimg.com/vi/BvhD0gh9NcE/hqdefault.jpg", 
+            "fanart": ""
+        },                               
         {
             "type": "plugin", 
             "title": "Live", 
