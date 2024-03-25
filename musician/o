@@ -1,5 +1,12 @@
 {
-    "items": [                                                       
+    "items": [                                                          
+        {
+            "type": "plugin", 
+            "title": "Oh The Larceny", 
+            "link": "plugin.video.youtube/playlist/PLu39i8zSL9ZuplheQ3fn_Szs7qYi_CzZM", 
+            "thumbnail": "https://i.ytimg.com/vi/hIVc4QIFpr4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                    
         {
             "type": "plugin", 
             "title": "Oliver $", 
