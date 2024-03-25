@@ -1,5 +1,12 @@
 {
-    "items": [                                                                                                                                                                   
+    "items": [                                           
+        {
+            "type": "plugin", 
+            "title": "Earl video music Playlist", 
+            "link": "plugin.video.youtube/playlist/PL1J-z1HLAFOa0OlBP9anqUNwupyQWcGRa", 
+            "thumbnail": "https://i.ytimg.com/vi/QZXc39hT8t4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                                 
         {
             "type": "item", 
             "title": "Dark Country Playlist", 
