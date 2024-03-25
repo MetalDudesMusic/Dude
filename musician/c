@@ -1,5 +1,26 @@
 {
-    "items": [                                      
+    "items": [                                                  
+        {
+            "type": "plugin", 
+            "title": "Classified", 
+            "link": "plugin.video.youtube/playlist/PLCB87BBE340E2044A", 
+            "thumbnail": "https://i.ytimg.com/vi/1sl4kysTkk4/hqdefault.jpg", 
+            "fanart": ""
+        },                                            
+        {
+            "type": "plugin", 
+            "title": "Coleman Hell", 
+            "link": "plugin.video.youtube/playlist/PL1WhaoDPvBR0cBV-ISB16JqFNGC8hC76V", 
+            "thumbnail": "https://i.ytimg.com/vi/gAeWAwdZf9I/hqdefault.jpg", 
+            "fanart": ""
+        },                                     
+        {
+            "type": "plugin", 
+            "title": "Cage the Elephant", 
+            "link": "plugin.video.youtube/playlist/PL3pOUra9jr3nIO0V4jFdvam2l0ItDppLN", 
+            "thumbnail": "https://i.ytimg.com/vi/fBc08yzdB4c/hqdefault.jpg", 
+            "fanart": ""
+        },                                   
         {
             "type": "plugin", 
             "title": "Camelphat", 
