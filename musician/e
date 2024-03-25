@@ -1,5 +1,12 @@
 {
-    "items": [                                    
+    "items": [                                      
+        {
+            "type": "plugin", 
+            "title": "Earl Sweatshirt", 
+            "link": "plugin.video.youtube/playlist/PLnsf486e2mwShsFqMl5c-nUb9pc1mkdFS", 
+            "thumbnail": "https://i.ytimg.com/vi/dxBQqTDqFEs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                  
         {
             "type": "plugin", 
             "title": "Electric Swing Circus", 
