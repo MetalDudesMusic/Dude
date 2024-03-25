@@ -1,5 +1,12 @@
 {
-    "items": [                                                       
+    "items": [                                                        
+        {
+            "type": "plugin", 
+            "title": "Matt Simons", 
+            "link": "plugin.video.youtube/playlist/PLMSQARirwM6qI_ew8mBWlgYjUjudbFnqJ", 
+            "thumbnail": "https://i.ytimg.com/vi/m-lSlJc_5NE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                      
         {
             "type": "plugin", 
             "title": "Massive Attack", 
