@@ -1,5 +1,12 @@
 {
-    "items": [                
+    "items": [                    
+        {
+            "type": "plugin", 
+            "title": "James Bay", 
+            "link": "plugin.video.youtube/playlist/PLZXyf0cdFLyGn-a3hsvUM-a1r88iTdrJM", 
+            "thumbnail": "https://i.ytimg.com/vi/82MlZiPYkVc/hqdefault.jpg", 
+            "fanart": ""
+        },           
         {
             "type": "plugin", 
             "title": "Jack Back", 
