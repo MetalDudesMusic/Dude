@@ -1,5 +1,12 @@
 {
-    "items": [              
+    "items": [                
+        {
+            "type": "plugin", 
+            "title": "Flora Cash", 
+            "link": "plugin.video.youtube/playlist/PLeGWsbVDzcKQI2_zNMIg2fpIZpQuRBHLE", 
+            "thumbnail": "https://i.ytimg.com/vi/jmlsQcXdOAE/hqdefault.jpg", 
+            "fanart": ""
+        },           
         {
             "type": "plugin", 
             "title": "Fall out boy", 
