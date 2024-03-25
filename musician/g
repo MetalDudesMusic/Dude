@@ -1,5 +1,19 @@
 {
-    "items": [                  
+    "items": [                              
+        {
+            "type": "plugin", 
+            "title": "Gin Wigmore", 
+            "link": "plugin.video.youtube/playlist/PLAB815eWtPaI2LYvefRf0oAzB4B-Sr8yu", 
+            "thumbnail": "https://i.ytimg.com/vi/8Tt1n4gxRK4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "Grandson", 
+            "link": "plugin.video.youtube/playlist/PLzl5rmBPcAMmCpGGHdCkNialoKqLS9snY", 
+            "thumbnail": "https://i.ytimg.com/vi/6s85bPZ7tWo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
         {
             "type": "plugin", 
             "title": "Golden Earring", 
