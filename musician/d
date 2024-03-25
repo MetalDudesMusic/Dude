@@ -1,5 +1,12 @@
 {
-    "items": [                               
+    "items": [                                  
+        {
+            "type": "plugin", 
+            "title": "Deluxe", 
+            "link": "plugin.video.youtube/playlist/PL8lOMnOputw6t_emHXXWe3cgmOj6BTk7n", 
+            "thumbnail": "https://i.ytimg.com/vi/Oq7gVPRjlfQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                            
         {
             "type": "plugin", 
             "title": "Davai", 
