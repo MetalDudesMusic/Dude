@@ -1,5 +1,12 @@
 {
-    "items": [                    
+    "items": [                         
+        {
+            "type": "plugin", 
+            "title": "Jessie Reyez", 
+            "link": "plugin.video.youtube/playlist/PL48w8RUewJBKdZaaAnJ8MA3R5sSMsxCXz", 
+            "thumbnail": "https://i.ytimg.com/vi/uweEDKsAhxg/hqdefault.jpg", 
+            "fanart": ""
+        },               
         {
             "type": "plugin", 
             "title": "James Bay", 
