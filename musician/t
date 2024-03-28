@@ -1,5 +1,26 @@
 {
-    "items": [                         
+    "items": [                                    
+        {
+            "type": "plugin", 
+            "title": "Trapt", 
+            "link": "plugin.video.youtube/playlist/PLEC52C7BF3DB347E7", 
+            "thumbnail": "https://i.ytimg.com/vi/L3iEvdmVclk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                           
+        {
+            "type": "plugin", 
+            "title": "The Dead South", 
+            "link": "plugin.video.youtube/playlist/PLl2VufBGmA9LlwE-9Ik87P_8-hA-2cBbE", 
+            "thumbnail": "https://i.ytimg.com/vi/B9FzVhw8_bY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                          
+        {
+            "type": "plugin", 
+            "title": "The Devil Makes Three", 
+            "link": "plugin.video.youtube/playlist/PLE9xWCYB0uQo8mffZvB5hSGFfmDFQQAKb", 
+            "thumbnail": "https://i.ytimg.com/vi/0_tOXxNCTGI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                   
         {
             "type": "plugin", 
             "title": "Tones & I", 
