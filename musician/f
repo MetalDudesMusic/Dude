@@ -1,5 +1,12 @@
 {
-    "items": [                
+    "items": [                      
+        {
+            "type": "plugin", 
+            "title": "Finger Eleven", 
+            "link": "plugin.video.youtube/playlist/PL46A1C53E33785692", 
+            "thumbnail": "https://i.ytimg.com/vi/ytXDpbXxwso/hqdefault.jpg", 
+            "fanart": ""
+        },          
         {
             "type": "plugin", 
             "title": "Flora Cash", 
