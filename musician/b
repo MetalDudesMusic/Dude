@@ -1,5 +1,12 @@
 {
-    "items": [                                                   
+    "items": [                                                      
+        {
+            "type": "plugin", 
+            "title": "Brandy Clark", 
+            "link": "plugin.video.youtube/playlist/PL5LbJ3cIYTduwLSeN0gKWrOt61TmU65SA", 
+            "thumbnail": "https://i.ytimg.com/vi/YrtWW2zUlM8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                               
         {
             "type": "plugin", 
             "title": "Bakermat", 
