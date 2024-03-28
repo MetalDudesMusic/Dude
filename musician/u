@@ -1,5 +1,12 @@
 {
-    "items": [            
+    "items": [                 
+        {
+            "type": "plugin", 
+            "title": "Upsahl", 
+            "link": "plugin.video.youtube/playlist/PLXze9P31dPFdhYeahbxgaqy8s-v6OAdRY", 
+            "thumbnail": "https://i.ytimg.com/vi/PhVxHJ8JzL4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
         {
             "type": "plugin", 
             "title": "Uriah Heep", 
