@@ -1,5 +1,12 @@
 {
-    "items": [                                                  
+    "items": [                                                        
+        {
+            "type": "plugin", 
+            "title": "Creed", 
+            "link": "plugin.video.youtube/playlist/PL8CCA2B1DF43BA9BA", 
+            "thumbnail": "https://i.ytimg.com/vi/qnkuBUAwfe0/hqdefault.jpg", 
+            "fanart": ""
+        },                                          
         {
             "type": "plugin", 
             "title": "Classified", 
