@@ -1,5 +1,19 @@
 {
-    "items": [                                                        
+    "items": [                                                                      
+        {
+            "type": "plugin", 
+            "title": "Miranda Lambert", 
+            "link": "plugin.video.youtube/playlist/PLRtzWXSdUQv8TxuUIY7X9PV_IsWYNtwhh", 
+            "thumbnail": "https://i.ytimg.com/vi/zTlaRu_Wsl4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                            
+        {
+            "type": "plugin", 
+            "title": "Megan thee stallion", 
+            "link": "plugin.video.youtube/playlist/PL71CFLz69L7XqCwicW-QiSNa19L8LBgyF", 
+            "thumbnail": "https://i.ytimg.com/vi/IP6fsWbP-3I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                               
         {
             "type": "plugin", 
             "title": "Matt Simons", 
