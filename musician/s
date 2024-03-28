@@ -1,5 +1,19 @@
 {
-    "items": [                                             
+    "items": [                                                        
+        {
+            "type": "plugin", 
+            "title": "Serena Ryder", 
+            "link": "plugin.video.youtube/playlist/PLY-BgrDToJMk6JSF-uxS_BTcRrKtI4gNg", 
+            "thumbnail": "https://i.ytimg.com/vi/lS4iDVaKMd8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                              
+        {
+            "type": "plugin", 
+            "title": "Sublime", 
+            "link": "plugin.video.youtube/playlist/PL6f-W9S6C7HOxz5vphFoTfW5ptnh0g86U", 
+            "thumbnail": "https://i.ytimg.com/vi/0Uc3ZrmhDN4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                    
         {
             "type": "plugin", 
             "title": "Sigma", 
