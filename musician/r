@@ -1,5 +1,12 @@
 {
-    "items": [                                      
+    "items": [                                             
+        {
+            "type": "plugin", 
+            "title": "Reba McEntire", 
+            "link": "plugin.video.youtube/playlist/PLjTdhHG-yRWAkMQwSfIV_cMVhJNiBACRJ", 
+            "thumbnail": "https://i.ytimg.com/vi/SDZwBjJQ3ZA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
         {
             "type": "plugin", 
             "title": "Rooftime", 
