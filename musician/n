@@ -1,5 +1,12 @@
 {
-    "items": [                                       
+    "items": [                                               
+        {
+            "type": "plugin", 
+            "title": "Nitty Gritty Dirt Band", 
+            "link": "plugin.video.youtube/playlist/PLE6pWPTbgsOqheX90sF7XMzz5bYEDEpnX", 
+            "thumbnail": "https://i.ytimg.com/vi/gFyPnI4Msms/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                             
         {
             "type": "plugin", 
             "title": "Naz Tokio", 
