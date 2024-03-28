@@ -1,5 +1,12 @@
 {
-    "items": [                                                 
+    "items": [                                                        
+        {
+            "type": "plugin", 
+            "title": "William Elliot Whitmore", 
+            "link": "plugin.video.youtube/PLMUCULlMfw2lb_7_b2syMUvwnBBvZY6VL", 
+            "thumbnail": "https://i.ytimg.com/vi/uyayF19c3U4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                         
         {
             "type": "plugin", 
             "title": "Wolfgang Lohr", 
