@@ -1,0 +1,109 @@
+{
+    "items": [
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "link", 
+            "thumbnail": "https://i.ytimg.com/vi/1bBxWOwfID0/maxresdefault.jpg", 
+            "title": "[I][COLORcyan]Guitar[/COLOR][/I]", 
+            "type": "item"
+        },
+        {
+            "type": "plugin", 
+            "title": "Guitar play alongs", 
+            "link": "plugin.video.youtube/playlist/PL8Ou-5RjX4EZinHLIdjeqmVAynAoSH_AQ", 
+            "thumbnail": "https://i.ytimg.com/vi/uhpQq_CihSg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Pop Songs - Guitar tutorial", 
+            "link": "plugin.video.youtube/playlist/PL2UG3A_ys-T7JRuA9fmhxJYGQLjK3pc63", 
+            "thumbnail": "https://i.ytimg.com/vi/YopxBnUe8lw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Play along to popular songs with scrolling guitar chords and lyrics", 
+            "link": "plugin.video.youtube/playlist/PL73jwH9WpDNR0DXMzBK4FMaZgzrXo15Bk", 
+            "thumbnail": "https://i.ytimg.com/vi/hPMThIJNfKY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Guitar Tab Covers", 
+            "link": "plugin.video.youtube/playlist/PLGHwk6Sf9rE22TmscLY3q21RZ72pIwT9C", 
+            "thumbnail": "https://i.ytimg.com/vi/_UkC2zfWyDk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "link", 
+            "thumbnail": "https://i.ytimg.com/vi/1bBxWOwfID0/maxresdefault.jpg", 
+            "title": "[I][COLORcyan]Bass Guitar[/COLOR][/I]", 
+            "type": "item"
+        },
+        {
+            "type": "plugin", 
+            "title": "Classic Rock Bass Tabs", 
+            "link": "plugin.video.youtube/playlist/PLU5qAfApislUv9_O8RO8obsAca_drOcPs", 
+            "thumbnail": "https://i.ytimg.com/vi/OC7i2lmoSz0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Bass Covers", 
+            "link": "plugin.video.youtube/playlist/PLU3AwS8UrG6vaPL_RQd9xvxtu6nTTrbNt", 
+            "thumbnail": "https://i.ytimg.com/vi/wLuy_Kfu4PY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "BASS Guitar Tutorial Lessons", 
+            "link": "plugin.video.youtube/playlist/PLHdKL0zeGNk5_IhMgoT1U3GI2GfaNnsq3", 
+            "thumbnail": "https://i.ytimg.com/vi/mHEESTw2BhM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Indie-Alternative Rock - Bass Covers with tabs", 
+            "link": "plugin.video.youtube/playlist/PLu6zmbOkHQi3PQSy75Cs-1hGJgH7ZLc9r", 
+            "thumbnail": "https://i.ytimg.com/vi/sjoIdUK3iHo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "link", 
+            "thumbnail": "https://i.ytimg.com/vi/1bBxWOwfID0/maxresdefault.jpg", 
+            "title": "[I][COLORcyan]Drums[/COLOR][/I]", 
+            "type": "item"
+        },
+        {
+            "type": "plugin", 
+            "title": "Learning Drums", 
+            "link": "plugin.video.youtube/playlist/PLImrzCNnL5PmxlVJPwoTwY3mjo4jaIJxA", 
+            "thumbnail": "https://i.ytimg.com/vi/HdiiXOkomKo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Drumeo Lessons - Beginner", 
+            "link": "plugin.video.youtube/playlist/PLrtlBUjcYAnCVWka4J5nbDbbaLT9nU-th", 
+            "thumbnail": "https://i.ytimg.com/vi/et9hU7QMDYU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Beginner Drum Lessons", 
+            "link": "plugin.video.youtube/playlist/PLLALQuK1NDrjBVdxkgjho8CHll6iQmM5A", 
+            "thumbnail": "https://i.ytimg.com/vi/qHl1xFShAK4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Full Video Drum Lessons", 
+            "link": "plugin.video.youtube/playlist/PLLphLKeP1R_IdmsDK8jDDXFPZbWWzYBWm", 
+            "thumbnail": "https://i.ytimg.com/vi/PzlzBJ_vM78/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}

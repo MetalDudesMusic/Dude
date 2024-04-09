@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "type": "plugin", 
+            "title": "HG101s Best Video Game Music of All Time", 
+            "link": "plugin.video.youtube/playlist/PL2dmr0KvTg-E1vPI1wARrdd8A0_sRkfO4", 
+            "thumbnail": "https://i.ytimg.com/vi/WJRoRt155mA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Legendary video game music", 
+            "link": "plugin.video.youtube/playlist/PL81MnlnJD9qoyZwTwZw5zy0NfHxNHEsbS", 
+            "thumbnail": "https://i.ytimg.com/vi/bq_jS6o3OoY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Best Video Game Music", 
+            "link": "plugin.video.youtube/playlist/PLrnb8c3hFJatjyJ-wFMuFGANNoo7-LZsG", 
+            "thumbnail": "https://i.ytimg.com/vi/zeKE0NHUtUw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
