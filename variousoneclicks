@@ -1,5 +1,12 @@
 {
-    "items": [                                           
+    "items": [                                            
+        {
+            "type": "dir", 
+            "title": "Video Games music Playlist", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/videogames.json", 
+            "thumbnail": "https://i.ytimg.com/vi/uhscMsBhNhw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                           
         {
             "type": "plugin", 
             "title": "Earl video music Playlist", 
