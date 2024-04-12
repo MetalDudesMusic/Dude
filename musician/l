@@ -1,5 +1,26 @@
 {
-    "items": [                                        
+    "items": [                                                          
+        {
+            "type": "plugin", 
+            "title": "Layto x Neoni", 
+            "link": "plugin.video.youtube/playlist/PLG0Ha8dEKp1C9VhcqiVqWOOWb2-dlg_9t", 
+            "thumbnail": "https://i.ytimg.com/vi/d79nXbLUUh4/hqdefault.jpg", 
+            "fanart": ""
+        },                                          
+        {
+            "type": "plugin", 
+            "title": "Lost Frequencies", 
+            "link": "plugin.video.youtube/playlist/PL03Y59vR96rLGhD4Q3w_DKA9hGQRCTXQy", 
+            "thumbnail": "https://i.ytimg.com/vi/ORoAb5NPi8I/hqdefault.jpg", 
+            "fanart": ""
+        },                                          
+        {
+            "type": "plugin", 
+            "title": "Little Big Town", 
+            "link": "plugin.video.youtube/playlist/PLF2BA900DCFE9A5C7", 
+            "thumbnail": "https://i.ytimg.com/vi/DWMVE38mWbo/hqdefault.jpg", 
+            "fanart": ""
+        },                                    
         {
             "type": "plugin", 
             "title": "Lovelytheband", 
