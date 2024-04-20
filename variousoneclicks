@@ -1,5 +1,19 @@
 {
-    "items": [                                            
+    "items": [  
+        {
+            "type": "plugin", 
+            "title": "Motown Greatest hits", 
+            "link": "plugin.video.youtube/playlist/PLaFTeiAOFpJwqNBedJBT_ZjXRezyrOFa6", 
+            "thumbnail": "https://i.ytimg.com/vi/rjlSiASsUIs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                              
+        {
+            "type": "dir", 
+            "title": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/videogames.json", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
         {
             "type": "dir", 
             "title": "Video Games music Playlist", 
