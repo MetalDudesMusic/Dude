@@ -1,5 +1,12 @@
 {
-    "items": [                         
+    "items": [                          
+        {
+            "type": "plugin", 
+            "title": "Jasiah", 
+            "link": "plugin.video.youtube/playlist/PL5L30PKmOAEo0sHT0PrJbDd_uYSQQIokR", 
+            "thumbnail": "https://i.ytimg.com/vi/cxKu3roeD7M/hqdefault.jpg", 
+            "fanart": ""
+        },                       
         {
             "type": "plugin", 
             "title": "Jessie Reyez", 
