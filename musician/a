@@ -1,5 +1,12 @@
 {
-    "items": [                                                    
+    "items": [                                                       
+        {
+            "type": "plugin", 
+            "title": "Avril Lavigne", 
+            "link": "plugin.video.youtube/playlist/PLRfz0EZ69r6a5GO0uTkzu_M9p2TwFgEIA", 
+            "thumbnail": "https://i.ytimg.com/vi/Bg59q4puhmg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                 
         {
             "type": "plugin", 
             "title": "Ashnikko", 
