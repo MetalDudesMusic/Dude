@@ -1,5 +1,19 @@
 {
-    "items": [                                            
+    "items": [                                                    
+        {
+            "type": "plugin", 
+            "title": "Ashnikko", 
+            "link": "plugin.video.youtube/playlist/PLG6gnO0z7q5Ujkx77iRqFHptVn30pUG7b", 
+            "thumbnail": "https://i.ytimg.com/vi/d3wJuVh_kxo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                      
+        {
+            "type": "plugin", 
+            "title": "Alex Gaudino", 
+            "link": "plugin.video.youtube/playlist/PLrJAm4P7jiT2UE8A8odqJYAiPJ52hFqPZ", 
+            "thumbnail": "https://i.ytimg.com/vi/1qf91PKPYOw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
         {
             "type": "plugin", 
             "title": "AJR", 
