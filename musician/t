@@ -1,5 +1,12 @@
 {
-    "items": [                                    
+    "items": [                                     
+        {
+            "type": "plugin", 
+            "title": "Teddy Swims", 
+            "link": "plugin.video.youtube/playlist/PL2LaUA1tOerKDv2o_Lc3D48wQQp-eD8oZ", 
+            "thumbnail": "https://i.ytimg.com/vi/l-wjR1YR-UA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
         {
             "type": "plugin", 
             "title": "Trapt", 
