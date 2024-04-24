@@ -2,6 +2,20 @@
     "items": [ 
         {
             "type": "plugin", 
+            "title": "Country music movies", 
+            "link": "plugin.video.youtube/playlist/PLODoFB4PC3PlhgRs8pE9v6h67OxQRn8JS", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/classicalmusicalmovieslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        },
+        {
+            "type": "plugin", 
+            "title": "Musical Classics", 
+            "link": "plugin.video.youtube/playlist/PL2gsu7VGzgdZUmZ1cEwq9p85QuwBwvV-7", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/classicalmusicalmovieslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        },   
+        {
+            "type": "plugin", 
             "title": "Classic Musical Movies", 
             "link": "plugin.video.youtube/playlist/PL8Nn95jd6kYVouE2YjQT2oTwG7ZbAjak1", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/classicalmusicalmovieslogo.png?raw=true", 
