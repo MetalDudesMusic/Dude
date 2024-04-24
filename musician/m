@@ -1,5 +1,12 @@
 {
-    "items": [                                                                      
+    "items": [                                                                        
+        {
+            "type": "plugin", 
+            "title": "Morcheeba", 
+            "link": "plugin.video.youtube/playlist/PL3752A345CB9EF66A", 
+            "thumbnail": "https://i.ytimg.com/vi/UUNl0l8x-fE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                    
         {
             "type": "plugin", 
             "title": "Miranda Lambert", 
