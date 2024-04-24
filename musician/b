@@ -1,5 +1,12 @@
 {
-    "items": [                                                          
+    "items": [                                                           
+        {
+            "type": "plugin", 
+            "title": "Bryce Savage", 
+            "link": "plugin.video.youtube/playlist/PLWTAloFZXMILic6yS83sOkUolXq96e46L", 
+            "thumbnail": "https://i.ytimg.com/vi/Ho-QI2Fouuc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                         
         {
             "type": "plugin", 
             "title": "Brantley Gilbert", 
