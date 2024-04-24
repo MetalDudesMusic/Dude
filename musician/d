@@ -1,5 +1,33 @@
 {
-    "items": [                                  
+    "items": [                                            
+        {
+            "type": "plugin", 
+            "title": "DPR IAN", 
+            "link": "plugin.video.youtube/playlist/PL4YRwVsYN4pPHYdIwRNXu2qx9kDb3NDzH", 
+            "thumbnail": "https://i.ytimg.com/vi/7QQzDQceGgU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                         
+        {
+            "type": "plugin", 
+            "title": "Doja cat", 
+            "link": "plugin.video.youtube/playlist/PL2sUcKenKXN8rtZVxFKBp_FTIdZKp-KR8", 
+            "thumbnail": "https://i.ytimg.com/vi/yxW5yuzVi8w/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                     
+        {
+            "type": "plugin", 
+            "title": "Dermot Kennedy", 
+            "link": "plugin.video.youtube/playlist/PLkqz3S84Tw-Sf7PMu_tP2jd05OAVWpjFj", 
+            "thumbnail": "https://i.ytimg.com/vi/Fi33qkv4Bjw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                
+        {
+            "type": "plugin", 
+            "title": "Deana Carter", 
+            "link": "plugin.video.youtube/playlist/PLg0WRPigLBaQIxlbM3CV_cwCoZhmuZCSJ", 
+            "thumbnail": "https://i.ytimg.com/vi/Up06CryWQpE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                              
         {
             "type": "plugin", 
             "title": "Deluxe", 
