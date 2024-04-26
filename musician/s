@@ -1,5 +1,12 @@
 {
-    "items": [                                                        
+    "items": [                                                             
+        {
+            "type": "plugin", 
+            "title": "Seether", 
+            "link": "plugin.video.youtube/playlist/PLY-BgrDToJMk6JSF-uxS_BTcRrKtI4gNg", 
+            "thumbnail": "https://i.ytimg.com/vi/lS4iDVaKMd8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                        
         {
             "type": "plugin", 
             "title": "Serena Ryder", 
