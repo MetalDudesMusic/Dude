@@ -1,5 +1,12 @@
 {
-    "items": [                                                           
+    "items": [                                                            
+        {
+            "type": "plugin", 
+            "title": "Brian Finch", 
+            "link": "plugin.video.youtube/playlist/PLlWRlGAChrdIoh0F0lGupfhFay_3ThO_p", 
+            "thumbnail": "https://i.ytimg.com/vi/bYZvDp_vgo0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                          
         {
             "type": "plugin", 
             "title": "Bryce Savage", 
