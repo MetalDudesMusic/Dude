@@ -1,5 +1,12 @@
 {
-    "items": [                          
+    "items": [                           
+        {
+            "type": "plugin", 
+            "title": "John Hiatt", 
+            "link": "plugin.video.youtube/playlist/PLlheRGqeHwnuTjPFwLrPzSXjGHOH-Auu9", 
+            "thumbnail": "https://i.ytimg.com/vi/yBe8wSpnBe0/hqdefault.jpg", 
+            "fanart": ""
+        },                         
         {
             "type": "plugin", 
             "title": "Jasiah", 
