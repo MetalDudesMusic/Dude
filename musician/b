@@ -1,5 +1,12 @@
 {
-    "items": [                                                            
+    "items": [                                                             
+        {
+            "type": "plugin", 
+            "title": "BB King", 
+            "link": "plugin.video.youtube/playlist/PLkK_GNQ3NmWonUmGaq4z8O3rdj1PfkAEJ", 
+            "thumbnail": "https://i.ytimg.com/vi/DZkK6HmUMkE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                           
         {
             "type": "plugin", 
             "title": "Brian Finch", 
