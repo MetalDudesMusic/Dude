@@ -6,7 +6,14 @@
             "link": "plugin.video.youtube/playlist/PL_SCofDL7W1oFbhFSvZHBL82HFTGXrTq1", 
             "thumbnail": "https://i.ytimg.com/vi/gIkOaTVu8uM/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                      
+        },                                
+        {
+            "type": "plugin", 
+            "title": "John Lee Hooker", 
+            "link": "plugin.video.youtube/playlist/PLHpsA33T-1zQXHSQxWE2BDSQ1s0EAONKm", 
+            "thumbnail": "https://i.ytimg.com/vi/pJ3tlH7VLh0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                     
         {
             "type": "plugin", 
             "title": "Jimi Hendrix", 
