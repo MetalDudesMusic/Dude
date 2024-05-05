@@ -1,130 +1,137 @@
 {
-    "items": [                                                        
+    "items": [                                                         
+        {
+            "type": "plugin", 
+            "title": "Chuck Berry", 
+            "link": "plugin.video.youtube/playlist/PL61E0653CBB2EE166", 
+            "thumbnail": "https://i.ytimg.com/vi/SkYWfPNRp5A/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                       
         {
             "type": "plugin", 
             "title": "Creed", 
             "link": "plugin.video.youtube/playlist/PL8CCA2B1DF43BA9BA", 
             "thumbnail": "https://i.ytimg.com/vi/qnkuBUAwfe0/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                          
         {
             "type": "plugin", 
             "title": "Classified", 
             "link": "plugin.video.youtube/playlist/PLCB87BBE340E2044A", 
             "thumbnail": "https://i.ytimg.com/vi/1sl4kysTkk4/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                            
         {
             "type": "plugin", 
             "title": "Coleman Hell", 
             "link": "plugin.video.youtube/playlist/PL1WhaoDPvBR0cBV-ISB16JqFNGC8hC76V", 
             "thumbnail": "https://i.ytimg.com/vi/gAeWAwdZf9I/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                     
         {
             "type": "plugin", 
             "title": "Cage the Elephant", 
             "link": "plugin.video.youtube/playlist/PL3pOUra9jr3nIO0V4jFdvam2l0ItDppLN", 
             "thumbnail": "https://i.ytimg.com/vi/fBc08yzdB4c/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                   
         {
             "type": "plugin", 
             "title": "Camelphat", 
             "link": "plugin.video.youtube/playlist/PLVZUD3UGJqShi9G2HYU2c6xj_quj3-nXY", 
             "thumbnail": "https://i.ytimg.com/vi/jAOiRIOll4c/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                
         {
             "type": "plugin", 
             "title": "Calvin Harris", 
             "link": "plugin.video.youtube/playlist/PLCnkz7la5RxOXZyYZ9vfqRcphjnk6xThN", 
             "thumbnail": "https://i.ytimg.com/vi/ir6nk2zrMG0/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                              
         {
             "type": "plugin", 
             "title": "Clean bandit", 
             "link": "plugin.video.youtube/playlist/PLQ0ZpN7kem-g99ULNf1WPSWmWr3jef2cB", 
             "thumbnail": "https://i.ytimg.com/vi/Osq0RgGVwK8/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                               
         {
             "type": "plugin", 
             "title": "Confetti", 
             "link": "plugin.video.youtube/playlist/PLqphpN6E8or5gHn5id3ymhj4QuLMMmwG_", 
             "thumbnail": "https://i.ytimg.com/vi/QALdcYCujLw/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                             
         {
             "type": "plugin", 
             "title": "Charlie Daniels Band", 
             "link": "plugin.video.youtube/playlist/PLLDVfSPfze0sj5SEDmq3QwizQXQOpAyLB", 
             "thumbnail": "https://i.ytimg.com/vi/XboVpx8MPfM/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                           
         {
             "type": "plugin", 
             "title": "C&C Music Factory", 
             "link": "plugin.video.youtube/playlist/PLC8E228F1D2ABEAA4", 
             "thumbnail": "https://i.ytimg.com/vi/XF2ayWcJfxo/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                             
         {
             "type": "plugin", 
             "title": "Cascada", 
             "link": "plugin.video.youtube/playlist/PLphJpuK5IiCbyCNAXAAovZ40c55musjP6", 
             "thumbnail": "https://i.ytimg.com/vi/4G6QDNC4jPs/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                         
         {
             "type": "plugin", 
             "title": "Cher", 
             "link": "plugin.video.youtube/playlist/PLuiynvNke2wDYNHFnOksxAwobcDuAcezs", 
             "thumbnail": "https://i.ytimg.com/vi/ykIRhszzm9U/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                           
         {
             "type": "plugin", 
             "title": "Chyp-Notic", 
             "link": "plugin.video.youtube/playlist/PLPe7dunoX-EPnUCi0bAAVZQ7uRii-FQui", 
             "thumbnail": "https://i.ytimg.com/vi/PlRSOuV1B1I/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                         
         {
             "type": "plugin", 
             "title": "Christina Aguilera", 
             "link": "plugin.video.youtube/playlist/PLEH_MKt4utKlKiD0EhmQKRLVLuG0mEF_b", 
             "thumbnail": "https://i.ytimg.com/vi/kIDWgqDBNXA/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },        
         {
             "type": "plugin", 
             "title": "Creedence Clearwater Revival", 
             "link": "plugin.video.youtube/playlist/PLtzV2248lUVVzJtztzISYvxBDa0wvA4cU", 
             "thumbnail": "https://lastfm.freetls.fastly.net/i/u/ar0/4003d0a1c747b9d04972eb9c70230473.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },           
         {
             "type": "plugin", 
             "title": "Crosby Stills Nash & Young", 
             "link": "plugin.video.youtube/playlist/PL177D38A15223DC66", 
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWE4YmU0NzYtNTk5Ni00ODJjLWFiZGYtYjAxYTg3YzU5ODEwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },           
         {
             "type": "plugin", 
             "title": "Cheap Trick", 
             "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFs5l-JXfMFQUKoLafH2LGNn", 
             "thumbnail": "https://www.spirit-of-rock.com/les%20goupes/C/Cheap%20Trick/pics/7113_3.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },        
         {
             "type": "plugin", 
             "title": "Coldplay", 
             "link": "plugin.video.youtube/playlist/PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU", 
             "thumbnail": "https://event-images.tixel.com/cdn-cgi/image/width=600,format=auto/media/images/b33e013fc9637204c7ab45b1b44df735_1585498836_5897_l.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 } 
