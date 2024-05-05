@@ -1,5 +1,12 @@
 {
-    "items": [  
+    "items": [                                                
+        {
+            "type": "dir", 
+            "title": "Guitarists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Guitarists.json", 
+            "thumbnail": "https://guitar.com/wp-content/uploads/2023/01/Whitney-Petty-Thunderpussy-Credit-Mat-Hayward-Getty-Images@2000x1500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }, 
         {
             "type": "plugin", 
             "title": "Motown Greatest hits", 
