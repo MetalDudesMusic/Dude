@@ -1,0 +1,81 @@
+{
+    "items": [         
+        {
+            "type": "plugin", 
+            "title": "Jazz Rock Fusion", 
+            "link": "plugin.video.youtube/playlist/PLVZ8g2QsUj5F4mu8X7tkHoKWnzDidDwrG", 
+            "thumbnail": "https://i.ytimg.com/vi/XjOYscEN6Qc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Best Acoustic Rock Songs", 
+            "link": "plugin.video.youtube/playlist/PLmfhzccZcisB817Hm8FUnP4OIcExTSGTF", 
+            "thumbnail": "https://i.ytimg.com/vi/ErvgV4P6Fzc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "100 Greatest Guitar Solos - Guitar World", 
+            "link": "plugin.video.youtube/playlist/PLideJWc8vR0Gkg3Ff9aHWzm5gqceNkxHa", 
+            "thumbnail": "https://i.ytimg.com/vi/M4Czx8EWXb0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Best Blues Songs of All Time", 
+            "link": "plugin.video.youtube/playlist/PLjzeyhEA84sQKuXp-rpM1dFuL2aQM_a3S", 
+            "thumbnail": "https://i.ytimg.com/vi/71Gt46aX9Z4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "The best guitar Riffs of all time full songs", 
+            "link": "plugin.video.youtube/playlist/PLZmSR3ApyqBBr3qQxkf_Y90EHm2D6wXhM", 
+            "thumbnail": "https://i.ytimg.com/vi/pAgnJDJN4VA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Great Jazz Guitarists", 
+            "link": "plugin.video.youtube/playlist/PLhlfXB8hdjpZTxYajW4MsVeCbKhWVbG9Z", 
+            "thumbnail": "https://i.ytimg.com/vi/vCnT8prUqFY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Best Live Blues Performances", 
+            "link": "plugin.video.youtube/playlist/PLARE49kxYQH0cRwfmnAeGHvw1ULk2OU-_", 
+            "thumbnail": "https://i.ytimg.com/vi/JzsmeO7FZcs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Legendary Guitar Solos", 
+            "link": "plugin.video.youtube/playlist/PLXFMDnGJIus0un4oFEwxUiiSIoWjcPfM2", 
+            "thumbnail": "https://i.ytimg.com/vi/TLV4_xaYynY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Best Acoustic Guitar Songs of all Time", 
+            "link": "plugin.video.youtube/playlist/PL_RD4uIoXibraWzLZKRhiTlZZi3iWJUNr", 
+            "thumbnail": "https://i.ytimg.com/vi/zGpnREo076A/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Greatest GUITAR Songs of All Time", 
+            "link": "plugin.video.youtube/playlist/PL6wkoX3-Vano5a0rnqwAhcrdx7RyxPVKu", 
+            "thumbnail": "https://i.ytimg.com/vi/MF5fQXVZGug/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Best guitar songs EVER!!!", 
+            "link": "plugin.video.youtube/playlist/PLDDB11EB3A88286FE", 
+            "thumbnail": "https://i.ytimg.com/vi/pAgnJDJN4VA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
