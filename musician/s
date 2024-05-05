@@ -6,6 +6,13 @@
             "link": "plugin.video.youtube/playlist/PLMGPypR4dH_pQT4zk5_feWlZNN6I0xgUn", 
             "thumbnail": "https://i.ytimg.com/vi/gAv5ZuuSxSI/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                  
+        {
+            "type": "plugin", 
+            "title": "Steve Via", 
+            "link": "plugin.video.youtube/playlist/PL22F09149E5AD739E", 
+            "thumbnail": "https://i.ytimg.com/vi/9IrWyZ0KZuk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                         
         {
             "type": "plugin", 
