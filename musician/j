@@ -1,53 +1,67 @@
 {
-    "items": [                           
+    "items": [                                
+        {
+            "type": "plugin", 
+            "title": "Jeff Healey", 
+            "link": "plugin.video.youtube/playlist/PL_SCofDL7W1oFbhFSvZHBL82HFTGXrTq1", 
+            "thumbnail": "https://i.ytimg.com/vi/gIkOaTVu8uM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                      
+        {
+            "type": "plugin", 
+            "title": "Jimi Hendrix", 
+            "link": "plugin.video.youtube/playlist/PLjuSvcWFYc6pnYu7LzuQcJt974OkHN_cI", 
+            "thumbnail": "https://i.ytimg.com/vi/G-THhwh5mNI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                            
         {
             "type": "plugin", 
             "title": "John Hiatt", 
             "link": "plugin.video.youtube/playlist/PLlheRGqeHwnuTjPFwLrPzSXjGHOH-Auu9", 
             "thumbnail": "https://i.ytimg.com/vi/yBe8wSpnBe0/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                         
         {
             "type": "plugin", 
             "title": "Jasiah", 
             "link": "plugin.video.youtube/playlist/PL5L30PKmOAEo0sHT0PrJbDd_uYSQQIokR", 
             "thumbnail": "https://i.ytimg.com/vi/cxKu3roeD7M/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                       
         {
             "type": "plugin", 
             "title": "Jessie Reyez", 
             "link": "plugin.video.youtube/playlist/PL48w8RUewJBKdZaaAnJ8MA3R5sSMsxCXz", 
             "thumbnail": "https://i.ytimg.com/vi/uweEDKsAhxg/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },               
         {
             "type": "plugin", 
             "title": "James Bay", 
             "link": "plugin.video.youtube/playlist/PLZXyf0cdFLyGn-a3hsvUM-a1r88iTdrJM", 
             "thumbnail": "https://i.ytimg.com/vi/82MlZiPYkVc/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },           
         {
             "type": "plugin", 
             "title": "Jack Back", 
             "link": "plugin.video.youtube/playlist/PLz1iM8YfFbTf-5l5oU-zRKCFOhiXcO6Dc", 
             "thumbnail": "https://i.ytimg.com/vi/gui-Ldpqnkg/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },          
         {
             "type": "plugin", 
             "title": "Jem", 
             "link": "plugin.video.youtube/playlist/PL1B10E14A5F860D1A", 
             "thumbnail": "https://i.ytimg.com/vi/O4FiHEWqE0Q/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },        
         {
             "type": "plugin", 
             "title": "Jive Bunny", 
             "link": "plugin.video.youtube/playlist/PLI1doQOwfWB78wPfr0LConwObqdEG9IU6", 
             "thumbnail": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1491/14911143_so.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                
         {
             "type": "item", 
@@ -61,14 +75,14 @@
             "title": "Journey", 
             "link": "plugin.video.youtube/playlist/PLseru_GF_QVXLY8qe6XHBo_u24jlMq1Oz", 
             "thumbnail": "https://cdn.smehost.net/2020sonymusiccouk-ukprod/wp-content/uploads/2019/10/4955572d6b52fd1f344d6aecae7ab780.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },       
         {
             "type": "plugin", 
             "title": "Jim McCarty-Yardbirds", 
             "link": "plugin.video.youtube/playlist/PLrYu_NffGY5y38wXMUUojVL3pyeor2AEc", 
             "thumbnail": "https://imageio.forbes.com/blogs-images/jimclash/files/2015/04/page.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
