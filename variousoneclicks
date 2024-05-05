@@ -9,9 +9,9 @@
         },                                              
         {
             "type": "dir", 
-            "title": "", 
+            "title": "Video Games", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/videogames.json", 
-            "thumbnail": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Videogames1991-01_%28logo%29.svg/2560px-Videogames1991-01_%28logo%29.svg.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                            
         {
