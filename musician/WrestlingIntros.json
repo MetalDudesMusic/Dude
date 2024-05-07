@@ -1,0 +1,32 @@
+{
+    "items": [           
+        {
+            "type": "plugin", 
+            "title": "Current WWE Theme Songs", 
+            "link": "plugin.video.youtube/playlist/PL3hfuodzc4veolDsgU8ys8cdgSNCj03LH", 
+            "thumbnail": "https://i.ytimg.com/vi/cNDhVo6tNO8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "WWE Entrance Videos", 
+            "link": "plugin.video.youtube/playlist/PLEGP5LjXgLJ_rRgpZdjH2A2qLC4t4QBgb", 
+            "thumbnail": "https://i.ytimg.com/vi/SlK4N32Qkl4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "plugin", 
+            "title": "WWE Theme Songs", 
+            "link": "plugin.video.youtube/playlist/PLf3_obLjWAQxNn-pGKkt42rww1OGNbPJ9", 
+            "thumbnail": "https://i.ytimg.com/vi/LBxtYYxorP8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Titantrons", 
+            "link": "plugin.video.youtube/playlist/PLwH5qgaNJvE8BPiR_QkLtlNJF1FKa8_Wv", 
+            "thumbnail": "https://i.ytimg.com/vi/kjnyutfxlv8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
