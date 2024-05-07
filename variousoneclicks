@@ -1,5 +1,12 @@
 {
-    "items": [                                                
+    "items": [                                                    
+        {
+            "type": "dir", 
+            "title": "Wrestling Intros", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/WrestlingIntros.json", 
+            "thumbnail": "https://i.ytimg.com/vi/9fn41xXx9WA/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                           
         {
             "type": "dir", 
             "title": "Guitarists", 
