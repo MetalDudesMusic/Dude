@@ -6,7 +6,14 @@
             "link": "plugin.video.youtube/playlist/PL3hfuodzc4veolDsgU8ys8cdgSNCj03LH", 
             "thumbnail": "https://i.ytimg.com/vi/cNDhVo6tNO8/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },        
+        },           
+        {
+            "type": "plugin", 
+            "title": "wwe theme song playlist!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", 
+            "link": "plugin.video.youtube/playlist/PLUbsmsEyA_ERKBtWq0aILWJK1r8DkdPTK", 
+            "thumbnail": "https://i.ytimg.com/vi/1C-mdFXKyBU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
         {
             "type": "plugin", 
             "title": "WWE Entrance Videos", 
