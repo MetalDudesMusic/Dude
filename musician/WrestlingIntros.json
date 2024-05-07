@@ -20,12 +20,26 @@
             "link": "plugin.video.youtube/playlist/PLf3_obLjWAQxNn-pGKkt42rww1OGNbPJ9", 
             "thumbnail": "https://i.ytimg.com/vi/LBxtYYxorP8/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },         
+        },           
         {
             "type": "plugin", 
             "title": "Titantrons", 
             "link": "plugin.video.youtube/playlist/PLwH5qgaNJvE8BPiR_QkLtlNJF1FKa8_Wv", 
             "thumbnail": "https://i.ytimg.com/vi/kjnyutfxlv8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "plugin", 
+            "title": "1990's-2000's WWE Titantrons", 
+            "link": "plugin.video.youtube/playlist/PLQzQATYg1L2zAE2E2YC3j5gy-sWMwb1Qu", 
+            "thumbnail": "https://i.ytimg.com/vi/5gwEzysrU_k/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "plugin", 
+            "title": "wwf classic themes", 
+            "link": "plugin.video.youtube/playlist/PL7B351ACD36F5ECCF", 
+            "thumbnail": "https://i.ytimg.com/vi/5gwEzysrU_k/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
