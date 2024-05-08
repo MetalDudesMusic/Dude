@@ -1,0 +1,74 @@
+{
+    "items": [             
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland [COLORyellow]DJ Mixes[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLBCQUG9WckvL74JETPNvPBRuKd51BnL4k", 
+            "thumbnail": "https://i.ytimg.com/vi/Lc7wENMojo8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2023[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoOZSSYZtdmZzagDK9kNfUsu", 
+            "thumbnail": "https://i.ytimg.com/vi/A4lTUgJWNIw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2022[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoNFQ1nzaPy90MAt94vqJDb4", 
+            "thumbnail": "https://i.ytimg.com/vi/nsNCK3EJpao/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2019[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoOzRM5tbCes1MmKkzHi8jPq", 
+            "thumbnail": "https://i.ytimg.com/vi/_0KMSc7Jz_Y/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2018[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoOXzR8tpGC484wjgKFwIbWL", 
+            "thumbnail": "https://i.ytimg.com/vi/MglnNn_rB3I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2017[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoMEs_aCIfu-sQRpbWQLUpjS", 
+            "thumbnail": "https://i.ytimg.com/vi/EccF9ISUgEQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2016[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PL7fvyWRKbeNdqU2fOL1bh1HeVNh21KCGF", 
+            "thumbnail": "https://i.ytimg.com/vi/vkYbZP7g-0U/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2015[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PL0P1sLkvRor0Kuvkh8B9gsUxmhGjgN_eK", 
+            "thumbnail": "https://i.ytimg.com/vi/MxQ1HM8RKbY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2014[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLuNcv-HBi5AMisf2Ggxw7Lk5CS8lWZ6kP", 
+            "thumbnail": "https://i.ytimg.com/vi/eBZjZ6eAzMw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2013[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoNeuDjjGrKJEwVh0Vvh3sys", 
+            "thumbnail": "https://i.ytimg.com/vi/kwoD0wUXoWU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
