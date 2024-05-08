@@ -1,5 +1,12 @@
 {
-    "items": [                                                    
+    "items": [   
+        {
+            "type": "plugin", 
+            "title": "Ultimate Dance Event", 
+            "link": "plugin.video.youtube/playlist/PLm86GFcc-X0jJ89nftcuoNiIx_tw3TSvy", 
+            "thumbnail": "https://i.ytimg.com/vi/4AfDw0fWJd4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                  
         {
             "type": "dir", 
             "title": "Wrestling Intros", 
