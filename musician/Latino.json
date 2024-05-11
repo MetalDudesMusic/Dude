@@ -1,0 +1,81 @@
+{
+    "items": [             
+        {
+            "type": "plugin", 
+            "title": "Top Latin Music", 
+            "link": "plugin.video.youtube/playlist/PL2qlNvGudSBH5-oCF21Zqmx6rRk0ygfEP", 
+            "thumbnail": "https://i.ytimg.com/vi/-UV0QGLmYys/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Latin Hits 2023", 
+            "link": "plugin.video.youtube/playlist/RDCLAK5uy_k3XMatQZ2XwY8GnzFyVl9gFAcCxHGVWRw", 
+            "thumbnail": "https://i.ytimg.com/vi/jZGpkLElSu8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Afro Latin soul", 
+            "link": "plugin.video.youtube/playlist/PLncKRWJHDtcwDqWQyBbKhtYza0M5l50Vn", 
+            "thumbnail": "https://i.ytimg.com/vi/SC7Tli683GE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "plugin", 
+            "title": "Spanish Dance Videos", 
+            "link": "plugin.video.youtube/playlist/PLL7beOYvKrnfy_psgcFYnnkjalw121Mq3", 
+            "thumbnail": "https://i.ytimg.com/vi/C4B7ZDi1P10/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "90s Latino", 
+            "link": "plugin.video.youtube/playlist/PLRC8ybkwEebqNuB09g2KxL6wpwu5rawbu", 
+            "thumbnail": "https://i.ytimg.com/vi/HRJd_Qhb9k0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": "Billboard All Time Top Latin Songs", 
+            "link": "plugin.video.youtube/playlist/PLSojLeKIMzEYl_fpZyOEDiPWfXbawExts", 
+            "thumbnail": "https://i.ytimg.com/vi/6Whgn_iE5uc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Mexican rap", 
+            "link": "plugin.video.youtube/playlist/PLi0Bwnqr3qX0L3Nbyo_rp84ddPWmlochq", 
+            "thumbnail": "https://i.ytimg.com/vi/3q1B3xGXQjY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "plugin", 
+            "title": "School Appropriate Spanish Songs", 
+            "link": "plugin.video.youtube/playlist/PLipXVnhpB3QDPZozZ96uqBtHScxUF5VLa", 
+            "thumbnail": "https://i.ytimg.com/vi/q8Gg_eCGJpA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "The Best SPANISH Songs of All Time", 
+            "link": "plugin.video.youtube/playlist/PL5AB5121B1C573654", 
+            "thumbnail": "https://i.ytimg.com/vi/eTj5g6lutIw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Latin Songs of 2015", 
+            "link": "plugin.video.youtube/playlist/PLam08HY53ekvmvoTcQwbkuS1h9_BjvaOF", 
+            "thumbnail": "https://i.ytimg.com/vi/Xk0wdDTTPA0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Latin Music 2024", 
+            "link": "plugin.video.youtube/playlist/PLBMPbZf5dAhNnAKl07YGp0-xPbnDGsbT5", 
+            "thumbnail": "https://i.ytimg.com/vi/VBcs8DZxBGc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
