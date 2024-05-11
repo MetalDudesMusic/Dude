@@ -1,5 +1,12 @@
 {
-    "items": [   
+    "items": [                                                     
+        {
+            "type": "dir", 
+            "title": "Latino", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Latino.json", 
+            "thumbnail": "https://pbs.twimg.com/profile_images/699330736327884801/qr1TTtZd_400x400.png", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
         {
             "type": "plugin", 
             "title": "Ultimate Dance Event", 
