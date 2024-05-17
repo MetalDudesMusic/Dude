@@ -1,5 +1,12 @@
 {
-    "items": [                                                 
+    "items": [                                                     
+        {
+            "type": "plugin", 
+            "title": "Neil Young", 
+            "link": "plugin.video.youtube/playlist/PLbEsINa0ruVIB6Fa20ebrjOtd7eLfR7EI", 
+            "thumbnail": "https://i.ytimg.com/vi/xPQJcUeG7jM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
         {
             "type": "plugin", 
             "title": "NOFX", 
