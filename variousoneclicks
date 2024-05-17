@@ -1,5 +1,12 @@
 {
-    "items": [                                                     
+    "items": [    
+        {
+            "type": "plugin", 
+            "title": "90s Reggae and other songs", 
+            "link": "plugin.video.youtube/playlist/PL5lQq2TP-g4By4HbpUbUX7leZHVFe-p3R", 
+            "thumbnail": "https://i.ytimg.com/vi/uc2UEfWjvo8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                  
         {
             "type": "dir", 
             "title": "Latino", 
