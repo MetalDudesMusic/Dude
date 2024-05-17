@@ -1,5 +1,12 @@
 {
-    "items": [                                                               
+    "items": [                                                                   
+        {
+            "type": "plugin", 
+            "title": "Bad meets Evil", 
+            "link": "plugin.video.youtube/playlist/PLjZWSWxZARYs-KgnJCZMTo8YUn7pWS4jL", 
+            "thumbnail": "https://i.ytimg.com/vi/kgK1xr-iz3I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                            
         {
             "type": "plugin", 
             "title": "Blind Melon", 
