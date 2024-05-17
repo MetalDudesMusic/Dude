@@ -2,6 +2,13 @@
     "items": [                                                          
         {
             "type": "plugin", 
+            "title": "Lil Wayne", 
+            "link": "plugin.video.youtube/playlist/PLoj0KbD8u6N7FU6IBVoJpgTQ8pDPZz2Ms", 
+            "thumbnail": "https://i.ytimg.com/vi/wObTive0mBM/hqdefault.jpg", 
+            "fanart": ""
+        },                                                        
+        {
+            "type": "plugin", 
             "title": "Layto x Neoni", 
             "link": "plugin.video.youtube/playlist/PLG0Ha8dEKp1C9VhcqiVqWOOWb2-dlg_9t", 
             "thumbnail": "https://i.ytimg.com/vi/d79nXbLUUh4/hqdefault.jpg", 
