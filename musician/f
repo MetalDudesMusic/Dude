@@ -1,5 +1,12 @@
 {
-    "items": [                      
+    "items": [                        
+        {
+            "type": "plugin", 
+            "title": "Foo Fighters", 
+            "link": "plugin.video.youtube/playlist/PL597E0BDDC1D74ED2", 
+            "thumbnail": "https://i.ytimg.com/vi/SBjQ9tuuTJQ/hqdefault.jpg", 
+            "fanart": ""
+        },                   
         {
             "type": "plugin", 
             "title": "Finger Eleven", 
