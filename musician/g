@@ -2,6 +2,13 @@
     "items": [                                  
         {
             "type": "plugin", 
+            "title": "Green Day", 
+            "link": "plugin.video.youtube/playlist/PLxHk9r8Q6fBBDFhy_IeiMQ8JCL1VQuU8g", 
+            "thumbnail": "https://i.ytimg.com/vi/fr2T-Rcgq1c/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
+        {
+            "type": "plugin", 
             "title": "Gnarls Barkley", 
             "link": "plugin.video.youtube/playlist/PL9Li9IqjeKQNGXCqb8IwAG5kkNz6DjtKh", 
             "thumbnail": "https://i.ytimg.com/vi/VzV9QExGFQs/hqdefault.jpg", 
