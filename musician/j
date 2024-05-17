@@ -1,5 +1,12 @@
 {
-    "items": [                                
+    "items": [                                 
+        {
+            "type": "plugin", 
+            "title": "Joe Bonamassa", 
+            "link": "plugin.video.youtube/playlist/PLe1oL2lSY_FuvwRxv3_mfZYBjCreUdOnC", 
+            "thumbnail": "https://i.ytimg.com/vi/1IsaSy9ItIU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                               
         {
             "type": "plugin", 
             "title": "Jeff Healey", 
