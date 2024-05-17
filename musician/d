@@ -1,5 +1,12 @@
 {
-    "items": [                                               
+    "items": [                                                 
+        {
+            "type": "plugin", 
+            "title": "Days of the New", 
+            "link": "plugin.video.youtube/playlist/PL7lu_kdZ8dBj0bIf5qbmXMRijh_CAR90p", 
+            "thumbnail": "https://i.ytimg.com/vi/Wg-HZd4Lb2Q/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
         {
             "type": "plugin", 
             "title": "Dre", 
