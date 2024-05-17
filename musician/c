@@ -1,5 +1,12 @@
 {
-    "items": [                                                           
+    "items": [                                                              
+        {
+            "type": "plugin", 
+            "title": "Chris Thomas King", 
+            "link": "plugin.video.youtube/playlist/PLAF98BBA3199EB0D7", 
+            "thumbnail": "https://i.ytimg.com/vi/BB2uvX-LWaw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                        
         {
             "type": "plugin", 
             "title": "Candlebox", 
