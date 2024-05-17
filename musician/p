@@ -2,6 +2,13 @@
     "items": [                                      
         {
             "type": "item", 
+            "title": "Puddle Of Mudd", 
+            "link": "plugin.video.youtube/playlist/PLqss3L6F2c-fdGzpvsTvNx6jBxfCYfZY_", 
+            "thumbnail": "https://i.ytimg.com/vi/5TU1WNG8-tA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                     
+        {
+            "type": "item", 
             "title": "Paul Simon", 
             "link": "plugin.video.youtube/playlist/PL318EC5B1194A5B3D", 
             "thumbnail": "https://i.ytimg.com/vi/-I_T3XvzPaM/hqdefault.jpg", 
