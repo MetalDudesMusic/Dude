@@ -1,5 +1,12 @@
 {
-    "items": [                                                          
+    "items": [                                                           
+        {
+            "type": "plugin", 
+            "title": "Offspring", 
+            "link": "plugin.video.youtube/playlist/PLDEC59BB38A4D9F9A", 
+            "thumbnail": "https://i.ytimg.com/vi/_g19fCJotPc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                        
         {
             "type": "plugin", 
             "title": "Omar and the Howlers", 
