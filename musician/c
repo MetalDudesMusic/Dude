@@ -1,5 +1,12 @@
 {
-    "items": [                                                         
+    "items": [                                                           
+        {
+            "type": "plugin", 
+            "title": "Candlebox", 
+            "link": "plugin.video.youtube/playlist/PLxBwhEnny7qtqpt58Nd2PSols1BGmqrNz", 
+            "thumbnail": "https://i.ytimg.com/vi/fyz-bOqmwIo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                       
         {
             "type": "plugin", 
             "title": "Chuck Berry", 
