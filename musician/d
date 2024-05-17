@@ -1,5 +1,12 @@
 {
-    "items": [                                            
+    "items": [                                               
+        {
+            "type": "plugin", 
+            "title": "Dre", 
+            "link": "plugin.video.youtube/playlist/PLJXon6I994jPR7oKPA5H_p796XOIkl9jg", 
+            "thumbnail": "https://i.ytimg.com/vi/c80dWbiONqM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                          
         {
             "type": "plugin", 
             "title": "DPR IAN", 
