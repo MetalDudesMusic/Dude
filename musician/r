@@ -1,5 +1,12 @@
 {
-    "items": [                                             
+    "items": [                                              
+        {
+            "type": "plugin", 
+            "title": "Radio Head", 
+            "link": "plugin.video.youtube/playlist/PL14BB6149F7C05FCF", 
+            "thumbnail": "https://i.ytimg.com/vi/_BUSnGF0mLo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                           
         {
             "type": "plugin", 
             "title": "Reba McEntire", 
