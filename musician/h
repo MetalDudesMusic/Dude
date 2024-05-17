@@ -1,5 +1,12 @@
 {
-    "items": [                     
+    "items": [                      
+        {
+            "type": "plugin", 
+            "title": "Harvey Danger", 
+            "link": "plugin.video.youtube/playlist/PLwjXw-9Ez-YeA5JcAbfv71Zlaz4rlcJA9", 
+            "thumbnail": "https://i.ytimg.com/vi/wYsMjEeEg4g/hqdefault.jpg", 
+            "fanart": ""
+        },                    
         {
             "type": "plugin", 
             "title": "Hinder", 
