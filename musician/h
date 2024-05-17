@@ -1,39 +1,46 @@
 {
-    "items": [                      
+    "items": [                         
+        {
+            "type": "plugin", 
+            "title": "Highly Suspect", 
+            "link": "plugin.video.youtube/playlist/PLAYExt4w4Z8GKYXf26cAkWldTmZBrdKJ4", 
+            "thumbnail": "https://i.ytimg.com/vi/ev-bR9ii7Gs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                  
         {
             "type": "plugin", 
             "title": "Harvey Danger", 
             "link": "plugin.video.youtube/playlist/PLwjXw-9Ez-YeA5JcAbfv71Zlaz4rlcJA9", 
             "thumbnail": "https://i.ytimg.com/vi/wYsMjEeEg4g/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                    
         {
             "type": "plugin", 
             "title": "Hinder", 
             "link": "plugin.video.youtube/playlist/PLHouPWFf-WGQK4onmJ-P4sy1ACnbDkgOr", 
             "thumbnail": "https://i.ytimg.com/vi/RiSfTyrvJlg/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },           
         {
             "type": "plugin", 
             "title": "Heart", 
             "link": "plugin.video.youtube/playlist/PLRYjIdaAzRVmmaJEG-elAlp91clvYXnws", 
             "thumbnail": "https://i.ytimg.com/vi/1Cw1ng75KP0/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },         
         {
             "type": "plugin", 
             "title": "Hall & Oates", 
             "link": "plugin.video.youtube/playlist/PL0Ewn91tEfzRObh44bkUkf2M2cuZdVYR_", 
             "thumbnail": "https://i.ytimg.com/vi/JsntlJZ9h1U/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },          
         {
             "type": "plugin", 
             "title": "Hole", 
             "link": "plugin.video.youtube/playlist/PLnordgqMCs8_CZ4lPWl6g5KIDgVkc5VLP", 
             "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/09/celebrity-skin-at-20-courtney-love-hole.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
