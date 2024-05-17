@@ -1,5 +1,12 @@
 {
-    "items": [                                   
+    "items": [                                       
+        {
+            "type": "plugin", 
+            "title": "John Mayer", 
+            "link": "plugin.video.youtube/playlist/PL35A33101A79A3201", 
+            "thumbnail": "https://i.ytimg.com/vi/20Ov0cDPZy8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                               
         {
             "type": "plugin", 
             "title": "Janes Addiction", 
