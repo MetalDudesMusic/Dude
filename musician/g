@@ -1,5 +1,12 @@
 {
-    "items": [                                
+    "items": [                                  
+        {
+            "type": "plugin", 
+            "title": "Gnarls Barkley", 
+            "link": "plugin.video.youtube/playlist/PL9Li9IqjeKQNGXCqb8IwAG5kkNz6DjtKh", 
+            "thumbnail": "https://i.ytimg.com/vi/VzV9QExGFQs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                             
         {
             "type": "plugin", 
             "title": "Godsmack", 
