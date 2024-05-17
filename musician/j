@@ -1,5 +1,12 @@
 {
-    "items": [                                 
+    "items": [                                   
+        {
+            "type": "plugin", 
+            "title": "Janes Addiction", 
+            "link": "plugin.video.youtube/playlist/PL0xXGZWysIyb_lnsxBI1D-4UHpjiLcj94", 
+            "thumbnail": "https://i.ytimg.com/vi/lVIev94s7Mo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                              
         {
             "type": "plugin", 
             "title": "Joe Bonamassa", 
