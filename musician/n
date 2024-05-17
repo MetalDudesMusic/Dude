@@ -1,5 +1,12 @@
 {
-    "items": [                                               
+    "items": [                                                 
+        {
+            "type": "plugin", 
+            "title": "NOFX", 
+            "link": "plugin.video.youtube/playlist/PLdvZl8FJkVqVefRtRKdNSdyN3w2qD6871", 
+            "thumbnail": "https://i.ytimg.com/vi/KDMpSrCPgGM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
         {
             "type": "plugin", 
             "title": "Nitty Gritty Dirt Band", 
