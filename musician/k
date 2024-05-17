@@ -1,5 +1,12 @@
 {
-    "items": [                                                   
+    "items": [                                                        
+        {
+            "type": "plugin", 
+            "title": "Keb Mo", 
+            "link": "plugin.video.youtube/playlist/PLi1gQOOedwTx4vJBfWPSubGJMevazQ3pX", 
+            "thumbnail": "https://i.ytimg.com/vi/GFxCtRCPal0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                               
         {
             "type": "plugin", 
             "title": "K Flay", 
