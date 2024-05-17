@@ -1,5 +1,12 @@
 {
-    "items": [                                      
+    "items": [                                    
+        {
+            "type": "plugin", 
+            "title": "Eminem", 
+            "link": "plugin.video.youtube/playlist/PLlnUv3CE5JkeQPkvO6DOdD1lRsorfH1Fo", 
+            "thumbnail": "https://i.ytimg.com/vi/QFcv5Ma8u8k/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                      
         {
             "type": "plugin", 
             "title": "Earl Sweatshirt", 
