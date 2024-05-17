@@ -1,5 +1,12 @@
 {
-    "items": [                                         
+    "items": [                                          
+        {
+            "type": "plugin", 
+            "title": "The Black Keys", 
+            "link": "plugin.video.youtube/playlist/PLA8E83CDA3E64F49B", 
+            "thumbnail": "https://i.ytimg.com/vi/A1Bag60O_wc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                       
         {
             "type": "plugin", 
             "title": "Tool", 
