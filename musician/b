@@ -1,5 +1,12 @@
 {
-    "items": [                                                             
+    "items": [                                                               
+        {
+            "type": "plugin", 
+            "title": "Blind Melon", 
+            "link": "plugin.video.youtube/playlist/PLffU6XpZ-5bUj_9qdoSSi_9DkxcjwX4Cu", 
+            "thumbnail": "https://i.ytimg.com/vi/Yn1WbBaWTdc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                           
         {
             "type": "plugin", 
             "title": "BB King", 
