@@ -1,5 +1,12 @@
 {
-    "items": [                                     
+    "items": [                                         
+        {
+            "type": "plugin", 
+            "title": "Tool", 
+            "link": "plugin.video.youtube/playlist/PLbWCMdogqDyCIzCvLMQ-nZoN3P2LrKOeh", 
+            "thumbnail": "https://i.ytimg.com/vi/MM62wjLrgmA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
         {
             "type": "plugin", 
             "title": "Tommy Emmanuel", 
