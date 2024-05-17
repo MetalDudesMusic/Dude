@@ -1,5 +1,19 @@
 {
-    "items": [                                                                
+    "items": [                                                                        
+        {
+            "type": "plugin", 
+            "title": "Stone Temple Pilots", 
+            "link": "plugin.video.youtube/playlist/PLF63728BD06D2248D", 
+            "thumbnail": "https://i.ytimg.com/vi/V5UOC0C0x8Q/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                              
+        {
+            "type": "plugin", 
+            "title": "Stained", 
+            "link": "plugin.video.youtube/playlist/PLbH_Mkl6h0Oh5YHGe5TLVmldKPPDvKV2b", 
+            "thumbnail": "https://i.ytimg.com/vi/sfxYSmlU1h4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                           
         {
             "type": "plugin", 
             "title": "Stevie Ray Vaughan", 
