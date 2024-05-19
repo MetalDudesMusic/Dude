@@ -1,7 +1,7 @@
 {
-    "items": [                                      
+    "items": [                                       
         {
-            "type": "item", 
+            "type": "plugin", 
             "title": "Puddle Of Mudd", 
             "link": "plugin.video.youtube/playlist/PLqss3L6F2c-fdGzpvsTvNx6jBxfCYfZY_", 
             "thumbnail": "https://i.ytimg.com/vi/5TU1WNG8-tA/hqdefault.jpg", 
