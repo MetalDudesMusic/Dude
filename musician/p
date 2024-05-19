@@ -20,6 +20,13 @@
             "link": "plugin.video.youtube/playlist/PLJoqD3AtFQfnjGOUIAIGR-3SLWlxO6aaO", 
             "thumbnail": "https://i.ytimg.com/vi/VpBA_4UNUXU/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                          
+        {
+            "type": "item", 
+            "title": "Parov Stelar", 
+            "link": "plugin.video.youtube/playlist/PLZpZd_Ra3UYktJPj8_uH-NYrDzKmb9upG", 
+            "thumbnail": "https://i.ytimg.com/vi/-_BT6zM1wkU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
