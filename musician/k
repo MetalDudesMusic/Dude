@@ -1,5 +1,12 @@
 {
-    "items": [                                                        
+    "items": [                                                             
+        {
+            "type": "plugin", 
+            "title": "Kenny Wayne Shepherd", 
+            "link": "plugin.video.youtube/playlist/PLafOif_ZXjX6z7CbgZQIaKMptexxYdYEw", 
+            "thumbnail": "https://i.ytimg.com/vi/EsSaObejUuo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                 
         {
             "type": "plugin", 
             "title": "Keb Mo", 
