@@ -1,5 +1,12 @@
 {
-    "items": [                                                                      
+    "items": [                                                                       
+        {
+            "type": "plugin", 
+            "title": "Bee Gees", 
+            "link": "plugin.video.youtube/playlist/PL3DE144D6609FE232", 
+            "thumbnail": "https://i.ytimg.com/vi/I_izvAbhExY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                    
         {
             "type": "plugin", 
             "title": "Blink 182", 
@@ -80,7 +87,7 @@
         {
             "type": "plugin", 
             "title": "Boston", 
-            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFvggJd3GG6gwFVXY8auC-nu", 
+            "link": "plugin.video.youtube/playlist/PLAteF0LO2OhgRkYxRv2204MwUNDNFV1Cx", 
             "thumbnail": "https://i.ytimg.com/vi/RmD7-BO6EbM/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                             
@@ -150,7 +157,7 @@
         {
             "type": "plugin", 
             "title": "Beastie Boys", 
-            "link": "plugin.video.youtube/playlist/PL1A8C5629B4CDE805", 
+            "link": "plugin.video.youtube/playlist/PLcSZi98oXl2HcYD30Rdc_a9G8aoP_Rr4_", 
             "thumbnail": "https://static.independent.co.uk/2021/11/10/11/shutterstock_editorial_8551116b.jpg", 
             "fanart": ""
         },         
