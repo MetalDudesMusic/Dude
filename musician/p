@@ -1,5 +1,12 @@
 {
-    "items": [                                      
+    "items": [                                
+        {
+            "type": "item", 
+            "title": "Puddle Of Mudd 2", 
+            "link": "plugin.video.youtube/playlist/PLqss3L6F2c-fdGzpvsTvNx6jBxfCYfZY_", 
+            "thumbnail": "https://www.billboard.com/wp-content/uploads/stylus/103461-puddle_of_mudd_617_409.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                      
         {
             "type": "item", 
             "title": "Puddle Of Mudd", 
