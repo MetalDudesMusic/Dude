@@ -20,6 +20,62 @@
             "link": "plugin.video.youtube/playlist/PLJoqD3AtFQfnjGOUIAIGR-3SLWlxO6aaO", 
             "thumbnail": "https://i.ytimg.com/vi/VpBA_4UNUXU/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                          
+        {
+            "type": "item", 
+            "title": "Parov Stelar", 
+            "link": "plugin.video.youtube/playlist/PLZpZd_Ra3UYktJPj8_uH-NYrDzKmb9upG", 
+            "thumbnail": "https://i.ytimg.com/vi/-_BT6zM1wkU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                      
+        {
+            "type": "item", 
+            "title": "Placebo", 
+            "link": "plugin.video.youtube/playlist/PLC_KiPJJicIBNLrz_bqDXx8fh-wGGNaXz", 
+            "thumbnail": "https://i.ytimg.com/vi/yR7KcN0X6yE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                    
+        {
+            "type": "plugin", 
+            "title": "Pat Benatar", 
+            "link": "plugin.video.youtube/playlist/PLC27525BE472A271F", 
+            "thumbnail": "https://i.ytimg.com/vi/XC-GAzAeIg8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                      
+        {
+            "type": "plugin", 
+            "title": "Pink", 
+            "link": "plugin.video.youtube/playlist/PLq3UZa7STrbpX13PljcNH6hmyrSbcMYK8", 
+            "thumbnail": "https://i.ytimg.com/vi/wGj9oADcyRs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },  
+        {
+            "type": "plugin", 
+            "title": "Pantera", 
+            "link": "plugin.video.youtube/playlist/PLxYReOMcJaFfGz1daUgyTUh9SerOLl3Vz", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2NkNzdhZjMtODEwMC00Y2UxLTgwODctMjdhNTkxZTcyOWY2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "dir", 
+            "title": "Pink Floyd", 
+            "link": "https://youtube.com/playlist?list=RDCLAK5uy_lw7Yui8Bt-pnt3L4D3dP1M6jrdg6k57Bo", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Pink_Floyd_-_all_members.jpg/250px-Pink_Floyd_-_all_members.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Pearl Jam", 
+            "link": "plugin.video.youtube/playlist/PL42B5188E402C40DD", 
+            "thumbnail": "https://www.udiscovermusic.com/wp-content/uploads/2020/10/Pearl-Jam-GettyImages-86111976.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "Poison", 
+            "link": "plugin.video.youtube/playlist/PLF10CD8DBC7E24650", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjdlOTYyZjYtZTQzMC00YzdmLWE1ZjUtNjE4ODBkZGU2YmQ1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
