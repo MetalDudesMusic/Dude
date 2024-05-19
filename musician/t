@@ -1,5 +1,33 @@
 {
-    "items": [                                          
+    "items": [                                                     
+        {
+            "type": "plugin", 
+            "title": "Tracy Chapman", 
+            "link": "plugin.video.youtube/playlist/PLgaFNC_I_ZklxtbVitU8jemG0XQ5AMJEx", 
+            "thumbnail": "https://i.ytimg.com/vi/Q2wneBVssPc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                               
+        {
+            "type": "plugin", 
+            "title": "The Eagles", 
+            "link": "plugin.video.youtube/playlist/PLgaFNC_I_ZklxtbVitU8jemG0XQ5AMJEx", 
+            "thumbnail": "https://i.ytimg.com/vi/09839DpTctU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                              
+        {
+            "type": "plugin", 
+            "title": "The Ranconteurs", 
+            "link": "plugin.video.youtube/playlist/PL448E8BFF20AC263D", 
+            "thumbnail": "https://i.ytimg.com/vi/AXgM3Dd3qIM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
+        {
+            "type": "plugin", 
+            "title": "The Black Keys", 
+            "link": "plugin.video.youtube/playlist/PLA8E83CDA3E64F49B", 
+            "thumbnail": "https://i.ytimg.com/vi/A1Bag60O_wc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                      
         {
             "type": "plugin", 
             "title": "The Black Keys", 
@@ -234,7 +262,7 @@
         {
             "type": "plugin", 
             "title": "The Kinks", 
-            "link": "plugin.video.youtube/playlist/RDCLAK5uy_lw7Yui8Bt-pnt3L4D3dP1M6jrdg6k57Bo", 
+            "link": "plugin.video.youtube/playlist/PLrTNVLD83x-ABmb4PrJyNQpgAh98AuQdd", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/88/Helmfrid-sofa4_Touched.JPG", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },        
@@ -290,7 +318,7 @@
         {
             "type": "plugin", 
             "title": "The White Stripes", 
-            "link": "plugin.video.youtube/playlist/PLAC9127A72919F8DC", 
+            "link": "plugin.video.youtube/playlist/PLcSZi98oXl2HGalDx56i_yhUmwEIdDHY-", 
             "thumbnail": "https://www.juxtapoz.com/images/Evan%20Pricco/2019/7July2019/White_Stripes_Elephant.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },         
@@ -332,7 +360,7 @@
         {
             "type": "plugin", 
             "title": "Toto", 
-            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFsBg9ueOCuklhCD54kAVH1M", 
+            "link": "plugin.video.youtube/playlist/PLoKggQu1TJ-Yq6r8TDSBNCaJOwq6gcM2k", 
             "thumbnail": "https://static.tvtropes.org/pmwiki/pub/images/toto_old_copy.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },          
