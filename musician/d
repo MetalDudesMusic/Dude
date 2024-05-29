@@ -1,5 +1,12 @@
 {
-    "items": [                                                 
+    "items": [                                                  
+        {
+            "type": "plugin", 
+            "title": "David Allen Coe", 
+            "link": "plugin.video.youtube/playlist/PLkdW2oSu-1Bs3maGhwH9PWRz9-7ohlFfm", 
+            "thumbnail": "https://i.ytimg.com/vi/OhEHB0a7Uyg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                
         {
             "type": "plugin", 
             "title": "Days of the New", 
