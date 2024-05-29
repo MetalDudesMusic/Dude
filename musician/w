@@ -1,23 +1,30 @@
 {
-    "items": [                                                        
+    "items": [                                                           
+        {
+            "type": "plugin", 
+            "title": "Willy Nelson", 
+            "link": "plugin.video.youtube/playlist/PL7E219197A84BC456", 
+            "thumbnail": "https://i.ytimg.com/vi/R7f189Z0v0Y/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                     
         {
             "type": "plugin", 
             "title": "William Elliot Whitmore", 
-            "link": "plugin.video.youtube/PLMUCULlMfw2lb_7_b2syMUvwnBBvZY6VL", 
+            "link": "plugin.video.youtube/playlist/PLMUCULlMfw2lb_7_b2syMUvwnBBvZY6VL", 
             "thumbnail": "https://i.ytimg.com/vi/uyayF19c3U4/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                         
         {
             "type": "plugin", 
             "title": "Wolfgang Lohr", 
-            "link": "plugin.video.youtube/PLv3UtBdl018Iy26tQ-VjHkYkuIlxtWNyN", 
+            "link": "plugin.video.youtube/playlist/PLv3UtBdl018Iy26tQ-VjHkYkuIlxtWNyN", 
             "thumbnail": "https://i.ytimg.com/vi/EsCzq-H4PB4/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                 
         {
             "type": "plugin", 
             "title": "Wilco", 
-            "link": "plugin.video.youtube/PLLWq1N9a7WIpwo_zHaNZ5O7ytsnqw_oHc", 
+            "link": "plugin.video.youtube/playlist/PLLWq1N9a7WIpwo_zHaNZ5O7ytsnqw_oHc", 
             "thumbnail": "https://i.ytimg.com/vi/P2Gbbd6pVMg/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                    
