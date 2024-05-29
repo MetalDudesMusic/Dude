@@ -1,5 +1,12 @@
 {
-    "items": [         
+    "items": [          
+        {
+            "type": "plugin", 
+            "title": "Imagine Dragons", 
+            "link": "plugin.video.youtube/playlist/PLMp5rDgAZPCi51aybeg5YZwvTPbBDT3a8", 
+            "thumbnail": "https://i.ytimg.com/vi/fKopy74weus/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
         {
             "type": "plugin", 
             "title": "Iron Maiden", 
