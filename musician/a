@@ -1,5 +1,12 @@
 {
-    "items": [                                                       
+    "items": [                                                        
+        {
+            "type": "plugin", 
+            "title": "Albert King", 
+            "link": "plugin.video.youtube/playlist/PLsY6VJc9zDqnM5mvc7bcc--8E4HzjyBTN", 
+            "thumbnail": "https://i.ytimg.com/vi/OrLJkFH369M/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                      
         {
             "type": "plugin", 
             "title": "Avril Lavigne", 
