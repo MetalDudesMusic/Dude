@@ -1,5 +1,26 @@
 {
-    "items": [                                                     
+    "items": [                                                         
+        {
+            "type": "plugin", 
+            "title": "The Toadies", 
+            "link": "plugin.video.youtube/playlist/PLF5iYb-c-OFn4BS8IFdRwy12LXt0t9HnB", 
+            "thumbnail": "https://i.ytimg.com/vi/ixB-EC4hbLM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                       
+        {
+            "type": "plugin", 
+            "title": "Train", 
+            "link": "plugin.video.youtube/playlist/PLDX2jvORHkAbf8EIdFF_8lO1AwS_n9Zeq", 
+            "thumbnail": "https://i.ytimg.com/vi/oxqnFJ3lp5k/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                     
+        {
+            "type": "plugin", 
+            "title": "Twisted Sister", 
+            "link": "plugin.video.youtube/playlist/PL29662FBF0FC8F98D", 
+            "thumbnail": "https://i.ytimg.com/vi/4xmckWVPRaI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                   
         {
             "type": "plugin", 
             "title": "Tracy Chapman", 
