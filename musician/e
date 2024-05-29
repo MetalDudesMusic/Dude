@@ -1,5 +1,26 @@
 {
-    "items": [                                    
+    "items": [                                           
+        {
+            "type": "plugin", 
+            "title": "Eve 6", 
+            "link": "plugin.video.youtube/playlist/PLGc-YUAxIGNgDJMb_99T6_OA90G7ehA7c", 
+            "thumbnail": "https://i.ytimg.com/vi/X5DOGsoiW6c/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
+        {
+            "type": "plugin", 
+            "title": "Everclear", 
+            "link": "plugin.video.youtube/playlist/PL0956C21E4AEDD024", 
+            "thumbnail": "https://i.ytimg.com/vi/kkcbxjWG9Mc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
+        {
+            "type": "plugin", 
+            "title": "Everlast", 
+            "link": "plugin.video.youtube/playlist/PLED7B084A82947C00", 
+            "thumbnail": "https://i.ytimg.com/vi/Vxu21fYnKMw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
         {
             "type": "plugin", 
             "title": "Eminem", 
