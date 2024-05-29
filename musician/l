@@ -1,5 +1,19 @@
 {
-    "items": [                                                          
+    "items": [                                                           
+        {
+            "type": "plugin", 
+            "title": "Louis Armstrong", 
+            "link": "plugin.video.youtube/playlist/PL6DC9F41EBC5695D1", 
+            "thumbnail": "https://i.ytimg.com/vi/kmfeKUNDDYs/hqdefault.jpg", 
+            "fanart": ""
+        },                                                             
+        {
+            "type": "plugin", 
+            "title": "Leon Russell", 
+            "link": "plugin.video.youtube/playlist/PLAEAE68E14ED80933", 
+            "thumbnail": "https://i.ytimg.com/vi/o93jTKhil9Y/hqdefault.jpg", 
+            "fanart": ""
+        },                                                       
         {
             "type": "plugin", 
             "title": "Lil Wayne", 
