@@ -1,5 +1,12 @@
 {
-    "items": [                                                              
+    "items": [                                                                      
+        {
+            "type": "plugin", 
+            "title": "Cracker", 
+            "link": "plugin.video.youtube/playlist/PLJLqsoU6XSi_uG7HFG7hcJi4fRhbcMan1", 
+            "thumbnail": "https://i.ytimg.com/vi/XOsNsOhyG8I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                       
         {
             "type": "plugin", 
             "title": "Chris Thomas King", 
