@@ -1,5 +1,12 @@
 {
-    "items": [                                                                       
+    "items": [                                                                          
+        {
+            "type": "plugin", 
+            "title": "Beck", 
+            "link": "plugin.video.youtube/playlist/PLC_KiPJJicICLU9CnX5sERUbV5uGTfdIO", 
+            "thumbnail": "https://i.ytimg.com/vi/yHjjqYQpBQg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                   
         {
             "type": "plugin", 
             "title": "Bee Gees", 
