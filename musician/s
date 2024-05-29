@@ -6,7 +6,14 @@
             "link": "plugin.video.youtube/playlist/PLhXBDRYQpUs0o9MuSQl8Ndx1GPl55NvVU", 
             "thumbnail": "https://i.ytimg.com/vi/GtUVQei3nX4/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                                    
+        },                                                                     
+        {
+            "type": "plugin", 
+            "title": "Sixto (SugarMan) Rodriguez", 
+            "link": "plugin.video.youtube/playlist/PLizJoTwehdxUHORtU4yhWAvSUpYBluTqj", 
+            "thumbnail": "https://i.ytimg.com/vi/PqhoCJ6Dy44/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                   
         {
             "type": "plugin", 
             "title": "Stone Temple Pilots", 
