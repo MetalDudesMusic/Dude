@@ -1,5 +1,75 @@
 {
-    "items": [    
+    "items": [            
+        {
+            "type": "plugin", 
+            "title": "** Smokin Old Skool **", 
+            "link": "plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR", 
+            "thumbnail": "https://i.ytimg.com/vi/z4dzRD6dFvA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Most Viewed Songs On Youtube", 
+            "link": "plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR", 
+            "thumbnail": "https://i.ytimg.com/vi/z4dzRD6dFvA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": "Best Hits ever! 90s 80s 00s 90 80 2000", 
+            "link": "plugin.video.youtube/playlist/PLVQ7g3e6O27cH8KG9mktLWH8zcqiwTntP", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "Best Rock songs of all time!", 
+            "link": "plugin.video.youtube/playlist/PLVQ7g3e6O27cH8KG9mktLWH8zcqiwTntP", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "2000s Rock Songs", 
+            "link": "plugin.video.youtube/playlist/PLn4GvABOzCQursVQ7qMU9CkNaKz4RgrVM", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "plugin", 
+            "title": "2000s Rock Songs", 
+            "link": "plugin.video.youtube/playlist/PLn4GvABOzCQursVQ7qMU9CkNaKz4RgrVM", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "plugin", 
+            "title": "Popular Rock Music", 
+            "link": "plugin.video.youtube/playlist/PLyORnIW1xT6wFALM5dZlkFhOULbToFok3", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },     
+        {
+            "type": "plugin", 
+            "title": "Woodstock 1969 Greatest Performances", 
+            "link": "plugin.video.youtube/playlist/PLNtWJ2sAQ7iIY-YRqkaGsPl3trMdZvkNm", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },    
+        {
+            "type": "plugin", 
+            "title": "UP in smoke tour 2001", 
+            "link": "plugin.video.youtube/playlist/PLZE5iLAM4PvfnFmMJWwz62K5opDYpRMt3", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },    
+        {
+            "type": "plugin", 
+            "title": "Hard Rock Live Music Videos 50s 60s 70s 80s", 
+            "link": "plugin.video.youtube/playlist/PL300C32DA374417AA", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },   
         {
             "type": "plugin", 
             "title": "90s Reggae and other songs", 
