@@ -1,5 +1,47 @@
 {
-    "items": [                                                           
+    "items": [                                                                   
+        {
+            "type": "plugin", 
+            "title": "Whitesnake", 
+            "link": "plugin.video.youtube/playlist/PLuzW6rT9oFxrMtJ6ZMw6edrocrJ0rB3iD", 
+            "thumbnail": "https://i.ytimg.com/vi/vmaN1heVWc4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                
+        {
+            "type": "plugin", 
+            "title": "Westlife", 
+            "link": "plugin.video.youtube/playlist/PL6D2qUoCEEmexyLWM217YLmUjGjLmI5yS", 
+            "thumbnail": "https://i.ytimg.com/vi/5rmKy8H62BU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                        
+        {
+            "type": "plugin", 
+            "title": "Wings", 
+            "link": "plugin.video.youtube/playlist/PL-lcCneoWMvQSrXKoN6Qkv75T6GjchliF", 
+            "thumbnail": "https://i.ytimg.com/vi/TfbWZ1zt8LQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                             
+        {
+            "type": "plugin", 
+            "title": "Wham!", 
+            "link": "plugin.video.youtube/playlist/PLm3xKHpkyJjcWlOBSSSNB6gbGKY9kWMTj", 
+            "thumbnail": "https://i.ytimg.com/vi/kufh8YJCMZs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                           
+        {
+            "type": "plugin", 
+            "title": "Weird Al Yankovic", 
+            "link": "plugin.video.youtube/playlist/PLXjuyl3vwK6X5lBD7yogtDDBLqu3m_HGR", 
+            "thumbnail": "https://i.ytimg.com/vi/qpMvS1Q1sos/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                           
+        {
+            "type": "plugin", 
+            "title": "Weezer", 
+            "link": "plugin.video.youtube/playlist/PLcxSGN3jVmzHoO4d7v-_R2fCjuT1LwSHm", 
+            "thumbnail": "https://i.ytimg.com/vi/LHQqqM5sr7g/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                         
         {
             "type": "plugin", 
             "title": "Willy Nelson", 
