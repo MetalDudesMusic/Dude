@@ -1,10 +1,59 @@
 {
-    "items": [                                       
+    "items": [                                                 
+        {
+            "type": "plugin", 
+            "title": "Zac Brown Band", 
+            "link": "plugin.video.youtube/playlist/PLCUQtIMxVeryqmtXEeOmmaz9Ii_omjA9T", 
+            "thumbnail": "https://i.ytimg.com/vi/fas8PzCxLC8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                 
+        {
+            "type": "plugin", 
+            "title": "Zebrahead", 
+            "link": "plugin.video.youtube/playlist/PL1Xaiwv6yX38cF3n8TgT7zDO3OJ0Vuh0r", 
+            "thumbnail": "https://i.ytimg.com/vi/3Yb5P2dgcyU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                              
+        {
+            "type": "plugin", 
+            "title": "Zack dela rocha", 
+            "link": "plugin.video.youtube/playlist/PLDdxjSiQD2dMK1bGheGttF7Y0_k3_VZQl", 
+            "thumbnail": "https://i.ytimg.com/vi/wdJpJPyerLg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
+        {
+            "type": "plugin", 
+            "title": "Ziggy Marley", 
+            "link": "plugin.video.youtube/playlist/PLxdhaIsTS43oKLYxYNoRRgK3aANPPvQ4P", 
+            "thumbnail": "https://i.ytimg.com/vi/V1zrEGsj234/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                       
+        {
+            "type": "plugin", 
+            "title": "Zero 7", 
+            "link": "plugin.video.youtube/playlist/PLC_KiPJJicICqvom-WC5cPg9RtP3IXl1-", 
+            "thumbnail": "https://i.ytimg.com/vi/AM8M-HHSbp0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                          
         {
             "type": "plugin", 
             "title": "ZZ Top", 
             "link": "plugin.video.youtube/playlist/PLw6p6PA8M2mjHiBa6PCcYEaJBKceG3DK_", 
             "thumbnail": "https://i.ytimg.com/vi/https://i.ytimg.com/vi/Ae829mFAGGE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                           
+        {
+            "type": "plugin", 
+            "title": "Zombies", 
+            "link": "plugin.video.youtube/playlist/PLKJfRVtNz7KevjI0VuOdL-Z2Ptlw6Xcu-", 
+            "thumbnail": "https://i.ytimg.com/vi/https://i.ytimg.com/vi/Ae829mFAGGE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
+        {
+            "type": "plugin", 
+            "title": "Zoot", 
+            "link": "plugin.video.youtube/playlist/PL_xgBhSmaJpC9i9HHuAnPMUYcV1eSlD6x", 
+            "thumbnail": "https://i.ytimg.com/vi/_yO2kg0pxto/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                               
         {
