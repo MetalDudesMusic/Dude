@@ -1,5 +1,33 @@
 {
-    "items": [                                           
+    "items": [                                                   
+        {
+            "type": "plugin", 
+            "title": "Xzibit", 
+            "link": "plugin.video.youtube/playlist/PLodwIyYObHr-oaiQI5ZSaPllExtF8QWzH", 
+            "thumbnail": "https://i.ytimg.com/vi/g5xJBKVGTGs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                 
+        {
+            "type": "plugin", 
+            "title": "Xxxtentacion", 
+            "link": "plugin.video.youtube/playlist/PLWfs3uPubDvBpHz-isXhlgD371mjFZNMf", 
+            "thumbnail": "https://i.ytimg.com/vi/JdR5pgF_Obc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
+        {
+            "type": "plugin", 
+            "title": "Xyz", 
+            "link": "plugin.video.youtube/playlist/PLpnX2OYSeNnlzUXqHzdiBRWlt1wua1u6A", 
+            "thumbnail": "https://i.ytimg.com/vi/EAEPl0rLXms/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
+        {
+            "type": "plugin", 
+            "title": "XTC", 
+            "link": "plugin.video.youtube/playlist/PL0sXnG1SUr3fmxha2PHec0tIVaoh-fHec", 
+            "thumbnail": "https://i.ytimg.com/vi/KtnNJ3q5wEc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                       
         {
             "type": "plugin", 
             "title": "X Ambassadors", 
