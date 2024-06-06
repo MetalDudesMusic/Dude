@@ -1,12 +1,47 @@
 {
-    "items": [                                      
+    "items": [                                            
+        {
+            "type": "plugin", 
+            "title": "Young MC", 
+            "link": "plugin.video.youtube/playlist/PL176F58BA2BEA5400", 
+            "thumbnail": "https://i.ytimg.com/vi/rW0btepIUkk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                         
+        {
+            "type": "plugin", 
+            "title": "Yellowcard", 
+            "link": "plugin.video.youtube/playlist/PLD51A2E834088E73C", 
+            "thumbnail": "https://i.ytimg.com/vi/RJLkcPhVi9w/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                        
+        {
+            "type": "plugin", 
+            "title": "Yazoo", 
+            "link": "plugin.video.youtube/playlist/PLVBuRWqqbYI8_mpl82hufifkh9SnwXqfg", 
+            "thumbnail": "https://i.ytimg.com/vi/dt9gn7R683k/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                      
+        {
+            "type": "plugin", 
+            "title": "Yeah Yeah Yeahs", 
+            "link": "plugin.video.youtube/playlist/PLE66AF3F302FAE4B0", 
+            "thumbnail": "https://i.ytimg.com/vi/oIIxlgcuQRU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
         {
             "type": "plugin", 
             "title": "Yes", 
             "link": "plugin.video.youtube/playlist/PLaH6m1ajIWp6_Oabv1Q_5u4x9cCWuYNsX", 
             "thumbnail": "https://i.ytimg.com/vi/W10qiXqlvo8/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                               
+        },                                      
+        {
+            "type": "plugin", 
+            "title": "Yo-Yo Ma", 
+            "link": "plugin.video.youtube/playlist/PLa2Nqyzs2sklUoKqXWqGqd74yibTDzMsu", 
+            "thumbnail": "https://i.ytimg.com/vi/1prweT95Mo0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                            
         {
             "type": "plugin", 
             "title": "Yardbirds", 
