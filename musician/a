@@ -1,5 +1,40 @@
 {
-    "items": [                                                        
+    "items": [                                                                   
+        {
+            "type": "plugin", 
+            "title": "Arcade Fire", 
+            "link": "plugin.video.youtube/playlist/PLD70B4CB17A111376", 
+            "thumbnail": "https://i.ytimg.com/vi/3vMjM7FKjIg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                               
+        {
+            "type": "plugin", 
+            "title": "Alice Cooper", 
+            "link": "plugin.video.youtube/playlist/PLFozbwOsFtqv6E2Tus1iSte-EdQN1PRIU", 
+            "thumbnail": "https://i.ytimg.com/vi/mL1kQQbhmY8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                             
+        {
+            "type": "plugin", 
+            "title": "Aretha Franklin", 
+            "link": "plugin.video.youtube/playlist/PLnCLaQ-NIHdgHpDS2YmleOH81wJrPx1xI", 
+            "thumbnail": "https://i.ytimg.com/vi/eqiUnuyQCck/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                               
+        {
+            "type": "plugin", 
+            "title": "Arctic Monkeys", 
+            "link": "plugin.video.youtube/playlist/PLnCLaQ-NIHdgHpDS2YmleOH81wJrPx1xI", 
+            "thumbnail": "https://i.ytimg.com/vi/ePg1tbia9Bg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                     
+        {
+            "type": "plugin", 
+            "title": "Alanis Morissette", 
+            "link": "plugin.video.youtube/playlist/PLB4EF9BCDF01801CC", 
+            "thumbnail": "https://i.ytimg.com/vi/OJRc2toTKFE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                      
         {
             "type": "plugin", 
             "title": "Albert King", 
