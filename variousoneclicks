@@ -1,12 +1,5 @@
 {
-    "items": [            
-        {
-            "type": "plugin", 
-            "title": "** Smokin Old Skool **", 
-            "link": "plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR", 
-            "thumbnail": "https://i.ytimg.com/vi/z4dzRD6dFvA/hqdefault.jpg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },            
+    "items": [             
         {
             "type": "plugin", 
             "title": "Most Viewed Songs On Youtube", 
