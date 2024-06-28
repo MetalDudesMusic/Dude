@@ -1,5 +1,54 @@
 {
-    "items": [
+    "items": [                
+        {
+            "type": "plugin", 
+            "title": "Best Country Music to Listen in the Car", 
+            "link": "plugin.video.youtube/playlist/PLlBnr9YGj2Oo6cO6BkRJz8LH9aF7b9doG", 
+            "thumbnail": "https://i.ytimg.com/vi/4QIZE708gJ4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
+        {
+            "type": "plugin", 
+            "title": "Best Driving Music Playlist", 
+            "link": "plugin.video.youtube/playlist/PLPbMT4wSxX8957v3P_YoSHXn7-GeR0gCh", 
+            "thumbnail": "https://i.ytimg.com/vi/RgKAFK5djSk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Bikers songs", 
+            "link": "plugin.video.youtube/playlist/PLF5564724A38431B1", 
+            "thumbnail": "https://i.ytimg.com/vi/CgXukKP1ByU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "Roadtrip songs Everyone knows", 
+            "link": "plugin.video.youtube/playlist/PLNjVKDn-Jmf6VtU8oto01VwRQvDrhJFGf", 
+            "thumbnail": "https://i.ytimg.com/vi/gGdGFtwCNBE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                  
+        {
+            "type": "plugin", 
+            "title": "Car Bike Run", 
+            "link": "plugin.video.youtube/playlist/PLE4oUMdb2jwRaD5Z2yNFCIKu0fbzThqZj", 
+            "thumbnail": "https://i.ytimg.com/vi/KuRxXRuAz-I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Car Bumping Songs", 
+            "link": "plugin.video.youtube/playlist/PLdHotHIMFl1cHOkiDdxWUmX9Gjyl93_z-", 
+            "thumbnail": "https://i.ytimg.com/vi/2a8PgqWrc_4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Rock Road Trip Playlist", 
+            "link": "plugin.video.youtube/playlist/PL_HoiGNUauFlmWX1Pxfz1i5UoVJjWzA8k", 
+            "thumbnail": "https://i.ytimg.com/vi/1w7OgIMMRc4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
         {
             "fanart": "https://i.ytimg.com/vi/glgtqiWB1lU/maxresdefault.jpg", 
             "link": "https://www.youtube.com/watch?v=Cu54bcvF4-M", 
