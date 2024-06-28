@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "fanart": "https://i.ytimg.com/vi/glgtqiWB1lU/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=Cu54bcvF4-M", 
+            "thumbnail": "https://i.ytimg.com/vi/glgtqiWB1lU/maxresdefault.jpg", 
+            "title": "Classic Rock Road Trip Playlist", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://hips.hearstapps.com/hmg-prod/images/friends-in-a-car-1555269228.jpg", 
+            "link": "https://www.youtube.com/watch?v=hL1I8q9sfyE", 
+            "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/friends-in-a-car-1555269228.jpg", 
+            "title": "On The Road - Music for Driving/Riding - Rock and Blues", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/gAZODVpXeNw/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=gAZODVpXeNw", 
+            "thumbnail": "https://i.ytimg.com/vi/gAZODVpXeNw/maxresdefault.jpg", 
+            "title": "Motor Rock Songs Playlist", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/sGVvbdLa_4s/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=sGVvbdLa_4s", 
+            "thumbnail": "https://i.ytimg.com/vi/sGVvbdLa_4s/maxresdefault.jpg", 
+            "title": "80s Car and Bike Rock Playlist", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/1ev1wIgd0HE/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=1ev1wIgd0HE&t=266s", 
+            "thumbnail": "https://i.ytimg.com/vi/1ev1wIgd0HE/maxresdefault.jpg", 
+            "title": "70s Car and Bike Rock Playlist", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/cAMdUlYC1Lw/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=cAMdUlYC1Lw", 
+            "thumbnail": "https://i.ytimg.com/vi/cAMdUlYC1Lw/maxresdefault.jpg", 
+            "title": "60s Car and Bike Rock Playlist", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/LRk7kr3sZKA/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=LRk7kr3sZKA", 
+            "thumbnail": "https://i.ytimg.com/vi/LRk7kr3sZKA/maxresdefault.jpg", 
+            "title": "50s Car and Bike Rock N Roll Playlist", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://alternativeecho.com/wp-content/uploads/2021/07/road-trip-437413_1920-e1627096322383.jpg", 
+            "link": "https://www.youtube.com/watch?v=GLlo3QJLd0s", 
+            "thumbnail": "https://alternativeecho.com/wp-content/uploads/2021/07/road-trip-437413_1920-e1627096322383.jpg", 
+            "title": "ZeDesXia Personal Driving Playlist", 
+            "type": "item"
+        }
+    ]
+}
