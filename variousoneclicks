@@ -1,5 +1,12 @@
 {
-    "items": [             
+    "items": [                                                     
+        {
+            "type": "dir", 
+            "title": "Driving Songs Playlists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Drivingsongs.json", 
+            "thumbnail": "https://images.8tracks.com/cover/i/010/334/729/drivingmusic-972.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
         {
             "type": "plugin", 
             "title": "Most Viewed Songs On Youtube", 
