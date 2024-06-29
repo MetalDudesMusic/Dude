@@ -6,7 +6,28 @@
             "link": "plugin.video.youtube/playlist/PLMmqTuUsDkRIZ1C1T2AsVz5XIxtVDfSOe", 
             "thumbnail": "https://i.ytimg.com/vi/S2TaAcwC_zI/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },          
+        },                 
+        {
+            "type": "plugin", 
+            "title": "Jungle Beats Holla at Me", 
+            "link": "plugin.video.youtube/playlist/PLoWgIclOCnQOLPmTZqZySYIEV6V3-A8mP", 
+            "thumbnail": "https://i.ytimg.com/vi/MPFKsSFnu40/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                    
+        {
+            "type": "plugin", 
+            "title": "DnB/Jungle", 
+            "link": "plugin.video.youtube/playlist/PL3nXHrrT2s77OSJcdWqDSFVXNf7T9ZA78", 
+            "thumbnail": "https://i.ytimg.com/vi/mL2Bgj-za5k/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },   
+        {
+            "type": "plugin", 
+            "title": "Jungle/Breakbeat 1992-1996", 
+            "link": "plugin.video.youtube/playlist/PLWlDzqAqb2cmEHvaHbcjnd_2a-TiccKgT", 
+            "thumbnail": "https://i.ytimg.com/vi/acDmx0dj79g/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
         {
             "type": "plugin", 
             "title": "Jungle Techno", 
