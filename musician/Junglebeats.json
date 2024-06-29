@@ -1,5 +1,33 @@
 {
-    "items": [
+    "items": [         
+        {
+            "type": "plugin", 
+            "title": "Drum & Bass Hits Playlist - Top 100 DnB Songs of 2024", 
+            "link": "plugin.video.youtube/playlist/PLMmqTuUsDkRIZ1C1T2AsVz5XIxtVDfSOe", 
+            "thumbnail": "https://i.ytimg.com/vi/S2TaAcwC_zI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "Jungle Techno", 
+            "link": "plugin.video.youtube/playlist/PL_2uI8LjsG4W7IPWSyZRsOP81YPKp1acI", 
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-9EFrdFyeOouODn9bZn9Wgv9AvSL0c4kxQ&s", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Fast Jungle Music", 
+            "link": "plugin.video.youtube/playlist/PLgDnAjlGZItaO1qrSkOpw7HGF4HGaGoLC", 
+            "thumbnail": "https://i.ytimg.com/vi/OMpxjoc6ZQk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Deep & Atmospheric 90s Jungle/DnB", 
+            "link": "plugin.video.youtube/playlist/PLhUZK4ON2ODT9opTTwVwwJloTb5Z8UeSS", 
+            "thumbnail": "https://i.ytimg.com/vi/4ujoJQyhdIQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
         {
             "fanart": "https://i.ytimg.com/vi/VHXvfSmyjj4/maxresdefault.jpg", 
             "link": "https://www.youtube.com/watch?v=VHXvfSmyjj4", 
@@ -15,10 +43,52 @@
             "type": "item"
         },
         {
-            "fanart": "", 
-            "link": "", 
-            "thumbnail": "", 
-            "title": "", 
+            "fanart": "https://i.ytimg.com/vi/5wgk7ad6J-Q/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=5wgk7ad6J-Q", 
+            "thumbnail": "https://i.ytimg.com/vi/5wgk7ad6J-Q/maxresdefault.jpg", 
+            "title": "Dark Drum & Bass and Classic Jungle Mix Honey Bun", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/LaFGRylJIlo/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=LaFGRylJIlo", 
+            "thumbnail": "https://i.ytimg.com/vi/LaFGRylJIlo/maxresdefault.jpg", 
+            "title": "Oldschool Atmospheric Jungle DnB Sesh '94-99 era mixed by MysteryY2K", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/YwJ0N6TTfb8/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=YwJ0N6TTfb8", 
+            "thumbnail": "https://i.ytimg.com/vi/YwJ0N6TTfb8/maxresdefault.jpg", 
+            "title": "Jungle DnB Galaxy", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/z70z6BS4CfE/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=8_txUjrTjMg", 
+            "thumbnail": "https://i.ytimg.com/vi/z70z6BS4CfE/maxresdefault.jpg", 
+            "title": "90s Atmospheric Jungle & DnB", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/ugiugMgIiZw/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=ugiugMgIiZw", 
+            "thumbnail": "https://i.ytimg.com/vi/ugiugMgIiZw/maxresdefault.jpg", 
+            "title": "Jungle Fatigue Vol 3", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/ZLUl3vkI5ZI/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=ZLUl3vkI5ZI", 
+            "thumbnail": "https://i.ytimg.com/vi/ZLUl3vkI5ZI/maxresdefault.jpg", 
+            "title": "Jungle Fatigue Vol 2", 
+            "type": "item"
+        },
+        {
+            "fanart": "https://i.ytimg.com/vi/FoN5Yxfu5W8/maxresdefault.jpg", 
+            "link": "https://www.youtube.com/watch?v=2RXCJZPGPU4", 
+            "thumbnail": "https://i.ytimg.com/vi/FoN5Yxfu5W8/maxresdefault.jpg", 
+            "title": "Jungle Fatigue Vol 1", 
             "type": "item"
         }
     ]
