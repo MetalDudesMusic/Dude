@@ -1,5 +1,12 @@
 {
-    "items": [                                                     
+    "items": [                                                        
+        {
+            "type": "dir", 
+            "title": "Jungle Beats Songs Playlists", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Junglebeats.json", 
+            "thumbnail": "https://i.pinimg.com/736x/b3/16/d2/b316d270583f23477887329b45035040.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                  
         {
             "type": "dir", 
             "title": "Driving Songs Playlists", 
