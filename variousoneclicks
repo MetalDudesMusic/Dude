@@ -1,5 +1,19 @@
 {
-    "items": [                                                        
+    "items": [           
+        {
+            "type": "plugin", 
+            "title": "90s Hip Hop Videos", 
+            "link": "plugin.video.youtube/playlist/PLYC_eh_Ae3Dw0iZucKzKjLv9Zys4FbdHI", 
+            "thumbnail": "https://i.ytimg.com/vi/PBwAxmrE194/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                       
+        {
+            "type": "item", 
+            "title": "90s Hip Hop VIDEO Mix Best of Old School Rap Songs ThrowbacK MIX", 
+            "link": "https://www.youtube.com/watch?v=41yo8QyYH98", 
+            "thumbnail": "https://cdn.media.amplience.net/i/naras/HH50_SoCal_Hero_1644x925.webp", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                       
         {
             "type": "dir", 
             "title": "Jungle Beats Songs Playlists", 
