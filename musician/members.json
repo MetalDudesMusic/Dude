@@ -1,12 +1,5 @@
 {
-    "items": [                                                           
-        {
-            "type": "dir", 
-            "title": "Redlist", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Redlist.json", 
-            "thumbnail": "https://images.saasworthy.com/redlist_32899_logo_1643255531_0bzd4.jpg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },             
+    "items": [             
         {
             "type": "plugin", 
             "title": "Dudelove00", 
@@ -19,6 +12,13 @@
             "title": "Smokin Builds", 
             "link": "plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR", 
             "thumbnail": "https://i.ytimg.com/vi/z4dzRD6dFvA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                          
+        {
+            "type": "dir", 
+            "title": "Redlist", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Redlist.json", 
+            "thumbnail": "https://images.saasworthy.com/redlist_32899_logo_1643255531_0bzd4.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
