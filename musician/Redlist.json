@@ -92,6 +92,13 @@
             "type": "plugin"
 	},
         {
+            "fanart": "https://i.ytimg.com/vi/1Cw1ng75KP0/hqdefault.jpg",
+            "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvSgSSI1cP08D6_jYL-auHGS",  
+            "thumbnail": "https://i.ytimg.com/vi/1Cw1ng75KP0/hqdefault.jpg", 
+            "title": "Female Rock Songs: Women of Rock", 
+            "type": "plugin"
+	},
+        {
             "fanart": "https://i.ytimg.com/vi/PEGccV-NOm8/hqdefault.jpg",
             "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvTYQHJabeOMpHgZL8YA5sVp",  
             "thumbnail": "https://i.ytimg.com/vi/PEGccV-NOm8/hqdefault.jpg", 
@@ -110,6 +117,55 @@
             "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvTjXV9C6yPzhfQ6hPAGqjH-",  
             "thumbnail": "https://i.ytimg.com/vi/OPf0YbXqDm0/hqdefault.jpg", 
             "title": "Best Party Songs of All Time", 
+            "type": "plugin"
+	},
+        {
+            "fanart": "https://i.ytimg.com/vi/eVli-tstM5E/hqdefault.jpg",
+            "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvSb1klSN9IRXY5qSb9pepDD",  
+            "thumbnail": "https://i.ytimg.com/vi/eVli-tstM5E/hqdefault.jpg", 
+            "title": "Good Vibes Music 2024", 
+            "type": "plugin"
+	},
+        {
+            "fanart": "https://i.ytimg.com/vi/eKzmRnetw-c/hqdefault.jpg",
+            "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvSb1klSN9IRXY5qSb9pepDD",  
+            "thumbnail": "https://i.ytimg.com/vi/eKzmRnetw-c/hqdefault.jpg", 
+            "title": "Mashup Songs Playlist 2024", 
+            "type": "plugin"
+	},
+        {
+            "fanart": "https://i.ytimg.com/vi/SQCSxqScSVQ/hqdefault.jpg",
+            "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvSb1klSN9IRXY5qSb9pepDD",  
+            "thumbnail": "https://i.ytimg.com/vi/SQCSxqScSVQ/hqdefault.jpg", 
+            "title": "Chill Hip-Hop & Rap Songs", 
+            "type": "plugin"
+	},
+        {
+            "fanart": "https://i.ytimg.com/vi/pXRviuL6vMY/hqdefault.jpg",
+            "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvRn7avJCy4BaBXQ60Torr42",  
+            "thumbnail": "https://i.ytimg.com/vi/pXRviuL6vMY/hqdefault.jpg", 
+            "title": "Alternative Rap & Hip-Hop Songs", 
+            "type": "plugin"
+	},
+        {
+            "fanart": "https://i.ytimg.com/vi/T4lxzLd_dIY/hqdefault.jpg",
+            "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvSb1klSN9IRXY5qSb9pepDD",  
+            "thumbnail": "https://i.ytimg.com/vi/T4lxzLd_dIY/hqdefault.jpg", 
+            "title": "Alternative British RAP Songs", 
+            "type": "plugin"
+	},
+        {
+            "fanart": "https://i.ytimg.com/vi/4QIZE708gJ4/hqdefault.jpg",
+            "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvRTK8VUxnQ0pJCyootlUdoZ",  
+            "thumbnail": "https://i.ytimg.com/vi/4QIZE708gJ4/hqdefault.jpg", 
+            "title": "Best Country Mix 2024", 
+            "type": "plugin"
+	},
+        {
+            "fanart": "https://i.ytimg.com/vi/kwJTpJjLJi4/hqdefault.jpg",
+            "link": "plugin.video.youtube/playlist/PL3oW2tjiIxvSb1klSN9IRXY5qSb9pepDD",  
+            "thumbnail": "https://i.ytimg.com/vi/kwJTpJjLJi4/hqdefault.jpg", 
+            "title": "Top Metal 2024", 
             "type": "plugin"
 	}
     ]
