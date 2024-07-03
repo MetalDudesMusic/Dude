@@ -1,5 +1,12 @@
 {
-    "items": [              
+    "items": [                                                           
+        {
+            "type": "dir", 
+            "title": "Redlist", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Redlist.json", 
+            "thumbnail": "https://images.saasworthy.com/redlist_32899_logo_1643255531_0bzd4.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
         {
             "type": "plugin", 
             "title": "Dudelove00", 
