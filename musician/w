@@ -1,5 +1,61 @@
 {
-    "items": [                                                                   
+    "items": [                                                                               
+        {
+            "type": "plugin", 
+            "title": "Wilson Pickett", 
+            "link": "plugin.video.youtube/playlist/PLV94ysHFqE5UYgO9p_oQCFN-CtMfnh8Kv", 
+            "thumbnail": "https://i.ytimg.com/vi/09unkUlX9DA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                              
+        {
+            "type": "plugin", 
+            "title": "Willie Nelson", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFsOcbrBAycHRVzAurF9iKfR", 
+            "thumbnail": "https://i.ytimg.com/vi/JYUMZ-r5GN0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                            
+        {
+            "type": "plugin", 
+            "title": "Will.I.Am", 
+            "link": "plugin.video.youtube/playlist/PLrJAm4P7jiT3riYuwj8Z2HHdC4swJn0Zg", 
+            "thumbnail": "https://i.ytimg.com/vi/kYtGl1dX5qI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                       
+        {
+            "type": "plugin", 
+            "title": "Weezer", 
+            "link": "plugin.video.youtube/playlist/PLcxSGN3jVmzHoO4d7v-_R2fCjuT1LwSHm", 
+            "thumbnail": "https://i.ytimg.com/vi/LHQqqM5sr7g/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                       
+        {
+            "type": "plugin", 
+            "title": "Wes Montgomery", 
+            "link": "plugin.video.youtube/playlist/PL9BAAAAA014807DFE", 
+            "thumbnail": "https://i.ytimg.com/vi/Ji1EVosAMsA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                  
+        {
+            "type": "plugin", 
+            "title": "Weeknd", 
+            "link": "plugin.video.youtube/playlist/PLK2zhq9oy0K6rjySCH1nARTssbv8m2Kfm", 
+            "thumbnail": "https://i.ytimg.com/vi/VafTMsrnSTU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                    
+        {
+            "type": "plugin", 
+            "title": "Wet Wet Wet", 
+            "link": "plugin.video.youtube/playlist/PLEF0754604C2B1B64", 
+            "thumbnail": "https://i.ytimg.com/vi/2SZIMrJqogE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                  
+        {
+            "type": "plugin", 
+            "title": "Walker Brothers", 
+            "link": "plugin.video.youtube/playlist/PLaQY2PWqH8sGRXjoUBnh169ZoA3xcQeXD", 
+            "thumbnail": "https://i.ytimg.com/vi/El8fHMBXRy8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                  
         {
             "type": "plugin", 
             "title": "Whitesnake", 
