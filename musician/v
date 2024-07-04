@@ -1,5 +1,12 @@
 {
-    "items": [           
+    "items": [            
+        {
+            "type": "plugin", 
+            "title": "Verve", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFurXQaBzD97uFWtB80N-hxm", 
+            "thumbnail": "https://i.ytimg.com/vi/1lyu1KKwC74/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
         {
             "type": "plugin", 
             "title": "Van Morrison", 
