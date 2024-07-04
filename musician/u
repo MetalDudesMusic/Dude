@@ -1,5 +1,26 @@
 {
-    "items": [                 
+    "items": [                    
+        {
+            "type": "plugin", 
+            "title": "Underworld", 
+            "link": "plugin.video.youtube/playlist/PL4ViV8TKYwm23SpmgKforKBsjDqrelM9V", 
+            "thumbnail": "https://i.ytimg.com/vi/iullHn3Smzc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                  
+        {
+            "type": "plugin", 
+            "title": "Ultravox", 
+            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9NeuCVJ_sRtTwGaN9MVtoFM7", 
+            "thumbnail": "https://i.ytimg.com/vi/NevzImTG_U0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                 
+        {
+            "type": "plugin", 
+            "title": "UB40", 
+            "link": "plugin.video.youtube/playlist/PLUhqFX6g_9Nfhu5XLMsXiinb4LHoAI5SG", 
+            "thumbnail": "https://i.ytimg.com/vi/hgwr6eyLDlI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                
         {
             "type": "plugin", 
             "title": "Upsahl", 
