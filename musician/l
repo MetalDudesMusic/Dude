@@ -1,102 +1,144 @@
 {
-    "items": [                                                           
+    "items": [                                                                  
+        {
+            "type": "plugin", 
+            "title": "Luke Bryan", 
+            "link": "plugin.video.youtube/playlist/PLc9piogV9U4atS6Msgs7qcPFs5xsjF46v", 
+            "thumbnail": "https://i.ytimg.com/vi/G2BWyY4B36Y/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                 
+        {
+            "type": "plugin", 
+            "title": "Ludacris", 
+            "link": "plugin.video.youtube/playlist/PL44385AA6590F9B3B", 
+            "thumbnail": "https://i.ytimg.com/vi/NZL93gODc1s/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                              
+        {
+            "type": "plugin", 
+            "title": "Lightning Hopkins", 
+            "link": "plugin.video.youtube/playlist/PLuiGKBpdusgeSuojxx3dKsGLttxbzG7-l", 
+            "thumbnail": "https://i.ytimg.com/vi/BATlJwKB8ts/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                             
+        {
+            "type": "plugin", 
+            "title": "Lenny Kravitz", 
+            "link": "plugin.video.youtube/playlist/PL4955DFBC1683DED7", 
+            "thumbnail": "https://i.ytimg.com/vi/JqNZxEMaRrY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                             
+        {
+            "type": "plugin", 
+            "title": "Lady GaGa", 
+            "link": "plugin.video.youtube/playlist/PLq3UZa7STrbqmpCnG9_9q-3A3OQozKjfl", 
+            "thumbnail": "https://i.ytimg.com/vi/en2D_5TzXCA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                          
+        {
+            "type": "plugin", 
+            "title": "LL Cool J", 
+            "link": "plugin.video.youtube/playlist/PL8594883DCEFA8B7B", 
+            "thumbnail": "https://i.ytimg.com/vi/udEN8EdJT9k/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                          
         {
             "type": "plugin", 
             "title": "Louis Armstrong", 
             "link": "plugin.video.youtube/playlist/PL6DC9F41EBC5695D1", 
             "thumbnail": "https://i.ytimg.com/vi/kmfeKUNDDYs/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                             
         {
             "type": "plugin", 
             "title": "Leon Russell", 
             "link": "plugin.video.youtube/playlist/PLAEAE68E14ED80933", 
             "thumbnail": "https://i.ytimg.com/vi/o93jTKhil9Y/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                       
         {
             "type": "plugin", 
             "title": "Lil Wayne", 
             "link": "plugin.video.youtube/playlist/PLoj0KbD8u6N7FU6IBVoJpgTQ8pDPZz2Ms", 
             "thumbnail": "https://i.ytimg.com/vi/wObTive0mBM/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                        
         {
             "type": "plugin", 
             "title": "Layto x Neoni", 
             "link": "plugin.video.youtube/playlist/PLG0Ha8dEKp1C9VhcqiVqWOOWb2-dlg_9t", 
             "thumbnail": "https://i.ytimg.com/vi/d79nXbLUUh4/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                          
         {
             "type": "plugin", 
             "title": "Lost Frequencies", 
             "link": "plugin.video.youtube/playlist/PL03Y59vR96rLGhD4Q3w_DKA9hGQRCTXQy", 
             "thumbnail": "https://i.ytimg.com/vi/ORoAb5NPi8I/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                          
         {
             "type": "plugin", 
             "title": "Little Big Town", 
             "link": "plugin.video.youtube/playlist/PLF2BA900DCFE9A5C7", 
             "thumbnail": "https://i.ytimg.com/vi/DWMVE38mWbo/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                    
         {
             "type": "plugin", 
             "title": "Lovelytheband", 
             "link": "plugin.video.youtube/playlist/PLawMnLhQ0BR_2Zof9eQn_O4eNPch4htYR", 
             "thumbnail": "https://i.ytimg.com/vi/BvhD0gh9NcE/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                               
         {
             "type": "plugin", 
             "title": "Live", 
             "link": "plugin.video.youtube/playlist/Lh9igKIxJKf7zOeJpo1UeV8ja0DnngOj3", 
             "thumbnail": "https://i.ytimg.com/vi/xsJ4O-nSveg/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                              
         {
             "type": "plugin", 
             "title": "Limp Bizkit", 
             "link": "plugin.video.youtube/playlist/PL119816F23E12BCCB", 
             "thumbnail": "https://i.ytimg.com/vi/ZpUYjpKg9KY/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                       
         {
             "type": "plugin", 
             "title": "Lionel Richie", 
             "link": "plugin.video.youtube/playlist/PLUhqFX6g_9Ne7pvZaLtc_ApAY8sQZ66mP", 
             "thumbnail": "https://i.ytimg.com/vi/nqAvFx3NxUM/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },          
         {
             "type": "plugin", 
             "title": "Linkin Park", 
             "link": "plugin.video.youtube/playlist/PL6E93C5292B5486F6", 
             "thumbnail": "https://i.ytimg.com/vi/4qlCC1GOwFw/hqdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },        
         {
             "type": "plugin", 
             "title": "Led Zeppelin", 
             "link": "plugin.video.youtube/playlist/PLp3o6lwxnqMkm9dUECwqVBQY0IN6n1wH_", 
             "thumbnail": "https://cdn.britannica.com/47/243647-050-7C88FBF5/Led-Zeppelin-1968-studio-portrait-John-Bohham-Jimmy-Page-Robert-Plant-John-Paul-Jones.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },       
         {
             "type": "plugin", 
             "title": "LITTLE RICHARD HITS", 
             "link": "plugin.video.youtube/playlist/PLcSYf7ip_VP9qO0Q79yUb74YOvjxcADO2", 
             "thumbnail": "https://media.newyorker.com/photos/5eb7192a0fe2fbfb61a29041/master/w_2560%2Cc_limit/Remnick-LittleRichard.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },        
         {
             "type": "plugin", 
             "title": "LYNYRD SKYNYRD", 
             "link": "plugin.video.youtube/playlist/PLw6p6PA8M2mheaTjACDfNa5xmXO_EO9TB", 
             "thumbnail": "https://cdn.britannica.com/43/23143-050-B4C4503F/Lynyrd-Skynyrd-concert-October-1976.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
