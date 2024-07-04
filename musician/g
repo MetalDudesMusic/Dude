@@ -2,6 +2,20 @@
     "items": [                                  
         {
             "type": "plugin", 
+            "title": "Grand Funk Railroad", 
+            "link": "plugin.video.youtube/playlist/PL7A961E9ADE2F2551", 
+            "thumbnail": "https://i.ytimg.com/vi/https://i.ytimg.com/vi/sSQOeQakExU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                   
+        {
+            "type": "plugin", 
+            "title": "Gwen Stefani", 
+            "link": "plugin.video.youtube/playlist/PLEH_MKt4utKnDkhUh3KkfqzOZ6IOlqCBR", 
+            "thumbnail": "https://i.ytimg.com/vi/DccmKKnizFY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                  
+        {
+            "type": "plugin", 
             "title": "Green Day", 
             "link": "plugin.video.youtube/playlist/PLxHk9r8Q6fBBDFhy_IeiMQ8JCL1VQuU8g", 
             "thumbnail": "https://i.ytimg.com/vi/fr2T-Rcgq1c/hqdefault.jpg", 
