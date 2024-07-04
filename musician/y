@@ -1,5 +1,12 @@
 {
-    "items": [                                            
+    "items": [                                             
+        {
+            "type": "plugin", 
+            "title": "Yello", 
+            "link": "plugin.video.youtube/playlist/PLyfT3BtQGBoEOlYNQV4Db23ez-GbEAHqU", 
+            "thumbnail": "https://i.ytimg.com/vi/50pl9u6tyTc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
         {
             "type": "plugin", 
             "title": "Young MC", 
