@@ -8,13 +8,6 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                       
         {
-            "type": "item", 
-            "title": "90s Hip Hop VIDEO Mix Best of Old School Rap Songs ThrowbacK MIX", 
-            "link": "https://www.youtube.com/watch?v=41yo8QyYH98", 
-            "thumbnail": "https://cdn.media.amplience.net/i/naras/HH50_SoCal_Hero_1644x925.webp", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                       
-        {
             "type": "dir", 
             "title": "Jungle Beats Songs Playlists", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Junglebeats.json", 
@@ -153,7 +146,14 @@
             "link": "plugin.video.youtube/playlist/PL1J-z1HLAFOa0OlBP9anqUNwupyQWcGRa", 
             "thumbnail": "https://i.ytimg.com/vi/QZXc39hT8t4/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                                                                                                                                 
+        },                                                        
+        {
+            "type": "item", 
+            "title": "90s Hip Hop VIDEO Mix Best of Old School Rap Songs ThrowbacK MIX", 
+            "link": "https://www.youtube.com/watch?v=41yo8QyYH98", 
+            "thumbnail": "https://cdn.media.amplience.net/i/naras/HH50_SoCal_Hero_1644x925.webp", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                                
         {
             "type": "item", 
             "title": "Dark Country Playlist", 
