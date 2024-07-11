@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "Random Hits 90s and 2000s", 
+            "link": "plugin.video.youtube/playlist/PLcLtbK8Nf64InyudI1rnYwwRbCr08yup_", 
+            "thumbnail": "https://i.ytimg.com/vi/MrTz5xjmso4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
             "title": "Oldies But Goodies Non Stop Medley Playlist YT", 
             "link": "https://www.youtube.com/watch?v=GMJe5p_vIPY", 
             "thumbnail": "https://i.ytimg.com/vi/GMJe5p_vIPY/sddefault.jpg", 
