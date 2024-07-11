@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "80s Rock Hits Music", 
+            "link": "plugin.video.youtube/playlist/PLGBuKfnErZlDbjq8T1TA4mHjIaLf77iBO", 
+            "thumbnail": "https://i.ytimg.com/vi/lDK9QqIzhwk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "80s Heavy Metal", 
             "link": "plugin.video.youtube/playlist/PL5fRL6A4m-DFddDPJU5Ugr3NRhxrm5GtR", 
             "thumbnail": "https://i.ytimg.com/vi/9wPHxQMgdKs/hqdefault.jpg", 
