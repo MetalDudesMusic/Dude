@@ -1,5 +1,33 @@
 {
-    "items": [           
+    "items": [                   
+        {
+            "type": "plugin", 
+            "title": "proud mama", 
+            "link": "plugin.video.youtube/playlist/PLjHLG0AumQn9jG-PN_ib2AK7hZWO4oLko", 
+            "thumbnail": "https://i.ytimg.com/vi/zdFoi-YEIFU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "plugin", 
+            "title": "The Biggest Music Playlist 3300 songs", 
+            "link": "plugin.video.youtube/playlist/PLXFwTY00FRUUZzL_Vjhy-bE8WIao3eyOi", 
+            "thumbnail": "https://i.ytimg.com/vi/zdFoi-YEIFU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Best Happy and Upbeat Songs Spotify playlist 2024", 
+            "link": "plugin.video.youtube/playlist/PLgzTt0k8mXzF2fleyxQ17JxeccHFC8Gxp", 
+            "thumbnail": "https://i.ytimg.com/vi/5AgDZcM8In8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "The Top 100 Best Party Songs of All Time", 
+            "link": "plugin.video.youtube/playlist/PL10BZg10BCDQxKXg0qN_-Y6RwvfdDvJdy", 
+            "thumbnail": "https://i.ytimg.com/vi/IKqV7DB8Iwg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
         {
             "type": "plugin", 
             "title": "90s Hip Hop Videos", 
