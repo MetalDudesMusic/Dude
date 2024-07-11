@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "plugin", 
+            "title": "80s Heavy Metal", 
+            "link": "plugin.video.youtube/playlist/PL5fRL6A4m-DFddDPJU5Ugr3NRhxrm5GtR", 
+            "thumbnail": "https://i.ytimg.com/vi/9wPHxQMgdKs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "Happy 80s Songs", 
             "link": "plugin.video.youtube/playlist/PLAQ7nLSEnhWRxZ_BN6B85RF9rh4uFwsp8", 
             "thumbnail": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg", 
