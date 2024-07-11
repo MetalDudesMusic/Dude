@@ -1,11 +1,25 @@
 {
-    "items": [                   
+    "items": [                        
         {
             "type": "plugin", 
-            "title": "proud mama", 
-            "link": "plugin.video.youtube/playlist/PLjHLG0AumQn9jG-PN_ib2AK7hZWO4oLko", 
-            "thumbnail": "https://i.ytimg.com/vi/zdFoi-YEIFU/hqdefault.jpg", 
+            "title": "100 Best Metal Songs of all time", 
+            "link": "plugin.video.youtube/playlist/PLhQCJTkrHOwSX8LUnIMgaTq3chP1tiTut", 
+            "thumbnail": "https://i.ytimg.com/vi/9d4ui9q7eDM/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                   
+        {
+            "type": "plugin", 
+            "title": "Most Viewed Songs", 
+            "link": "plugin.video.youtube/playlist/PL15B1E77BB5708555", 
+            "thumbnail": "https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                  
+        {
+            "type": "plugin", 
+            "title": "Proud Mama", 
+            "link": "plugin.video.youtube/playlist/PLjHLG0AumQn9jG-PN_ib2AK7hZWO4oLko", 
+            "thumbnail": "https://i.ytimg.com/vi/lEbB3UGav58/maxresdefault.jpg", 
+            "fanart": "https://github.com/DudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },      
         {
             "type": "plugin", 
@@ -51,7 +65,7 @@
         },          
         {
             "type": "plugin", 
-            "title": "Most Viewed Songs On Youtube", 
+            "title": "Smokin old skool", 
             "link": "plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR", 
             "thumbnail": "https://i.ytimg.com/vi/z4dzRD6dFvA/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
