@@ -1,5 +1,12 @@
 {
-    "items": [                        
+    "items": [                           
+        {
+            "type": "plugin", 
+            "title": "Play Rock", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs74P4BmmylAEN7yrrcmjh-H", 
+            "thumbnail": "https://i.ytimg.com/vi/VOWnhMxJMMk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                     
         {
             "type": "plugin", 
             "title": "100 Best Metal Songs of all time", 
