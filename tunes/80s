@@ -1,6 +1,13 @@
 {
     "items": [
         {
+            "type": "plugin", 
+            "title": "Happy 80s Songs", 
+            "link": "plugin.video.youtube/playlist/PLAQ7nLSEnhWRxZ_BN6B85RF9rh4uFwsp8", 
+            "thumbnail": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
             "type": "item", 
             "title": "1980s nostalgia mix", 
             "link": "https://www.youtube.com/watch?v=LPxCkU2bkV4", 
