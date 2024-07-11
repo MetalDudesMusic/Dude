@@ -1,5 +1,19 @@
 {
-    "items": [                           
+    "items": [                              
+        {
+            "type": "plugin", 
+            "title": "BILLION VIEWS CLUB", 
+            "link": "plugin.video.youtube/playlist/PL7VuK4dN6eJ3tR7zKE_LWCzXFlAMppXHI", 
+            "thumbnail": "https://i.ytimg.com/vi/kJQP7kiw5Fk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                             
+        {
+            "type": "plugin", 
+            "title": "Best Electronic Songs of All Time", 
+            "link": "plugin.video.youtube/playlist/PLHwn8cKeb1J159BvF06q5rl-pUf9xF0Lv", 
+            "thumbnail": "https://i.ytimg.com/vi/PT2_F-1esPk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                       
         {
             "type": "plugin", 
             "title": "Play Rock", 
