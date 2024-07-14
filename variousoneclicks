@@ -209,7 +209,42 @@
             "link": "plugin.video.youtube/playlist/PL1J-z1HLAFOa0OlBP9anqUNwupyQWcGRa", 
             "thumbnail": "https://i.ytimg.com/vi/QZXc39hT8t4/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                        
+        },                                                                                                                                                                  
+        {
+            "type": "item", 
+            "title": "80s Mix Dance & Synth-Pop", 
+            "link": "https://www.youtube.com/watch?v=fvPNMZqyvR4", 
+            "thumbnail": "https://i.ytimg.com/vi/fvPNMZqyvR4/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                                     
+        {
+            "type": "item", 
+            "title": "NRJ ENERGY HITS 2024", 
+            "link": "https://www.youtube.com/watch?v=6XC53KvpUKo", 
+            "thumbnail": "https://i.ytimg.com/vi/6XC53KvpUKo/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                                  
+        {
+            "type": "item", 
+            "title": "Slow Rock Ballads 70s 80s 90s", 
+            "link": "https://www.youtube.com/watch?v=Ob2RGp2CnHE", 
+            "thumbnail": "https://townsquare.media/site/295/files/2012/04/1002.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                              
+        {
+            "type": "item", 
+            "title": "90S POP MIX", 
+            "link": "https://www.youtube.com/watch?v=QYDE08UmWU4", 
+            "thumbnail": "https://i.ytimg.com/vi/2Q3DB1jJu8w/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                                     
+        {
+            "type": "item", 
+            "title": "Slow Rock Ballads 70s 80s 90s", 
+            "link": "https://www.youtube.com/watch?v=Ob2RGp2CnHE", 
+            "thumbnail": "https://townsquare.media/site/295/files/2012/04/1002.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                    
         {
             "type": "item", 
             "title": "90s Hip Hop VIDEO Mix Best of Old School Rap Songs ThrowbacK MIX", 
