@@ -1,5 +1,19 @@
 {
-    "items": [                                                                                                                                                        
+    "items": [                                                                                                                                                           
+        {
+            "type": "item", 
+            "title": "Clubland Heaven 2024", 
+            "link": "https://www.youtube.com/watch?v=3ZCN4Ng7lUQ", 
+            "thumbnail": "https://i.ytimg.com/vi/3ZCN4Ng7lUQ/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                        
+        {
+            "type": "item", 
+            "title": "Clubland Heaven 2024", 
+            "link": "https://www.youtube.com/watch?v=3ZCN4Ng7lUQ", 
+            "thumbnail": "https://i.ytimg.com/vi/3ZCN4Ng7lUQ/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                                                                                       
         {
             "type": "item", 
             "title": "This Is Bounce UK - The Big Bounce Mash Up Mix", 
