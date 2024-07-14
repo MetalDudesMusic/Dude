@@ -1,5 +1,26 @@
 {
-    "items": [                                                                      
+    "items": [                                                                          
+        {
+            "type": "plugin", 
+            "title": "Chase Matthew", 
+            "link": "plugin.video.youtube/playlist/PLHa_lnyDvtFIDHPSdm8epWpQTupFPwS6e", 
+            "thumbnail": "https://i.ytimg.com/vi/5L1fRCLouTY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                        
+        {
+            "type": "plugin", 
+            "title": "Charlotte Cardin", 
+            "link": "plugin.video.youtube/playlist/PLAGEqetsi5-R_fBs2iyoRwb4KAruU8KKM", 
+            "thumbnail": "https://i.ytimg.com/vi/NiISrhCsTfA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                        
+        {
+            "type": "plugin", 
+            "title": "Chris Stapleton", 
+            "link": "plugin.video.youtube/playlist/PLjugUpCYbwhxHk8l5qWI6FLmpqSqlaZ57", 
+            "thumbnail": "https://i.ytimg.com/vi/VKSUwdprGzU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                    
         {
             "type": "plugin", 
             "title": "Cracker", 
