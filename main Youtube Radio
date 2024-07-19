@@ -2,73 +2,80 @@
     "items": [
         {
             "type": "item", 
+            "title": "One World Radio", 
+            "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-wksGjkDycyjt5BNe-LzoUSA-t500x500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "item", 
             "title": "Pop Music 2023 New Songs YT Live", 
             "link": "https://www.youtube.com/watch?v=HQtFR3mhzOY&list=PL6KcpeEiGPpxSF3yIJSsNSOZGb4hBXhrN", 
             "thumbnail": "https://i.ytimg.com/vi/HQtFR3mhzOY/maxresdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "2023 New Popular Songs YT Live", 
             "link": "https://www.youtube.com/watch?v=uNd5kvrGHjk&list=PL6KcpeEiGPpxSF3yIJSsNSOZGb4hBXhrN", 
             "thumbnail": "https://i.ytimg.com/vi/uNd5kvrGHjk/maxresdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Hits Radio 1 YT Live", 
             "link": "https://www.youtube.com/watch?v=pimq2OvTovY&list=PL6KcpeEiGPpxSF3yIJSsNSOZGb4hBXhrN", 
             "thumbnail": "https://i.ytimg.com/vi/pimq2OvTovY/maxresdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Dance Radio Hits 2023 YT Live", 
             "link": "https://www.youtube.com/watch?v=EPXXYlY4uE4&list=PL6KcpeEiGPpxSF3yIJSsNSOZGb4hBXhrN", 
             "thumbnail": "https://i.ytimg.com/vi/EPXXYlY4uE4/maxresdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "item", 
             "title": "Top Hits 2023 Hip Hop, Rap R&B Songs 2023 New YT Live", 
             "link": "https://www.youtube.com/watch?v=hQ9mwj7fhoM&list=PL6KcpeEiGPpxSF3yIJSsNSOZGb4hBXhrN", 
             "thumbnail": "https://i.ytimg.com/vi/hQ9mwj7fhoM/sddefault.jpg?v=633ac51b", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },,
         {
             "type": "item", 
             "title": "Summer Music Mix 2023 New Popular Hits YT Live", 
             "link": "https://www.youtube.com/watch?v=8M0AvPvPg0A", 
             "thumbnail": "https://i.ytimg.com/vi/8M0AvPvPg0A/maxresdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },,
         {
             "type": "item", 
             "title": "Soft Rock Greatest Hits 80s 90s YT Live", 
             "link": "https://www.youtube.com/watch?v=3eLKzvJPk7s", 
             "thumbnail": "https://i.ytimg.com/vi/3eLKzvJPk7s/sddefault.jpg?v=6505c4ae", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },,
         {
             "type": "item", 
             "title": "Classic Rock 80s and 90s Hits YT Live", 
             "link": "https://www.youtube.com/watch?v=ACrKjJr4LAM", 
             "thumbnail": "https://i.ytimg.com/vi/ACrKjJr4LAM/maxresdefault.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },,
         {
             "type": "item", 
             "title": "Best Classic Rock Songs Of All Time YT Live", 
             "link": "https://www.youtube.com/watch?v=7tHeeye4ZoQ", 
             "thumbnail": "https://i.pinimg.com/736x/ce/d8/76/ced876cc8ebe4339d9ddfd927a741ab2.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },,
         {
             "type": "item", 
             "title": "Classic Rock Songs 70s 80s 90s YT Live", 
             "link": "https://www.youtube.com/watch?v=dF9JXK34m3M", 
             "thumbnail": "https://m.media-amazon.com/images/I/41uHDlWd93L._UXNaN_FMjpg_QL85_.jpg", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
