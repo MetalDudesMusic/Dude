@@ -1,5 +1,12 @@
 {
-    "items": [                                                               
+    "items": [                                                                 
+        {
+            "type": "dir", 
+            "title": "Big Kevs", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/BigKevs.json", 
+            "thumbnail": "https://pbs.twimg.com/profile_images/1744711796232220672/gTvYaROk_400x400.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                             
         {
             "type": "dir", 
             "title": "Metal Mayhem", 
