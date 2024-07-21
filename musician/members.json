@@ -1,5 +1,12 @@
 {
-    "items": [                                                                 
+    "items": [               
+        {
+            "type": "plugin", 
+            "title": "Strange Lass", 
+            "link": "plugin.video.youtube/playlist/PL1VQG1QhVNxXsfBysWk3qMPQJOuzCC9Vw", 
+            "thumbnail": "https://i.pinimg.com/550x/02/2f/e7/022fe704124bb17c12e227b725672c48.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                               
         {
             "type": "dir", 
             "title": "Big Kevs", 
