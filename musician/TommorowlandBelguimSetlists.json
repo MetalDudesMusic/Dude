@@ -1,12 +1,12 @@
 {
-    "items": [             
+    "items": [                                 
         {
             "type": "plugin", 
-            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland [COLORyellow]DJ Mixes[COLORfuchsia]==--[/COLOR][/B][/I]", 
-            "link": "plugin.video.youtube/playlist/PLBCQUG9WckvL74JETPNvPBRuKd51BnL4k", 
-            "thumbnail": "https://i.ytimg.com/vi/Lc7wENMojo8/hqdefault.jpg", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2024[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoO6Y2EaUcVcBXQm7pkkY0n3", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-Q5GdHKp49dsBnupg-U6yznQ-t500x500.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },        
+        },       
         {
             "type": "plugin", 
             "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2023[COLORfuchsia]==--[/COLOR][/B][/I]", 
@@ -68,6 +68,13 @@
             "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2013[COLORfuchsia]==--[/COLOR][/B][/I]", 
             "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoNeuDjjGrKJEwVh0Vvh3sys", 
             "thumbnail": "https://i.ytimg.com/vi/kwoD0wUXoWU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland [COLORyellow]DJ Mixes[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLBCQUG9WckvL74JETPNvPBRuKd51BnL4k", 
+            "thumbnail": "https://i.ytimg.com/vi/Lc7wENMojo8/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
