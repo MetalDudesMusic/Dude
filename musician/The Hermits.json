@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PLmOhnL3l1ByiAl-Mc6kg_LE4CVSn5-pXE", 
+            "thumbnail": "https://i.ytimg.com/vi/MPEkw48BQi8/hqdefault.jpg", 
+            "title": "Full Albums & Concerts",
+            "type": "plugin"
+        },
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PLmOhnL3l1ByhV-JbiC3oVEwT9BgZ6lCIo", 
+            "thumbnail": "https://i.ytimg.com/vi/yCiacXhqHw8/hqdefault.jpg", 
+            "title": "Music Docs & Interviews", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PLmOhnL3l1ByhAnuse1KFbzf68jfd6Udj2", 
+            "thumbnail": "https://i.ytimg.com/vi/dTyT-nNPL8g/hqdefault.jpg", 
+            "title": "Music Festivals", 
+            "type": "plugin"
+        }
+    ]
+}
