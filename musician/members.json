@@ -1,5 +1,12 @@
 {
-    "items": [               
+    "items": [                                                               
+        {
+            "type": "dir", 
+            "title": "The Hermit", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/The%20Hermits.json", 
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/lats%20the%20hermit%20logo.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
         {
             "type": "plugin", 
             "title": "Strange Lass", 
