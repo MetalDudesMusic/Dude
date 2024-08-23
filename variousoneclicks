@@ -1,5 +1,26 @@
 {
-    "items": [                            
+    "items": [                                                        
+        {
+            "type": "item", 
+            "title": "Timeless Oldskul Reggae Hits", 
+            "link": "https://www.youtube.com/watch?v=S0ht8UG9WcM", 
+            "thumbnail": "https://i.ytimg.com/vi/S0ht8UG9WcM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                    
+        {
+            "type": "item", 
+            "title": "Reggae Therapy - 5 Hours Playlist", 
+            "link": "https://www.youtube.com/watch?v=z4ScbuTIbgM", 
+            "thumbnail": "https://i.ytimg.com/vi/z4ScbuTIbgM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                 
+        {
+            "type": "item", 
+            "title": "NEW REGGAE NONSTOP 2024", 
+            "link": "https://www.youtube.com/watch?v=Z89xZUouRZY", 
+            "thumbnail": "https://i.ytimg.com/vi/Z89xZUouRZY/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                           
         {
             "type": "plugin", 
             "title": "BILLION VIEWS CLUB", 
