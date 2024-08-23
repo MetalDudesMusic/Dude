@@ -1,5 +1,33 @@
 {
-    "items": [                                                                        
+    "items": [                                                                            
+        {
+            "type": "plugin", 
+            "title": "Mike Candys", 
+            "link": "plugin.video.youtube/playlist/PL82463B949DBB041E", 
+            "thumbnail": "https://i.ytimg.com/vi/GQrwup6HZUI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                            
+        {
+            "type": "plugin", 
+            "title": "Maverick Sabre", 
+            "link": "plugin.video.youtube/playlist/PLLNxA27HBJTr8-rlHZ7Anf6nx7VXW3ubb", 
+            "thumbnail": "https://i.ytimg.com/vi/A26XF9dHv5Y/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                        
+        {
+            "type": "plugin", 
+            "title": "Manic Kazzy", 
+            "link": "plugin.video.youtube/playlist/PL4N2vNTbfdJgrEgsR2OZN0bO9nA2RSuwC", 
+            "thumbnail": "https://i.ytimg.com/vi/mjDmnLFcivE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                        
+        {
+            "type": "plugin", 
+            "title": "Mattis", 
+            "link": "plugin.video.youtube/playlist/PLVjwetDZ3IfRPjfxjDJTJ0mRrZt5alhNz", 
+            "thumbnail": "https://i.ytimg.com/vi/9Zxx1d_Ajcg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                      
         {
             "type": "plugin", 
             "title": "Morcheeba", 
