@@ -1,5 +1,26 @@
 {
-    "items": [                                                                               
+    "items": [                                                                                    
+        {
+            "type": "plugin", 
+            "title": "Warren Zevon", 
+            "link": "plugin.video.youtube/playlist/PLV9vpPfE69Umz1mZwuH5Aden2AZPNEHR8", 
+            "thumbnail": "https://i.ytimg.com/vi/kZx_TokIHdI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                     
+        {
+            "type": "plugin", 
+            "title": "Will Sparks", 
+            "link": "plugin.video.youtube/playlist/PLRvBmiGlg9Y4YXZH6BakMj7jIJcc92uE4", 
+            "thumbnail": "https://i.ytimg.com/vi/unHdhcQ4Ne0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                             
+        {
+            "type": "plugin", 
+            "title": "Wiktoria", 
+            "link": "plugin.video.youtube/playlist/PL3MDw3i6E9D3Bypj_7sW9j22YsKQClJSP", 
+            "thumbnail": "https://i.ytimg.com/vi/CS2v1b_U4Mw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                            
         {
             "type": "plugin", 
             "title": "Wilson Pickett", 
