@@ -1,5 +1,19 @@
 {
-    "items": [                                                         
+    "items": [                                                        
+        {
+            "type": "plugin", 
+            "title": "The Heavy", 
+            "link": "plugin.video.youtube/playlist/PLavvz6xgVmlYInGsPQxifVOTGW_SVlras", 
+            "thumbnail": "https://i.ytimg.com/vi/o0Pt7M0weUI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                         
+        {
+            "type": "plugin", 
+            "title": "The Revivalists", 
+            "link": "plugin.video.youtube/playlist/PLGveK0dZ4z84Recy6RxrxzbLTkTYjbYCc", 
+            "thumbnail": "https://i.ytimg.com/vi/o0Pt7M0weUI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                         
         {
             "type": "plugin", 
             "title": "The Toadies", 
