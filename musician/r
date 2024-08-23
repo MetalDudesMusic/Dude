@@ -1,5 +1,26 @@
 {
-    "items": [                                              
+    "items": [                                                    
+        {
+            "type": "plugin", 
+            "title": "Referrin", 
+            "link": "plugin.video.youtube/playlist/PLT5N2Q9TXBp-mAkAWiuW0CKxPDRG_NkBo", 
+            "thumbnail": "https://i.ytimg.com/vi/thub66mR90s/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                 
+        {
+            "type": "plugin", 
+            "title": "R.L. Burnside", 
+            "link": "plugin.video.youtube/playlist/PLIfL-qXbXQY0xv4f0hUlVquzLQi0TXiFC", 
+            "thumbnail": "https://i.ytimg.com/vi/6TMvxIRDLws/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                              
+        {
+            "type": "plugin", 
+            "title": "Riff kitten", 
+            "link": "plugin.video.youtube/playlist/PL1fIU72-EgAwNJO3rDsmW-6V7we5FHrVF", 
+            "thumbnail": "https://i.ytimg.com/vi/P4hhXhx64Yw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
         {
             "type": "plugin", 
             "title": "Radio Head", 
