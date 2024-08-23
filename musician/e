@@ -1,15 +1,8 @@
 {
-    "items": [                                              
+    "items": [                                             
         {
             "type": "plugin", 
-            "title": "Ella Red", 
-            "link": "plugin.video.youtube/playlist/PLLmeUec0OHJySfFA-IF_4yLp5JZ-PWHFP", 
-            "thumbnail": "https://static.wikia.nocookie.net/ellise/images/e/ed/Chaotic_Live_HQ.jpg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                             
-        {
-            "type": "plugin", 
-            "title": "Ella Red", 
+            "title": "Ellise", 
             "link": "plugin.video.youtube/playlist/PLLmeUec0OHJySfFA-IF_4yLp5JZ-PWHFP", 
             "thumbnail": "https://static.wikia.nocookie.net/ellise/images/e/ed/Chaotic_Live_HQ.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
