@@ -1,5 +1,19 @@
 {
-    "items": [                                                                          
+    "items": [                                                                             
+        {
+            "type": "plugin", 
+            "title": "Caro emerald", 
+            "link": "plugin.video.youtube/playlist/PLbRrOXW4waEae0uaFqgQAVNdVE_uWUKcu", 
+            "thumbnail": "https://i.ytimg.com/vi/J5LscGfyLZY/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                        
+        {
+            "type": "plugin", 
+            "title": "Caravan Palace", 
+            "link": "plugin.video.youtube/playlist/PL798FA1C612CD83DD", 
+            "thumbnail": "https://i.ytimg.com/vi/KLKvLY4GfMg/sddefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                         
         {
             "type": "plugin", 
             "title": "Chase Matthew", 
