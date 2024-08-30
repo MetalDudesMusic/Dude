@@ -160,6 +160,36 @@
             "link": "https://www.youtube.com/watch?v=fpwx3tqvRg4", 
             "thumbnail": "https://cdn-icons-png.flaticon.com/512/6603/6603918.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "link": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/IRyFTWq.png", 
+            "title": "Qello Concerts", 
+            "type": "item"
+        },  
+        {
+            "link": "https://stream.ecable.tv/afrobeats/index.m3u8", 
+            "thumbnail": "https://i.ytimg.com/vi/V9pVSpGzP2o/maxresdefault.jpg", 
+            "title": "Afrobeats 24/7 ", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8", 
+            "thumbnail": "https://ewsat.com/img/MAGIC.png", 
+            "title": "Magic TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://abr.de1se01.v2beat.live/playlist.m3u8", 
+            "thumbnail": "https://lh3.googleusercontent.com/weEGZCPdiiBdzmLtks1MSV4gvkpVSlBzSapvX0FRyAw1PBJD_W0oOV5y9AsEqBGWZ9KR", 
+            "title": "V2BEAT TV ", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://30a-tv.com/music.m3u8", 
+            "thumbnail": "https://image.winudf.com/v2/image/YXR2LnZpZGVvLnJzc19pY29uXzE1MDM3NTI4NDlfMDg4/icon.png?w=170&fakeurl=1", 
+            "title": "30a TV", 
+            "type": "item"
         }
     ]
 }
