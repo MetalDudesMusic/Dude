@@ -179,5 +179,360 @@
             "link": "https://www.youtube.com/watch?v=qWf-FPFmVw0", 
             "thumbnail": "https://cdn-icons-png.flaticon.com/512/6603/6603918.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },{
+    "items": [
+        {
+            "link": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/IRyFTWq.png", 
+            "title": "Qello Concerts", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://stream.ecable.tv/afrobeats/index.m3u8", 
+            "thumbnail": "https://i.ytimg.com/vi/V9pVSpGzP2o/maxresdefault.jpg", 
+            "title": "Afrobeats 24/7 ", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8", 
+            "thumbnail": "https://ewsat.com/img/MAGIC.png", 
+            "title": "Magic TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://abr.de1se01.v2beat.live/playlist.m3u8", 
+            "thumbnail": "https://lh3.googleusercontent.com/weEGZCPdiiBdzmLtks1MSV4gvkpVSlBzSapvX0FRyAw1PBJD_W0oOV5y9AsEqBGWZ9KR", 
+            "title": "V2BEAT TV ", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://30a-tv.com/music.m3u8", 
+            "thumbnail": "https://image.winudf.com/v2/image/YXR2LnZpZGVvLnJzc19pY29uXzE1MDM3NTI4NDlfMDg4/icon.png?w=170&fakeurl=1", 
+            "title": "30a TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/y4kNV3Q.png", 
+            "title": "70-80TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8", 
+            "thumbnail": "https://i.imgur.com/GY750xh.jpg", 
+            "title": "98 Pearl FM", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://streamtv.mediasector.es/hls/activatv/index.m3u8", 
+            "thumbnail": "https://i.imgur.com/VCUZKiw.png", 
+            "title": "Activa TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/GlpYAKt.png", 
+            "title": "Blues TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/8giAFx5.png", 
+            "title": "Clubbing TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8", 
+            "thumbnail": "https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png", 
+            "title": "Dance FM", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8", 
+            "thumbnail": "https://i.imgur.com/IV2Qvc0.png", 
+            "title": "Deephouse District", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489", 
+            "thumbnail": "https://i.imgur.com/pgCA35z.png", 
+            "title": "Deluxe Lounge", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8", 
+            "thumbnail": "https://i.imgur.com/HimuPPb.png", 
+            "title": "Deluxe Music", 
+            "type": "item"
+        }, 
+        {
+            "link": "http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/4kljoX2.jpg", 
+            "title": "Good-Sound", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/Fbgxqqq.png", 
+            "title": "iHeart 80s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/Vo09eBa.png", 
+            "title": "iHeart 90s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8", 
+            "thumbnail": "https://i.imgur.com/NKfVymH.png", 
+            "title": "Kiss TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/qiCCX5X.png", 
+            "title": "Now 70s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/YyPnMeB.png", 
+            "title": "Now 80s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/GuM4GnX.png", 
+            "title": "NOW Rock", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8", 
+            "thumbnail": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png", 
+            "title": "On FM", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=", 
+            "thumbnail": "https://i.imgur.com/WsQRCmZ.png", 
+            "title": "MTV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://i.imgur.com/AOaZmlS.png", 
+            "title": "MTV Biggest Pop", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg", 
+            "title": "VEVO 70s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg", 
+            "title": "VEVO 80s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg", 
+            "title": "VEVO 90s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg", 
+            "title": "VEVO Country", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg", 
+            "title": "VEVO R&B", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg", 
+            "title": "VEVO Reggeaton & Trap", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://i.imgur.com/wgwEzFo.png", 
+            "title": "VH1 Classics", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=", 
+            "thumbnail": "https://i.imgur.com/vZ3knKt.png", 
+            "title": "VH1 Hip Hop Family", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=", 
+            "thumbnail": "https://i.imgur.com/0vSFVw6.png", 
+            "title": "VH1 I Love Reality", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8", 
+            "thumbnail": "https://i.imgur.com/LQB6G3s.jpg", 
+            "title": "Pop World TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8", 
+            "thumbnail": "https://i.imgur.com/fMTuqDu.png", 
+            "title": "Qmusic", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/u8OhwI1.png", 
+            "title": "Radio 21 TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8", 
+            "thumbnail": "https://i.ibb.co/1Lk8P1x/1-150x150.png", 
+            "title": "RedMusic", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/pyOjdZs.png", 
+            "title": "Retro Music Television (360p)", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/fkCasXI.png", 
+            "title": "Retro Plus", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8", 
+            "thumbnail": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png", 
+            "title": "On FM", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8", 
+            "thumbnail": "https://i.imgur.com/JoPywOp.png", 
+            "title": "Rock TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-101ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/FBgu8yB.png", 
+            "title": "Stingray Classic Rock", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/3UppN5P.png", 
+            "title": "Stingray CMusic", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/live/master.m3u8", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png", 
+            "title": "Stingray DJAZZ", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-137ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png", 
+            "title": "Stingray Easy Listening", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-115ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/jf5C9QF.png", 
+            "title": "Stingray Flashback 70s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8", 
+            "thumbnail": "https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png", 
+            "title": "Stingray Greatest Hits", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-107ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/lgpIwId.png", 
+            "title": "Stingray Hit List", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-155ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/4xVVKH8.png", 
+            "title": "Stingray Holiday Hits", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-108ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/PZhxyIT.png", 
+            "title": "Stingray Hot Country", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/9TLTLS3.png", 
+            "title": "Stingray Karaoke", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-142ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/Tq3I0po.png", 
+            "title": "Stingray Nothin' But 90s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-104ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/H2ugC9L.png", 
+            "title": "Stingray Pop Adult", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-128ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/6E3wYrb.png", 
+            "title": "Stingray Remember the 80s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-102ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/mt8ulVX.png", 
+            "title": "Stingray Rock Alternative", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-140ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/h1DsOzH.png", 
+            "title": "Stingray Smooth Jazz", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-134ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/dU1KC3f.png", 
+            "title": "Stingray Soul Storm", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-317ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/mMbntB5.png", 
+            "title": "Stingray Today's KPOP", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://lotus.stingray.com/manifest/ose-133ads-montreal/live/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/Os3kRRP.png", 
+            "title": "Stingray Urban Beat", 
+            "type": "item"
         }
 }
