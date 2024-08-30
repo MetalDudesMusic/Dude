@@ -292,6 +292,102 @@
             "thumbnail": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png", 
             "title": "On FM", 
             "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=", 
+            "thumbnail": "https://i.imgur.com/WsQRCmZ.png", 
+            "title": "MTV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://i.imgur.com/AOaZmlS.png", 
+            "title": "MTV Biggest Pop", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg", 
+            "title": "VEVO 70s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg", 
+            "title": "VEVO 80s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg", 
+            "title": "VEVO 90s", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg", 
+            "title": "VEVO Country", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg", 
+            "title": "VEVO R&B", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg", 
+            "title": "VEVO Reggeaton & Trap", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", 
+            "thumbnail": "https://i.imgur.com/wgwEzFo.png", 
+            "title": "VH1 Classics", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=", 
+            "thumbnail": "https://i.imgur.com/vZ3knKt.png", 
+            "title": "VH1 Hip Hop Family", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=", 
+            "thumbnail": "https://i.imgur.com/0vSFVw6.png", 
+            "title": "VH1 I Love Reality", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8", 
+            "thumbnail": "https://i.imgur.com/LQB6G3s.jpg", 
+            "title": "Pop World TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8", 
+            "thumbnail": "https://i.imgur.com/fMTuqDu.png", 
+            "title": "Qmusic", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/u8OhwI1.png", 
+            "title": "Radio 21 TV", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8", 
+            "thumbnail": "https://i.ibb.co/1Lk8P1x/1-150x150.png", 
+            "title": "RedMusic", 
+            "type": "item"
+        }, 
+        {
+            "link": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/pyOjdZs.png", 
+            "title": "Retro Music Television (360p)", 
+            "type": "item"
         }
     ]
 }
