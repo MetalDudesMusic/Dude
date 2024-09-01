@@ -104,6 +104,97 @@
             "link": "plugin.video.youtube/playlist/PLLphLKeP1R_IdmsDK8jDDXFPZbWWzYBWm", 
             "thumbnail": "https://i.ytimg.com/vi/PzlzBJ_vM78/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "link", 
+            "thumbnail": "https://i.ytimg.com/vi/1bBxWOwfID0/maxresdefault.jpg", 
+            "title": "[I][COLORcyan]Piano[/COLOR][/I]", 
+            "type": "item"
+        },
+        {
+            "type": "plugin", 
+            "title": "Learn to play Piano course", 
+            "link": "plugin.video.youtube/playlist/PLUyDmNalB0ri0KoNmwPDtHMrwB0l8qvrP", 
+            "thumbnail": "https://i.ytimg.com/vi/ypKraHkY5GE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Beginners Crash Course", 
+            "link": "plugin.video.youtube/playlist/PLb7_wN_rNE00k0sMUDX0bxaXXpT0kNSlf", 
+            "thumbnail": "https://i.ytimg.com/vi/nA0nXP-CLc8/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "How To Play Piano For Beginners", 
+            "link": "plugin.video.youtube/playlist/PLpOuhygfD7QnP46wUgQudOySX_z2UOhXs", 
+            "thumbnail": "https://i.ytimg.com/vi/QBH6IpRkVDs/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "The Beatles Sheet Music", 
+            "link": "plugin.video.youtube/playlist/PLHO72XDWKOWFN8vI23ToPu-JT8f6wA4TA", 
+            "thumbnail": "https://i.ytimg.com/vi/36sgBoshR_M/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Step by Step Piano Tutorial Lessons", 
+            "link": "plugin.video.youtube/playlist/PL62pKfyAHw_x3XYpggzA4zwum0z2xbVba", 
+            "thumbnail": "https://i.ytimg.com/vi/KqGMfpcg-tc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "link", 
+            "thumbnail": "https://i.ytimg.com/vi/1bBxWOwfID0/maxresdefault.jpg", 
+            "title": "[I][COLORcyan]Saxphone[/COLOR][/I]", 
+            "type": "item"
+        },
+        {
+            "type": "plugin", 
+            "title": "Saxophone Lessons", 
+            "link": "plugin.video.youtube/playlist/PLGBpHLIEy58N1bSjR1dxbnxe8kxZYJX04", 
+            "thumbnail": "https://i.ytimg.com/vi/ZnNhRZK5sBo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Saxophone Lessons 2", 
+            "link": "plugin.video.youtube/playlist/PLwS4aPW0QGp7fwIWGQsTC8-92NejWD-94", 
+            "thumbnail": "https://i.ytimg.com/vi/UM9lhMDVmUU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Saxophone Lessons - Advanced Concepts", 
+            "link": "plugin.video.youtube/playlist/PLWMjC05R8fbX1_B-U-ypdcGLJTCHIfMvH", 
+            "thumbnail": "https://i.ytimg.com/vi/H7MkMvfJfnc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Practical saxophone lessons", 
+            "link": "plugin.video.youtube/playlist/PLAJk2cPm1q5l0qeuyVhBncRWQAYg_D96R", 
+            "thumbnail": "https://i.ytimg.com/vi/pSbYNbOxOno/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Saxophone Lessons - Intermediate", 
+            "link": "plugin.video.youtube/playlist/PLWMjC05R8fbVVDQSLTSSCKj_ILhcEJoVg", 
+            "thumbnail": "https://i.ytimg.com/vi/z-Qg96dpdGY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Saxophone From Scratch", 
+            "link": "plugin.video.youtube/playlist/PLW1zq1LGPIZ_XoMQ1gANG2XmtyvF_oW37", 
+            "thumbnail": "https://i.ytimg.com/vi/qMzB27bN3WI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
