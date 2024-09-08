@@ -1,4 +1,12 @@
 <item>
+    <type>item</type>
+    <title>test 1 </title>
+    <link></link>
+    <thumbnail>https://www.bigwestracing.com/wp-content/uploads/2023/01/World-of-Outlaws-Late-Models_BWR_-copy.jpg</thumbnail>
+    <fanart></fanart>
+</item>
+
+<item>
     <type>plugin</type>
     <title>2024 World of Outlaws CASE Construction Late Models </title>
     <link>plugin.video.youtube/playlist/PLRwcq-9bSXOC8_JHrx86XhrJkW0INOZcV</link>
