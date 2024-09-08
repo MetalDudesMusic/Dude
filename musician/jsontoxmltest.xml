@@ -1,27 +1,23 @@
 <item>
-    <type>item</type>
-    <title>test 1 </title>
+    <title>test 2 </title>
     <link></link>
     <thumbnail>https://www.bigwestracing.com/wp-content/uploads/2023/01/World-of-Outlaws-Late-Models_BWR_-copy.jpg</thumbnail>
     <fanart></fanart>
 </item>
 
 <item>
-    <type>plugin</type>
     <title>2024 World of Outlaws CASE Construction Late Models </title>
     <link>plugin.video.youtube/playlist/PLRwcq-9bSXOC8_JHrx86XhrJkW0INOZcV</link>
     <thumbnail>https://www.bigwestracing.com/wp-content/uploads/2023/01/World-of-Outlaws-Late-Models_BWR_-copy.jpg</thumbnail>
     <fanart></fanart>
 </item>
 <item>
-     <type>plugin</type>
      <title>2023 World of Outlaws CASE Construction Late Models</title>
      <link>plugin.video.youtube/playlist/PLRwcq-9bSXODtf2L7OIKxkawFaialGJr8</link>
      <thumbnail>https://i.ytimg.com/vi/ZIR3KXWNPto/hqdefault.jpg</thumbnail>
      <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
 </item>
 <item>
-     <type>plugin</type>
      <title>2022 World of Outlaws CASE Late Model Series</title>
      <link>plugin.video.youtube/playlist/PLRwcq-9bSXOCbMBqWu-auHYJGCT5svJ-o</link>
      <thumbnail>https://i.ytimg.com/vi/k_UioHphxp8/hqdefault.jpg</thumbnail>
