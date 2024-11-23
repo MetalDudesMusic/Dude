@@ -2,51 +2,79 @@
     "items": [                                                               
         {
             "type": "dir", 
-            "title": "The Hermit", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/The%20Hermits.json", 
-            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/lats%20the%20hermit%20logo.jpg", 
+            "title": "Metal", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmasmetal.json", 
+            "thumbnail": "https://i.ytimg.com/vi/d0ycwrJhPJ0/sddefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },              
-        {
-            "type": "plugin", 
-            "title": "Strange Lass", 
-            "link": "plugin.video.youtube/playlist/PL1VQG1QhVNxXsfBysWk3qMPQJOuzCC9Vw", 
-            "thumbnail": "https://i.pinimg.com/550x/02/2f/e7/022fe704124bb17c12e227b725672c48.jpg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                               
+        },                                                              
         {
             "type": "dir", 
-            "title": "Big Kevs", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/BigKevs.json", 
-            "thumbnail": "https://pbs.twimg.com/profile_images/1744711796232220672/gTvYaROk_400x400.jpg", 
+            "title": "Rock", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmasrock.json", 
+            "thumbnail": "https://www.shutterstock.com/image-photo/portrait-cool-santa-claus-sunglasses-600nw-2227782877.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                             
         {
             "type": "dir", 
-            "title": "Metal Mayhem", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Music-Vids-Dance.json", 
-            "thumbnail": "https://www.tvguide.com/a/img/catalog/provider/1/1/1-4283159882.jpg", 
+            "title": "Rap/Hip Hop", 
+            "link": "https://github.com/MetalDudesMusic/Dude/blob/main/tunes/masx/xmasrap.json", 
+            "thumbnail": "https://ih1.redbubble.net/image.1289805997.3676/flat,750x,075,f-pad,750x1000,f8f8f8.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },             
-        {
-            "type": "plugin", 
-            "title": "Smokin Builds", 
-            "link": "plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR", 
-            "thumbnail": "https://i.ytimg.com/vi/z4dzRD6dFvA/hqdefault.jpg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },       
-        {
-            "type": "plugin", 
-            "title": "Dudelove00", 
-            "link": "plugin.video.youtube/playlist/PLLs0GXX5LPpHJUY44TqNxzXOxVf2msMiz", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/photo_2_2024-07-16_20-21-59.jpg?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                                                          
+        },                                                        
         {
             "type": "dir", 
-            "title": "Redlist", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Redlist.json", 
-            "thumbnail": "https://images.saasworthy.com/redlist_32899_logo_1643255531_0bzd4.jpg", 
+            "title": "Trap/EDM", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmastrapedm.json", 
+            "thumbnail": "https://i1.sndcdn.com/avatars-000356862803-6ue9j1-t240x240.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                              
+        {
+            "type": "dir", 
+            "title": "Party", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmasparty.json", 
+            "thumbnail": "https://www.resortsgal.com/wp-content/uploads/2022/11/ChristmasPartyCharacters-15.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                              
+        {
+            "type": "dir", 
+            "title": "Country", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmascountry.json", 
+            "thumbnail": "https://resizing.flixster.com/qPca2JI1FusXi5kKiCv8rJl4LMY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10287377_k_h9_aa.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                             
+        {
+            "type": "dir", 
+            "title": "Kids", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmaskids.json", 
+            "thumbnail": "https://www.lifesizecutouts.com.au/cdn/shop/products/santa-and-elves-standup_1.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                        
+        {
+            "type": "dir", 
+            "title": "Best Of", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmasbest.json", 
+            "thumbnail": "https://www.stageentertainment.ca/wp-content/uploads/2018/08/Santa-Alfie-201x300-201x300.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                              
+        {
+            "type": "dir", 
+            "title": "RnB", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmasrnb.json", 
+            "thumbnail": "https://allaboutlimassol.com/en/assets/components/phpthumbof/cache/171224-0.dj-santa.5dd0737863529fa36646fb698c801d13.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                              
+        {
+            "type": "dir", 
+            "title": "Concerts", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmasconcerts.json", 
+            "thumbnail": "https://res.cloudinary.com/cityofsydney/image/upload/v1666602226/k7h9gk6i1z6d/4W1HGIcEk2oXlwFFT0b3Tj/5a635c11-537a-11ed-a40b-8737f8a56f5b--Sydney-Children-s-Christmas-Concert---tile.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                             
+        {
+            "type": "dir", 
+            "title": "Movies", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/xmasmovies.json", 
+            "thumbnail": "https://pyxis.nymag.com/v1/imgs/2a2/0d3/049b03f23cb87563205a418f676c91362f-santa-ranking.2x.rsocial.w600.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
