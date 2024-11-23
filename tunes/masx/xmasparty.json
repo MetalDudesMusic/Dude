@@ -1,0 +1,53 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL7Sv7aQs2p0VNLznO4MjI3Y9K5OmRcxBI", 
+            "thumbnail": "https://i.ytimg.com/vi/HhiUOCo8LYQ/hqdefault.jpg", 
+            "title": "Christmas Party Songs Playlist 2024", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL-CL0jf_Pc8yewS96uVg1W_n0QHFhYE8B", 
+            "thumbnail": "https://i.ytimg.com/vi/9vu4AN2bc-M/hqdefault.jpg", 
+            "title": "Christmas Party Music", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL1naRLRKYPMF3TNq76mEyJJKWrIjnC5SC", 
+            "thumbnail": "https://i.ytimg.com/vi/EM2Fnp_qnE8/hqdefault.jpg", 
+            "title": "Christmas Dance Songs", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLn9S1R6ixa24mEFO6ZA1Zz3j8MrBiFVve", 
+            "thumbnail": "https://i.ytimg.com/vi/pn5RjHLbNOY/hqdefault.jpg", 
+            "title": "Upbeat Christmas Songs", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLEPQby6_o7m0z5ZJD__3Lrlge7rsMLZDk", 
+            "thumbnail": "https://i.ytimg.com/vi/kQb0DJZLhRM/hqdefault.jpg", 
+            "title": "Ultimate Christmas Pop Party", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLkqz3S84Tw-TvdR1VCEr2MhbpUpDnv5V6", 
+            "thumbnail": "https://i.ytimg.com/vi/3Uo0JAUWijM/hqdefault.jpg", 
+            "title": "80's Christmas Classics", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL-CL0jf_Pc8xbn9GFGYipjs5YsttcCY8l", 
+            "thumbnail": "https://i.ytimg.com/vi/MKdndMXIVXw/hqdefault.jpg", 
+            "title": "Santa's Summer Vibes", 
+            "type": "plugin"
+        }
+    ]
+}

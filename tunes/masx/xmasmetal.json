@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLBwRNtKSfL2csD99qeQKhgW3CccD3h-mw", 
+            "thumbnail": "https://i.ytimg.com/vi/Uz9DMheko0Y/hqdefault.jpg", 
+            "title": "Heavy Metal Christmas Songs", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL90FcmUgZe6ACrpACFUD4ACYX-XjoM3bK", 
+            "thumbnail": "https://i.ytimg.com/vi/k3FkPhDBykI/hqdefault.jpg", 
+            "title": "Heavy Metal Christmas Music Playlist", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL-YRzUWe2dWQN8yMg-BLX9QbjlEkYKdZf", 
+            "thumbnail": "https://i.ytimg.com/vi/eLqjqOKKkV4/hqdefault.jpg", 
+            "title": "Death Metal Christmas", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLQa-PRTwaaHe3PrSzQo3jgyXDCus2FekF", 
+            "thumbnail": "https://i.ytimg.com/vi/UAvBS8h8pmg/hqdefault.jpg", 
+            "title": "Rock/Metal/Punk/Rockabilly Christmas Songs", 
+            "type": "plugin"
+        }
+    ]
+}

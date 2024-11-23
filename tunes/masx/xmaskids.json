@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLiNVoBckLqLn3rOQac7d4lskxo70tXxIR", 
+            "thumbnail": "https://i.ytimg.com/vi/nLGBEETtEPc/hqdefault.jpg", 
+            "title": "Disney Christmas", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLpnntwUeLhHc1s_R1pSAOiifu0JEqme8H", 
+            "thumbnail": "https://i.ytimg.com/vi/mXfGGDXfZ08/hqdefault.jpg", 
+            "title": "KIDZ BOP Christmas", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLcAi2Jja9ptD0er_Wva29WtrpEvYMyapY", 
+            "thumbnail": "https://i.ytimg.com/vi/yO8LgCk6HHc/hqdefault.jpg", 
+            "title": "Wiggly Wiggly Christmas", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLh-1JU15_Ti7tJ0EuMy_6GQgViUMX-oh6", 
+            "thumbnail": "https://i.ytimg.com/vi/1PTJ4dn6Y88/hqdefault.jpg", 
+            "title": "Christmas Songs for Kids", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL45lFFCHygcPIGopHYKaTONUsgxA6Ygir", 
+            "thumbnail": "https://i.ytimg.com/vi/StODt0fHA2U/hqdefault.jpg", 
+            "title": "Merry Christmas Songs", 
+            "type": "plugin"
+        }
+    ]
+}

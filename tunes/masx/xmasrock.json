@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL7Sv7aQs2p0Uuu6vSLrsR1LpHCZRIyISr", 
+            "thumbnail": "https://i.ytimg.com/vi/qw2TD91Nytg/hqdefault.jpg", 
+            "title": "Rock Christmas Songs", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLDT66i3UWBGcCgBjPStDU2qKOmOqXI-2M", 
+            "thumbnail": "https://i.ytimg.com/vi/v-HdsMcVfFc/hqdefault.jpg", 
+            "title": "Rock n Roll Christmas", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL79jS_RS9C6DPJIAnX3GdyKUsv8Ar0cjM", 
+            "thumbnail": "https://i.ytimg.com/vi/zUjf78p92WI/hqdefault.jpg", 
+            "title": "Punk Rock Christmas Songs", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLWQWw3_o_dci0Wx7eACrKxZvF12-5rf-O", 
+            "thumbnail": "https://i.ytimg.com/vi/vmw9vHZCbMo/hqdefault.jpg", 
+            "title": "Rock n Roll Christmas Songs", 
+            "type": "plugin"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLO_1AmtK1TMSM3rbLcldVaEVjNXuuh1Hj", 
+            "thumbnail": "https://i.ytimg.com/vi/9vMLTcftlyI/hqdefault.jpg", 
+            "title": "Best Christmas Hip Hop Songs", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLzwZxxZ92av21EAZE3nbyAdAVq8b-fwqy", 
+            "thumbnail": "https://i.ytimg.com/vi/7ZrEUKo_VBE/hqdefault.jpg", 
+            "title": "Christmas Rap Songs", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL1-mqr0NI6-o2l-GFkDuJto9wClcgD_an", 
+            "thumbnail": "https://i.ytimg.com/vi/0I-pkJ9dBOo/hqdefault.jpg", 
+            "title": "Christmas Rappings", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLiv8N-ssKHaex6y_9qguc3o_c00O4s9Nh", 
+            "thumbnail": "https://i.ytimg.com/vi/izKjDD3lIYU/hqdefault.jpg", 
+            "title": "Christmas Rap Songs 2", 
+            "type": "plugin"
+        }
+    ]
+}

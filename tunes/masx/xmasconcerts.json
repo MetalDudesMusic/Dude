@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLvq7fVvSWn0PgAfyO07qGOJWBItqupzDi", 
+            "thumbnail": "https://i.ytimg.com/vi/-LHl0zf09pE/hqdefault.jpg", 
+            "title": "Christmas Concerts & TV Shows", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLsgYRwt-gPSCnDmSGOJwTV7jx_Le3BAIo", 
+            "thumbnail": "https://i.ytimg.com/vi/zsttAKLRFdM/hqdefault.jpg", 
+            "title": "Christmas Concerts", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLeagipoZmyfmaodO5U3zyqyGxqbxcB2fz", 
+            "thumbnail": "https://i.ytimg.com/vi/lK5FxFAGkJ8/hqdefault.jpg", 
+            "title": "Christmas - Variety Shows & Concerts", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL_DuRFQIy_NtgXMozjzJQDgAPhXElKg02", 
+            "thumbnail": "https://i.ytimg.com/vi/IdLZU-p8lfA/hqdefault.jpg", 
+            "title": "Christmas Concerts 2", 
+            "type": "plugin"
+        }
+    ]
+}

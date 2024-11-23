@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL9tY0BWXOZFsfo7b-L00e8b9gz3hSdxAV", 
+            "thumbnail": "https://i.ytimg.com/vi/L-lGlvbdUmY/hqdefault.jpg", 
+            "title": "Country Christmas", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLLDVfSPfze0uUXilP0jZgcb1kSqVeS_oI", 
+            "thumbnail": "https://i.ytimg.com/vi/L-lGlvbdUmY/hqdefault.jpg", 
+            "title": "Country Christmas Songs 2024", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLo2biXvHyokL3FH8XQrXlkKps1rus58Bu", 
+            "thumbnail": "https://i.ytimg.com/vi/bvK1F6bUrzU/hqdefault.jpg", 
+            "title": "Country Rock Pop Christmas", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLGU4JkhzU95DhlerN2FzYz5BPFcUztW6s", 
+            "thumbnail": "https://i.ytimg.com/vi/m_fUuhf8-U0/hqdefault.jpg", 
+            "title": "Country Christmas Songs", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLdAhJxWENJgZwFiZhAAZAiXxyD6MmCCt7", 
+            "thumbnail": "https://i.ytimg.com/vi/D0fis0qSxOs/hqdefault.jpg", 
+            "title": "Tired of the Same Old Christmas", 
+            "type": "plugin"
+        }
+    ]
+}

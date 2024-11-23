@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLbxcFcIJVTDv2DcvMSc61QeCkkzQ9M4uL", 
+            "thumbnail": "https://i.ytimg.com/vi/AcRSOi_dHwg/hqdefault.jpg", 
+            "title": "Christmas Songs Trap Remix", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLaF8PWiKoDv5sMpfm_TZYOuBsGcfT8i40", 
+            "thumbnail": "https://i.ytimg.com/vi/ACczN6g1EXA/hqdefault.jpg", 
+            "title": "EDM Christmas Songs", 
+            "type": "plugin"
+        }
+    ]
+}

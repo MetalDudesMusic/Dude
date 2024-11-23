@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLplXQ2cg9B_rKi9XK-ph3Pxm6LVF2XAm-", 
+            "thumbnail": "https://i.ytimg.com/vi/R8fScTtyzJI/hqdefault.jpg", 
+            "title": "Best RnB Xmas Tracks", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLgj8F6OQTiK-aJXGXuxWYX9XGy7JaDcbU", 
+            "thumbnail": "https://i.ytimg.com/vi/D0paZfTKFbk/hqdefault.jpg", 
+            "title": "Best R&B Christmas Soul and Contemporary Songs", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLTmaZB7buLoeT61ZjfqJ9UijH3i8Mfg9M", 
+            "thumbnail": "https://i.ytimg.com/vi/O89sPooBhyE/hqdefault.jpg", 
+            "title": "Best R&B Christmas Songs", 
+            "type": "plugin"
+        }
+    ]
+}

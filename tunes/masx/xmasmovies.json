@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL9W0lEpNTi6qMRcCOdKh9d4jAOR_Ohq1I", 
+            "thumbnail": "https://i.ytimg.com/vi/Yd2TtToYis0/hqdefault.jpg", 
+            "title": "Christmas Movies Old & New", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL8URD0Dt8WxW6giEuwF4ZZbSd3CI4rGFI", 
+            "thumbnail": "https://i.ytimg.com/vi/9H5uwTxWApc/hqdefault.jpg", 
+            "title": "Free Christmas Movies", 
+            "type": "plugin"
+        
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLZeDY88ZrZTd1NppSF6Cv2uLorXXH6gDf", 
+            "thumbnail": "https://i.ytimg.com/vi/OqqVYoJHGGI/hqdefault.jpg", 
+            "title": "Hallmark Christmas Movies", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLeagipoZmyfnPGUtzIjnH6KW1V81X4WVi", 
+            "thumbnail": "https://i.ytimg.com/vi/UKkgQ13fdjE/hqdefault.jpg", 
+            "title": "Christmas TV Movies", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLfEui2ow-8YxshEOaFYHLbX8vDrG7ZZGW", 
+            "thumbnail": "https://i.ytimg.com/vi/3gJ3jINcTR0/hqdefault.jpg", 
+            "title": "Old Christmas movies", 
+            "type": "plugin"
+        }
+    ]
+}
