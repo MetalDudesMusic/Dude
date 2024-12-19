@@ -1,0 +1,39 @@
+{
+    "items": [              
+        {
+            "type": "plugin", 
+            "title": "Ozora 2024 sets", 
+            "link": "plugin.video.youtube/playlist/PLWG9sUaFoiVo0QZOM5qhB2xZosx-A5ReT", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-000396684060-2z6ygg-t500x500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Ozora 2023 sets", 
+            "link": "plugin.video.youtube/playlist/PLWG9sUaFoiVp9I1thh3ZnbYXtIOvt3uXh", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-000396684060-2z6ygg-t500x500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Ozora 2022 sets", 
+            "link": "plugin.video.youtube/playlist/PLchm5HuT70VVyECeqjezGzG6M5uyXS6zP", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-000396684060-2z6ygg-t500x500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Ozora 2021 sets", 
+            "link": "plugin.video.youtube/playlist/PLafKFYBDtsZKfAwXcHMrxMmGOZQq_yvcN", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-000396684060-2z6ygg-t500x500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Ozora 2020 sets", 
+            "link": "plugin.video.youtube/playlist/PLK4SPP5z2pA2uA325Px48DePnjFuRirDy", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-000396684060-2z6ygg-t500x500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
