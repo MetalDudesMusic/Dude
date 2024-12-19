@@ -24,7 +24,7 @@
         {
             "type": "dir", 
             "title": "Coachella", 
-            "link": "plugin.video.youtube/playlist/PLbPoE_NWF4Gob5tG0YiNcOfYWrZMTWmNF", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/musician/coachella.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },   
