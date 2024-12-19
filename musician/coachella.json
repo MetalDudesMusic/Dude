@@ -23,6 +23,13 @@
         },           
         {
             "type": "plugin", 
+            "title": "Coachella 2023 sets", 
+            "link": "plugin.video.youtube/playlist/PLjwMGuuU1ZpeN3JbSVu1OcGix4DuFDmXC", 
+            "thumbnail": "https://i.ytimg.com/vi/5DxOwFPT8TI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
             "title": "Coachella 2023 playlist", 
             "link": "plugin.video.youtube/playlist/PLzOxlxyJ5njkIqt0qhl0Kb1pKzjNIiX9-", 
             "thumbnail": "https://i0.wp.com/blurredculture.com/wp-content/uploads/2023/04/coachella-2023.jpg", 
