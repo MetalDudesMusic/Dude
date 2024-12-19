@@ -1,0 +1,32 @@
+{
+    "items": [             
+        {
+            "type": "item", 
+            "title": "Coachella: 20 Years in the Desert", 
+            "link": "https://www.youtube.com/watch?v=jjwilAja7Lc", 
+            "thumbnail": "https://i.ytimg.com/vi/jjwilAja7Lc/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "item", 
+            "title": "Coachella the Movie 2006", 
+            "link": "https://www.youtube.com/watch?v=N9YEE-U1fLw", 
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjUwMjUyMjI0M15BMl5BanBnXkFtZTcwMjA3NDIzMQ@@._V1_FMjpg_UX1000_.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Coachella 2024 sets", 
+            "link": "plugin.video.youtube/playlist/PLZ8UrYrP10dO3br2MvlatsIro6sq4C4Qa", 
+            "thumbnail": "https://dailynorthwestern.com/wp-content/uploads/2024/04/COACHELLA_Ziye.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": "Coachella 2023 playlist", 
+            "link": "plugin.video.youtube/playlist/PLzOxlxyJ5njkIqt0qhl0Kb1pKzjNIiX9-", 
+            "thumbnail": "https://i0.wp.com/blurredculture.com/wp-content/uploads/2023/04/coachella-2023.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
