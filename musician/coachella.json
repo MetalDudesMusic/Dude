@@ -34,6 +34,13 @@
             "link": "plugin.video.youtube/playlist/PLzOxlxyJ5njkIqt0qhl0Kb1pKzjNIiX9-", 
             "thumbnail": "https://i0.wp.com/blurredculture.com/wp-content/uploads/2023/04/coachella-2023.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": "Coachella Past Performances", 
+            "link": "plugin.video.youtube/playlist/PLvG0tvdtd6ZRjrucsH8xdegfiafd_-c5y", 
+            "thumbnail": "https://i.ytimg.com/vi/Yd5_VFar5YM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
