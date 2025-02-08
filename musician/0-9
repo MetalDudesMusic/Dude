@@ -1,12 +1,5 @@
 {
-    "items": [                 
-        {
-            "type": "item", 
-            "title": "Test 1", 
-            "link": "https://inv.nadeko.net/USsUK70upbY", 
-            "thumbnail": "https://i1.sndcdn.com/artworks-000033438878-f4tlfu-t500x500.jpg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },           
+    "items": [           
         {
             "type": "plugin", 
             "title": "10cc", 
