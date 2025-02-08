@@ -16,7 +16,7 @@
         },          
         {
             "type": "plugin", 
-            "title": "2 live Crew", 
+            "title": "2 live Crew **", 
             "link": "plugin.video.youtube/playlist/PLcraugI2wQnYAyeho7WgVkU5un84QaObN", 
             "thumbnail": "https://i.ytimg.com/vi/Y3YevE4pI0k/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
@@ -72,7 +72,7 @@
         },        
         {
             "type": "plugin", 
-            "title": "Twenty One Pilots", 
+            "title": "Twenty One Pilots **", 
             "link": "plugin.video.youtube/playlist/PL0A42C164824B74F9", 
             "thumbnail": "https://i.ytimg.com/vi/Io2hbcrAYBw/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
