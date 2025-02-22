@@ -1,5 +1,12 @@
 {
-    "items": [                                                               
+    "items": [                                                                 
+        {
+            "type": "dir", 
+            "title": "Metal Mayhem", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/Metalssubmenu.json", 
+            "thumbnail": "https://www.tvguide.com/a/img/catalog/provider/1/1/1-4283159882.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                           
         {
             "type": "dir", 
             "title": "The Hermit", 
