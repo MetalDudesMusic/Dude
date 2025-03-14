@@ -23,15 +23,15 @@
         },             
         {
             "type": "plugin", 
-            "title": "Test 2c list with", 
-            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/xavier-ruka-xman/sets/aussie-pub-rock-classics?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", 
+            "title": "Test 2c list with playlist", 
+            "link": "plugin://plugin.audio.soundcloud/play/?playlist_id=https://soundcloud.com/xavier-ruka-xman/sets/aussie-pub-rock-classics?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", 
             "thumbnail": "https://www.pngall.com/wp-content/uploads/13/Soundcloud-Logo-PNG-Photo.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
         {
             "type": "plugin", 
-            "title": "Test 2d list without", 
-            "link": "https://soundcloud.com/xavier-ruka-xman/sets/aussie-pub-rock-classics?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", 
+            "title": "Test 2d list track", 
+            "link": "plugin://plugin.audio.soundcloud/play/?track_id=https://soundcloud.com/daviddelphi/spiderbait-black-betty-2", 
             "thumbnail": "https://www.pngall.com/wp-content/uploads/13/Soundcloud-Logo-PNG-Photo.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
