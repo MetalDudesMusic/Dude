@@ -1,0 +1,28 @@
+{
+    "items": [                    
+        {
+            "type": "item",  
+			"summary": " Friday live stream replay.",
+            "title": "Saturday Cochella 2025", 
+            "link": "https://www.youtube.com/watch?v=SreThbvUUI8", 
+            "thumbnail": "https://media.coachella.com/content/seo_images/640/HZ5m5X9DNiPD2cbH6SlCi4bicBJ7ta66CmROO8EE.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "item",  
+			"summary": " Saturday live stream. Starts 1pm Indio California 92201 timezone. Once finished the Replay should kick in",
+            "title": "Saturday Cochella 2025", 
+            "link": "https://www.youtube.com/watch?v=SreThbvUUI8", 
+            "thumbnail": "https://media.coachella.com/content/seo_images/640/HZ5m5X9DNiPD2cbH6SlCi4bicBJ7ta66CmROO8EE.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                            
+        {
+            "type": "item", 
+			"summary": " Sunday live stream. Starts 1pm Indio California 92201 timezone. Once finished the Replay should kick in", 
+            "title": "Sunday Cochella 2025", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/The%20Hermits.json", 
+            "thumbnail": "https://media.coachella.com/content/seo_images/640/HZ5m5X9DNiPD2cbH6SlCi4bicBJ7ta66CmROO8EE.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
