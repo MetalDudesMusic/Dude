@@ -1,0 +1,19 @@
+{
+    "items": [                    
+        {
+            "type": "item",  
+			"summary": "Wobbleland SF 2024. Wobbleland is TWO epic nights of mind-blowing bass! ",
+            "title": "Wobbleland SF 2024",
+            "link": [
+                "https://www.youtube.com/watch?v=BJacygylvKM&t( Kai Wachi )",
+                "https://www.youtube.com/watch?v=WwESyfQA_Eg&t( BTSM )",
+                "https://www.youtube.com/watch?v=5Kj1bhOqlNg&t( Adventure Club )",
+                "https://www.youtube.com/watch?v=JIXcQThB4fE( Svdden Death )",
+                "https://www.youtube.com/watch?v=gV1d0DpUBiw( Crankdat B2B Kompany )",
+                "https://www.youtube.com/watch?v=KisN4nU1Cq4( HOL! )"
+            ],
+            "thumbnail": "https://media.coachella.com/content/seo_images/640/HZ5m5X9DNiPD2cbH6SlCi4bicBJ7ta66CmROO8EE.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
