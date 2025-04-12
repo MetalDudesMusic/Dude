@@ -1,10 +1,17 @@
 {
-    "items": [                    
+    "items": [                     
         {
             "type": "item",  
-			"summary": " Friday live stream replay.",
-            "title": "Saturday Cochella 2025", 
-            "link": "https://www.youtube.com/watch?v=SreThbvUUI8", 
+			"summary": " Friday live stream replay. All Stages included",
+            "title": "Friday's Stages Cochella 2025",
+            "link": [
+                "https://www.youtube.com/watch?v=Y2FzDMuJ5pI&pp=0gcJCX4JAYcqIYzv( Main Stage )",
+                "https://www.youtube.com/watch?v=TdHrgLciYWw( Sonora Stage )",
+                "https://www.youtube.com/watch?v=Kg-KswkXoBg( Gobi Stage )",
+                "https://www.youtube.com/watch?v=BajnpDN6vG8( Mojave Stage )",
+                "https://www.youtube.com/watch?v=afO7r8TQTSw( Sahara Stage )",
+                "https://www.youtube.com/watch?v=WxwawRL_nY8( Outdoor Theatre Stage )"
+            ],
             "thumbnail": "https://media.coachella.com/content/seo_images/640/HZ5m5X9DNiPD2cbH6SlCi4bicBJ7ta66CmROO8EE.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },          
