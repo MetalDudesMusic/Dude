@@ -3,14 +3,14 @@
         {
             "type": "dir", 
             "title": "Coachella", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/wobbleland2024.json", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/coachella.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },           
         {
             "type": "dir", 
             "title": "Wobbleland 2024 sets", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/coachella.json", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/wobbleland2024.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },              
