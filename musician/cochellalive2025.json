@@ -5,12 +5,12 @@
 			"summary": " Friday live stream replay. All Stages included.",
             "title": "Friday's Stages Coachella 2025",
             "link": [
-                "https://www.youtube.com/watch?v=Y2FzDMuJ5pI( Main Stage )",
-                "https://www.youtube.com/watch?v=TdHrgLciYWw( Sonora Stage )",
-                "https://www.youtube.com/watch?v=Kg-KswkXoBg( Gobi Stage )",
-                "https://www.youtube.com/watch?v=BajnpDN6vG8( Mojave Stage )",
-                "https://www.youtube.com/watch?v=afO7r8TQTSw( Sahara Stage )",
-                "https://www.youtube.com/watch?v=WxwawRL_nY8( Outdoor Theatre Stage )"
+                "https://www.youtube.com/watch?v=LnAUFR5jyis( Main Stage )",
+                "https://www.youtube.com/watch?v=8Bkjm-wbMdg( Quasar Stage )",
+                "https://www.youtube.com/watch?v=ROT0X0BNy6s( Gobi Stage )",
+                "https://www.youtube.com/watch?v=VKm3QlEdvoo( Mojave Stage )",
+                "https://www.youtube.com/watch?v=67f9t5bPyQY( Sahara Stage )",
+                "https://www.youtube.com/watch?v=zzuTOidZOSE( Outdoor Theatre Stage )"
             ],
             "thumbnail": "https://media.coachella.com/content/seo_images/640/HZ5m5X9DNiPD2cbH6SlCi4bicBJ7ta66CmROO8EE.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
@@ -19,7 +19,7 @@
             "type": "item",  
 			"summary": " Saturday live stream. Starts 1pm Indio California 92201 timezone. Once finished the Replay should kick in",
             "title": "Saturday Coachella 2025", 
-            "link": "https://www.youtube.com/watch?v=SreThbvUUI8", 
+            "link": "https://www.youtube.com/watch?v=BHTC79fZ_8w( Quasar Stage )", 
             "thumbnail": "https://media.coachella.com/content/seo_images/640/HZ5m5X9DNiPD2cbH6SlCi4bicBJ7ta66CmROO8EE.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                            
@@ -27,7 +27,7 @@
             "type": "item", 
 			"summary": " Sunday live stream. Starts 1pm Indio California 92201 timezone. Once finished the Replay should kick in", 
             "title": "Sunday Coachella 2025", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/The%20Hermits.json", 
+            "link": "https://www.youtube.com/watch?v=6Va13RpZLCM( Quasar Stage )", 
             "thumbnail": "https://media.coachella.com/content/seo_images/640/HZ5m5X9DNiPD2cbH6SlCi4bicBJ7ta66CmROO8EE.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
