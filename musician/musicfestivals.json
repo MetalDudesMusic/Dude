@@ -6,7 +6,14 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/coachella.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },           
+        },                                                                    
+        {
+            "type": "plugin", 
+            "title": "SXSW 2025 full sets", 
+            "link": "plugin.video.youtube/playlist/PL1NB9y8y4p35Ivzlg60yqhHySGHa_hQp8", 
+            "thumbnail": "https://i.ytimg.com/vi/a8jrsLna9_o/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
         {
             "type": "dir", 
             "title": "Wobbleland 2024 sets", 
