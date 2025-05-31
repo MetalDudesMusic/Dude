@@ -20,7 +20,14 @@
             "link": "plugin.video.youtube/playlist/PLSvzKunT775VJ9ynUS5u35MeDZZL3ek0r", 
             "thumbnail": "https://i.ytimg.com/vi/X9fnA6LSHe8/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },       
+        },                                                                        
+        {
+            "type": "plugin", 
+            "title": "Stagecoach 2025 full sets", 
+            "link": "plugin.video.youtube/playlist/PLP6uRFh2G9wrypOXc_qIaI-n0yfXOv4x8", 
+            "thumbnail": "https://i.ytimg.com/vi/A_LdRSpNC7Q/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
         {
             "type": "dir", 
             "title": "Wobbleland 2024 sets", 
