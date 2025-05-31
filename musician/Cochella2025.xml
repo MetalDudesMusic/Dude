@@ -1,0 +1,25 @@
+{
+    "items": [                                                                   
+        {
+            "type": "plugin", 
+            "title": "Coachella 2025 full sets", 
+            "link": "plugin.video.youtube/playlist/PL6HMzNkf6JAKxI2620fKscx3x0jHeGSmu", 
+            "thumbnail": "https://i.ytimg.com/vi/c-ZznapYW7I/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "Yuma + Quasar at Coachella 2025", 
+            "link": "plugin.video.youtube/playlist/PLIjqRbAQP0WIhLVDJYp3UB00h84lKMlJc", 
+            "thumbnail": "https://i.ytimg.com/vi/9FcaUhySrbA/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "COACHELLA 2025", 
+            "link": "plugin.video.youtube/playlist/PLnuNylwtNX0UNiKdXeQO62NMI069KKH-Q", 
+            "thumbnail": "https://i.ytimg.com/vi/tTbUA6L_4H8/hqdefault.jpg", 
+            "fanart": ""
+        }
+    ]
+}
