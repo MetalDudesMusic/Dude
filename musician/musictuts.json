@@ -3,6 +3,69 @@
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "link", 
+            "thumbnail": "https://i.ytimg.com/vi/zLYYyqSy35U/hqdefault.jpg", 
+            "title": "[I][COLORcyan]DJ[/COLOR][/I]", 
+            "type": "item"
+        },
+        {
+            "type": "plugin", 
+            "title": "Beginner DJ Lessons.com", 
+            "link": "plugin.video.youtube/playlist/PLAG2ikVuUzpEFgNm2TyhTHMHgzjPux_cr", 
+            "thumbnail": "https://i.ytimg.com/vi/NxR6SdHP2jI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Learn To DJ - Tutorials, Transitions & Tips", 
+            "link": "plugin.video.youtube/playlist/PLm8kQbauoU-AxaaU_VBS3Xh3QTDPoun41", 
+            "thumbnail": "https://i.ytimg.com/vi/bizpiPxOcKc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "DJ LiftOFF's Scratch Guide (Fundamentals)", 
+            "link": "plugin.video.youtube/playlist/PLzplrgWTZtsZNm_9sukJPGch2qitc9_Cx", 
+            "thumbnail": "https://i.ytimg.com/vi/BQDWzjWwDqo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "TURNTABLE TUTORIALS", 
+            "link": "plugin.video.youtube/playlist/PLEFE36CF3A920C471", 
+            "thumbnail": "https://i.ytimg.com/vi/rM8q1bWcEbg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Serato DJ Pro Tutorials", 
+            "link": "plugin.video.youtube/playlist/PL0OwIw0MGXQPWbLXwK3fXzwaqYcVl9GEr", 
+            "thumbnail": "https://i.ytimg.com/vi/sRplQCe7duU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "TRANSITIONS", 
+            "link": "plugin.video.youtube/playlist/PLAG2ikVuUzpEbhERuvh8rsjIlgKEd05fA", 
+            "thumbnail": "https://i.ytimg.com/vi/E2wPnCx5oJQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "DJ Course", 
+            "link": "plugin.video.youtube/playlist/PLB0h0O6UIZWwl-iXS8fwdCpfCLmDZrO6I", 
+            "thumbnail": "https://i.ytimg.com/vi/FQXzIKP_bfY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Free Online DJ Course", 
+            "link": "plugin.video.youtube/playlist/PLOrvD1wx1XUt4M_FlFrCzVin0NFQvQDv0", 
+            "thumbnail": "https://i.ytimg.com/vi/t31aiwVbub0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "link", 
             "thumbnail": "https://i.ytimg.com/vi/1bBxWOwfID0/maxresdefault.jpg", 
             "title": "[I][COLORcyan]Guitar[/COLOR][/I]", 
             "type": "item"
