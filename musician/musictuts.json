@@ -79,6 +79,13 @@
         },
         {
             "type": "plugin", 
+            "title": "Drums & Drumming (Lat Eralus playlist)", 
+            "link": "plugin.video.youtube/playlist/PLmOhnL3l1ByiQLwtHe9f56AnI6qgHVvzK", 
+            "thumbnail": "https://i.ytimg.com/vi/fypFwdofZG4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
             "title": "Learning Drums", 
             "link": "plugin.video.youtube/playlist/PLImrzCNnL5PmxlVJPwoTwY3mjo4jaIJxA", 
             "thumbnail": "https://i.ytimg.com/vi/HdiiXOkomKo/hqdefault.jpg", 
