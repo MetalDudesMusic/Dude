@@ -20,6 +20,13 @@
             "thumbnail": "https://i.ytimg.com/vi/dTyT-nNPL8g/hqdefault.jpg", 
             "title": "Music Festivals", 
             "type": "plugin"
-        }
+        },
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PLmOhnL3l1ByiQLwtHe9f56AnI6qgHVvzK", 
+            "thumbnail": "https://i.ytimg.com/vi/fypFwdofZG4/hqdefault.jpg", 
+            "title": "Drums & Drumming (Lat Eralus playlist)",
+            "type": "plugin"
+        },
     ]
 }
