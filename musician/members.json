@@ -4,7 +4,7 @@
             "type": "dir", 
             "title": "Metal Mayhem", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/Metalssubmenu.json", 
-            "thumbnail": "https://www.tvguide.com/a/img/catalog/provider/1/1/1-4283159882.jpg", 
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f0170f46d065146e4e515a21", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                           
         {
@@ -13,7 +13,14 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/The%20Hermits.json", 
             "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/lats%20the%20hermit%20logo.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },              
+        },                
+        {
+            "type": "plugin", 
+            "title": "Mick", 
+            "link": "plugin.video.youtube/playlist/PL5eu7GD8ADqdBAw2HkwLCfTEslFG33x5f", 
+            "thumbnail": "https://www.akronzoo.org/sites/default/files/styles/square_large/public/assets/animals/Tiger-main.png", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
         {
             "type": "plugin", 
             "title": "Strange Lass", 
