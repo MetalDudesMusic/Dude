@@ -15,7 +15,7 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                
         {
-            "type": "plugin", 
+            "type": "dir", 
             "title": "Mick", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Mick.json", 
             "thumbnail": "https://www.akronzoo.org/sites/default/files/styles/square_large/public/assets/animals/Tiger-main.png", 
