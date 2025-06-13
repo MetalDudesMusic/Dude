@@ -1,5 +1,12 @@
 {
-    "items": [                                                        
+    "items": [                           
+        {
+            "type": "plugin", 
+            "title": "Today's Top Hits - Top Hits 2025", 
+            "link": "plugin.video.youtube/playlist/PLO7-VO1D0_6MlO4UxJWFBUq3U-7zoIBf7", 
+            "thumbnail": "https://i.ytimg.com/vi/kPa7bsKwL-c/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                        
         {
             "type": "item", 
             "title": "Timeless Oldskul Reggae Hits", 
