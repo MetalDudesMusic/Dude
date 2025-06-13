@@ -1,5 +1,47 @@
 {
-    "items": [           
+    "items": [                                                                             
+        {
+            "type": "plugin", 
+            "title": "2025 Livesets", 
+            "link": "plugin.video.youtube/playlist/PLT9HhxXeoQeRq6nxkscJ8SqACqOwS40x8", 
+            "thumbnail": "https://i.ytimg.com/vi/9ZqJPIbTme4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                
+        {
+            "type": "plugin", 
+            "title": "Lost Lands 2024 Livestream sets", 
+            "link": "plugin.video.youtube/playlist/PLK2KdupVnODOV4XATxhYazXt1ZKsSKyXG", 
+            "thumbnail": "https://i.ytimg.com/vi/dL0qd0btWUQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                          
+        {
+            "type": "plugin", 
+            "title": "Ozora 2024", 
+            "link": "plugin.video.youtube/playlist/PLMslhDuiUdo87CqZJE2K-_SE5Np8DgxjO", 
+            "thumbnail": "https://i.ytimg.com/vi/VzwISddrpdc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                                
+        {
+            "type": "plugin", 
+            "title": "Greatest EDM Festival Full Sets of all time!", 
+            "link": "plugin.video.youtube/playlist/PLHG7Vt-mwaP-fFx6EAobbo37opHiMpse_", 
+            "thumbnail": "https://i.ytimg.com/vi/Fu6aNpGxaVk/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                     
+        {
+            "type": "plugin", 
+            "title": "EDC Las Vegas 2024", 
+            "link": "plugin.video.youtube/playlist/PLtZ1Nsu2D5r1pzumunDE64DBB6eSXmflw", 
+            "thumbnail": "https://i.ytimg.com/vi/6CSOmZ1bfDE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                    
+        {
+            "type": "plugin", 
+            "title": "AfrikaBurn Sets", 
+            "link": "plugin.video.youtube/playlist/PLvQjPuttb83buYga4lzLWMwnwqlE3LvKy", 
+            "thumbnail": "https://i.ytimg.com/vi/X59EsZYhXag/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
         {
             "type": "dir", 
             "title": "Coachella", 
