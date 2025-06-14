@@ -1,5 +1,12 @@
 {
-    "items": [         
+    "items": [            
+        {
+            "type": "dir", 
+            "title": "MTV 1981-1991", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/mtvold1clicks.json", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true", 
+            "fanart": ""
+        },     
         {
             "type": "dir", 
             "title": "Billboard Top 100 for every year from 1960 until Now", 
