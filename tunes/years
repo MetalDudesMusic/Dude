@@ -1,9 +1,16 @@
 {
-    "items": [            
+    "items": [             
         {
             "type": "dir", 
             "title": "MTV 1981-1991 One Clicks", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/mtvold1clicks.json", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true", 
+            "fanart": ""
+        },             
+        {
+            "type": "dir", 
+            "title": "MTV 1984-2016 Music Awards", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/mtvawards.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true", 
             "fanart": ""
         },     
