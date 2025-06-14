@@ -1,1 +1,193 @@
-
+{
+    "items": [
+        {
+            "type": "item", 
+            "title": "1984 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=OeqimaALmGA", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1985 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=QHABO77KBWM", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1988 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=TVRD1t2HGrQ", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1989 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=5-eA45aTo9k", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1990 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=YkGoFwOYIhQ", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1991 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=K2apEiVIe0A", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1992 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=EQ7_kUNnM4c", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1993 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=Z0dxfC_mpr8", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1994 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=24sLLMQfup0", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1995 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=bV60gaTgw6g", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1996 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=lUIy7QSMkXw", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1997 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=xha1FNsLBno", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1998 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=Oxqc16r45JA", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "1999 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=ZXSxUh-fj68", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2000 MTV Music Video Awards", 
+            "link": "https://beta.the-eye.eu/public/Random/mtv/1983.05.27%20-%20MTV%20Guest%20VJ%20Hour%20with%20Dan%20Aykroyd%20-%20May%2027th%2C%201983.mp4", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2001 MTV Music Video Awards", 
+            "link": [
+                "https://www.youtube.com/watch?v=0CcekbuAnv0( Part 1 )",
+                "https://www.youtube.com/watch?v=rdW9bguDN1o( Part 2 )",
+                "https://www.youtube.com/watch?v=RIhnYE22KCw( Part 3 )"
+            ], 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2002 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=CnuhJsJXk7w", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2003 MTV Music Video Awards", 
+            "link": [
+                "https://www.youtube.com/watch?v=CKzT8ip_Lf8( Part 1 )",
+                "https://www.youtube.com/watch?v=DYb-FBjARs0( Part 2 )"
+            ],  
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2004 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=v8i5ri8IAd0", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2005 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=8mY4ne-NxKU", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2006 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=rgGQG9Edzjc", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2007 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=spR5WkOiHac", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2008 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=ZMB5XIHwqiY", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2011 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=IzyZTyAX8jU", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2012 MTV Music Video Awards", 
+            "link": "https://www.youtube.com/watch?v=73Io2Lf66qs", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "2016 MTV Music Video Awards", 
+            "link": "https://beta.the-eye.eu/public/Random/mtv/1984.04.27%20-%20MTV%202%20Hours%20with%20VJ%20JJ%20Jackson%20-%20April%2027th%2C%201984.mp4", 
+            "thumbnail": "", 
+            "fanart": ""
+        }
+    ]
+}
