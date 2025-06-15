@@ -1,5 +1,12 @@
 {
-    "items": [                                             
+    "items": [                                              
+        {
+            "type": "plugin", 
+            "title": "Elderbrook", 
+            "link": "plugin.video.youtube/playlist/PLFsaANvBXW-CW7XiYD10Hn76v3mufu5a1", 
+            "thumbnail": "https://i.ytimg.com/vi/g_UbFZuSYx4/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
         {
             "type": "plugin", 
             "title": "Ellise", 
