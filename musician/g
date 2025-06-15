@@ -1,5 +1,19 @@
 {
-    "items": [                                  
+    "items": [                                     
+        {
+            "type": "plugin", 
+            "title": "G-Eazy", 
+            "link": "plugin.video.youtube/playlist/PLG7Yztj_0RVNm-QmsKLzC8ZC_rhAhUiWt", 
+            "thumbnail": "https://i.ytimg.com/vi/FAfyKUBkODI/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                  
+        {
+            "type": "plugin", 
+            "title": "George Ezra", 
+            "link": "plugin.video.youtube/playlist/PLRWpn939JXLP8Z6kaF9siUDua5H7_C0pm", 
+            "thumbnail": "https://i.ytimg.com/vi/VQeW62X8rEA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                 
         {
             "type": "plugin", 
             "title": "Grand Funk Railroad", 
