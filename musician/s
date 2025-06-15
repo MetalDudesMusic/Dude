@@ -1,10 +1,38 @@
 {
-    "items": [                                                                           
+    "items": [                                                                               
         {
             "type": "plugin", 
-            "title": "Snoop", 
-            "link": "plugin.video.youtube/playlist/PLhXBDRYQpUs0o9MuSQl8Ndx1GPl55NvVU", 
-            "thumbnail": "https://i.ytimg.com/vi/GtUVQei3nX4/hqdefault.jpg", 
+            "title": "Samantha Leah", 
+            "link": "plugin.video.youtube/playlist/PLpwVqpBfBsh4dxrqDCM8cndM_XAOlEet1", 
+            "thumbnail": "https://i.ytimg.com/vi/ly73Q6tS99A/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                              
+        {
+            "type": "plugin", 
+            "title": "Solid Base", 
+            "link": "plugin.video.youtube/playlist/PL2BER4j7U-XXYYVf3u8OMs4Sm13VOKDxz", 
+            "thumbnail": "https://i.ytimg.com/vi/ts5E7ws3mqg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                           
+        {
+            "type": "plugin", 
+            "title": "Sons of legion", 
+            "link": "plugin.video.youtube/playlist/PLVD60CwJLhI8vWSRV43R1Lb6fIuBUJy4g", 
+            "thumbnail": "https://i.ytimg.com/vi/X-tB6LqaCeE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                           
+        {
+            "type": "plugin", 
+            "title": "Shaheen", 
+            "link": "plugin.video.youtube/playlist/PLHMGLqQLlsDrM1NDT0vMvYzdDWXum9hkW", 
+            "thumbnail": "https://i.ytimg.com/vi/dUgrD3DsHBM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                          
+        {
+            "type": "plugin", 
+            "title": "Sam Sparro", 
+            "link": "plugin.video.youtube/playlist/PLSu55Jtex9b7vPcZ64rLW3-SlD_gvEmKQ", 
+            "thumbnail": "https://i.ytimg.com/vi/-aoHwkDoHls/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                                                     
         {
