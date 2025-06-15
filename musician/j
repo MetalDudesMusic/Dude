@@ -1,5 +1,33 @@
 {
-    "items": [                                        
+    "items": [                                           
+        {
+            "type": "plugin", 
+            "title": "Jessica Mauboy", 
+            "link": "plugin.video.youtube/playlist/PLcxUDBF3WcNMY2Hghvr_3JxROspapGS9C", 
+            "thumbnail": "https://i.ytimg.com/vi/JaQFFilKUiA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
+        {
+            "type": "plugin", 
+            "title": "Jac Ross", 
+            "link": "plugin.video.youtube/playlist/PLi6usA2y_d4uajL8gaYfHwY93oQnef157", 
+            "thumbnail": "https://i.ytimg.com/vi/dqND8WCUqaM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                         
+        {
+            "type": "plugin", 
+            "title": "Johnathan Roy", 
+            "link": "plugin.video.youtube/playlist/PLWlTX25IDqIyRXTCkpvqcRFglQyImf9wc", 
+            "thumbnail": "https://i.ytimg.com/vi/5pl2N1Uy9To/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                         
+        {
+            "type": "plugin", 
+            "title": "JP Cooper", 
+            "link": "plugin.video.youtube/playlist/PLvkXSWxYRwS3CVoAB3YwaX98pJQndLNDV", 
+            "thumbnail": "https://i.ytimg.com/vi/9ORWF5RkdO0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                       
         {
             "type": "plugin", 
             "title": "Jungle", 
