@@ -1,5 +1,26 @@
 {
-    "items": [                                                    
+    "items": [                                                       
+        {
+            "type": "plugin", 
+            "title": "PLe8UcI3wf7UBxBAQjM9EE3jnxpdJvVGef", 
+            "link": "plugin.video.youtube/playlist/PLe8UcI3wf7UBxBAQjM9EE3jnxpdJvVGef", 
+            "thumbnail": "https://i.ytimg.com/vi/3bC8OWj6wjM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                   
+        {
+            "type": "plugin", 
+            "title": "Ryan Kinder", 
+            "link": "plugin.video.youtube/playlist/PLbYTSNwindnbSyfRrl6ZVxDTiiOB2AevQ", 
+            "thumbnail": "https://i.ytimg.com/vi/JB6fMMaWNcE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                    
+        {
+            "type": "plugin", 
+            "title": "Rufus and Chaka Khan", 
+            "link": "plugin.video.youtube/playlist/PLG9jLl6Ldd_hcaI4NkaayKvnyZtxqKVUi", 
+            "thumbnail": "https://i.ytimg.com/vi/-ykVAtOr4mY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                    
         {
             "type": "plugin", 
             "title": "Referrin", 
