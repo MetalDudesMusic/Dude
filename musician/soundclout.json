@@ -10,7 +10,7 @@
         {
             "type": "dir", 
             "title": "Test 103", 
-            "link": "plugin://plugin.audio.soundcloud/play/?1861719813=1", 
+            "link": "plugin://plugin.audio.soundcloud/play/?1861719813", 
             "thumbnail": "https://www.pngall.com/wp-content/uploads/13/Soundcloud-Logo-PNG-Photo.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
