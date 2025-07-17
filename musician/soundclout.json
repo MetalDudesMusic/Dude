@@ -9,22 +9,22 @@
         },             
         {
             "type": "dir", 
-            "title": "Test 103", 
+            "title": "Test 104", 
             "link": "plugin://plugin.audio.soundcloud/play/?1861719813", 
             "thumbnail": "https://www.pngall.com/wp-content/uploads/13/Soundcloud-Logo-PNG-Photo.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
         {
             "type": "plugin", 
-            "title": "Test 2b list", 
-            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/andreas-janzen-768996240/sets/club-music-2024-top-100", 
+            "title": "105", 
+            "link": "plugin://plugin.audio.soundcloud/users/bilbo-2101/tracks", 
             "thumbnail": "https://www.pngall.com/wp-content/uploads/13/Soundcloud-Logo-PNG-Photo.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
         {
             "type": "plugin", 
-            "title": "Test 2c list with playlist", 
-            "link": "plugin://plugin.audio.soundcloud/play/?playlist_id=https://soundcloud.com/xavier-ruka-xman/sets/aussie-pub-rock-classics?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", 
+            "title": "106", 
+            "link": "plugin://plugin.audio.soundcloud/bilbo-2101/tracks", 
             "thumbnail": "https://www.pngall.com/wp-content/uploads/13/Soundcloud-Logo-PNG-Photo.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
