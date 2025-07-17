@@ -2,15 +2,15 @@
     "items": [             
         {
             "type": "item", 
-            "title": "Test 10", 
-            "link": "https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean?in=andreas-janzen-768996240/sets/club-music-2024-top-100", 
+            "title": "Test 101", 
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean", 
             "thumbnail": "https://www.pngall.com/wp-content/uploads/13/Soundcloud-Logo-PNG-Photo.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
         {
-            "type": "item", 
-            "title": "Test 10 short", 
-            "link": "https://on.soundcloud.com/DCrhc1aE2ahFnOqm5B", 
+            "type": "dir", 
+            "title": "Test 102", 
+            "link": "plugin://plugin.audio.soundcloud/play/?1861719813_id=1", 
             "thumbnail": "https://www.pngall.com/wp-content/uploads/13/Soundcloud-Logo-PNG-Photo.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
