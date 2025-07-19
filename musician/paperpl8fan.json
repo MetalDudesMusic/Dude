@@ -1,0 +1,53 @@
+{
+    "items": [
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PL8991TFScUFGVltxTrNoD33Twu38ViSoj", 
+            "thumbnail": "https://i.ytimg.com/vi/3xpv_MIfucg/hqdefault.jpg", 
+            "title": "METALnROCK",
+            "type": "plugin"
+        },
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PL8991TFScUFG43AZ8KWD3_k-1D0o2-7NW", 
+            "thumbnail": "https://i.ytimg.com/vi/RdwXRoQlSCk/hqdefault.jpg", 
+            "title": "hick hop", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PL8991TFScUFFCCGMffW99i8i-1YLSi5pC", 
+            "thumbnail": "https://i.ytimg.com/vi/9jK-NcRmVcw/hqdefault.jpg", 
+            "title": "hair band", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PL8991TFScUFGO6XtbtWLeOiLMq5v0qwBC", 
+            "thumbnail": "https://i.ytimg.com/vi/wl2NCXzg1FQ/hqdefault.jpg", 
+            "title": "Music In My Head Lyrics In My Heart",
+            "type": "plugin"
+        },
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PL8991TFScUFEx78QRKkYjcEeKAmaqntcV", 
+            "thumbnail": "https://i.ytimg.com/vi/jrbznvJ8Vvg/hqdefault.jpg", 
+            "title": "Pl8s Other side",
+            "type": "plugin"
+        },
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PL8991TFScUFF5Ts36LC7bSaaEED5Ryb2Q", 
+            "thumbnail": "https://i.ytimg.com/vi/QQQ6bY5DvjA/hqdefault.jpg", 
+            "title": "Music", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/PTFM%20BG%201080p.png", 
+            "link": "plugin.video.youtube/playlist/PL8991TFScUFFlo-hza1dO5vEBt0TkGQF1", 
+            "thumbnail": "https://i.ytimg.com/vi/Bcyk5Y_E_RQ/hqdefault.jpg", 
+            "title": "Pl8splace", 
+            "type": "plugin"
+        }
+    ]
+}
