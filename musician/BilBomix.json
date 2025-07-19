@@ -1,0 +1,44 @@
+{
+    "items": [             
+        {
+            "type": "item", 
+            "title": "Never Forget",  
+            "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/bilbo-2101/never-forget-bilbo", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Test 104",   
+            "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "105",   
+            "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "106",   
+            "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Test 2d list track",   
+            "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
