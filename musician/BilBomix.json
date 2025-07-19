@@ -5,39 +5,47 @@
             "title": "Never Forget",  
             "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
             "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/bilbo-2101/never-forget-bilbo", 
-            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-0dINhkshWPlsOsG4-7B5m8Q-t1080x1080.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
         {
             "type": "item", 
-            "title": "Test 104",   
-            "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
-            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean", 
-            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "title": "Causing A Riot",   
+            "summary": "Follow [BilBo] and others on SoundCloud.",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/bilbo-2101/causing-a-riot-bilbo", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-TKd37HmvyLNrzcTy-v0RiPg-t240x240.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
         {
             "type": "item", 
-            "title": "105",   
-            "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
-            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean", 
-            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "title": "BBE 7 Days & 1 Week",   
+            "summary": "Follow [BilBo] and others on SoundCloud.",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/bilbo-2101/bbe-7-days-1-week-bilbo", 
+            "thumbnail": "https://i1.sndcdn.com/avatars-XOBwefrCuFqHILeH-TmI6GQ-t500x500.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
         {
             "type": "item", 
-            "title": "106",   
-            "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
-            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean", 
-            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "title": "Man I Am Wrecked",   
+            "summary": "Follow [BilBo] and others on SoundCloud.",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/bilbo-2101/man-i-am-wrecked-bilbo", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-cMQYF1DSKqexpoPz-BKPAvQ-t1080x1080.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
         {
             "type": "item", 
-            "title": "Test 2d list track",   
-            "summary": "This track was created and inspired in rememberance of a good friend of mine losing a loved one. It brought tears to his eyes but a massive smile full of memories. Never Forget",
-            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/weareofenbach/overdrive-feat-norma-jean", 
-            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "title": "Bassline Junkie (BilBo's Bounce Remix)",   
+            "summary": "Follow [BilBo] and others on SoundCloud.",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/bilbo-2101/bassline-junkie-bilbos-bounce-remix", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-UsBFGymFnfQyz4zu-EW4NiA-t500x500.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Eminem - Superman (Rennz Remix)",   
+            "summary": "Follow Rennz and others on SoundCloud.",
+            "link": "plugin://plugin.audio.soundcloud/play/?url=https://soundcloud.com/rennz/eminem-superman-rennz-remix-1", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-MV53BjjryPBZoyzK-tc761A-t500x500.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
