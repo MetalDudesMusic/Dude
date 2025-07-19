@@ -1,5 +1,47 @@
 {
-    "items": [                                             
+    "items": [                                              
+        {
+            "type": "plugin", 
+            "title": "BBC Music Documentaries", 
+            "link": "plugin.video.youtube/playlist/PLov_g7dhzk6w2dgU1cA-8EgtdELG_nwtf", 
+            "thumbnail": "https://i.ytimg.com/vi/cVHGLdZQgEw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
+        {
+            "type": "plugin", 
+            "title": "BBC music documentaries 2", 
+            "link": "plugin.video.youtube/playlist/PLPpVLWkMaeo7P834QqmqXQEum8XBqsCAP", 
+            "thumbnail": "https://i.ytimg.com/vi/mjeq-xn-KoA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
+        {
+            "type": "plugin", 
+            "title": "The Devil's Music", 
+            "link": "plugin.video.youtube/playlist/PLsY6VJc9zDqnsPa2kjyc-jYJHB-Ltg20t", 
+            "thumbnail": "https://i.ytimg.com/vi/mjeq-xn-KoA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
+        {
+            "type": "plugin", 
+            "title": "Classical Music Documentaries", 
+            "link": "plugin.video.youtube/playlist/PLPs509ULTbT1gN7UxgkLrzDJ_v-IO0r-A", 
+            "thumbnail": "https://i.ytimg.com/vi/mjeq-xn-KoA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                            
+        {
+            "type": "plugin", 
+            "title": "Rock Music Documentaries", 
+            "link": "plugin.video.youtube/playlist/PLB_vpT5FSYGzJkaG399uNPF6IZKxSOnvO", 
+            "thumbnail": "https://i.ytimg.com/vi/mjeq-xn-KoA/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                          
+        {
+            "type": "plugin", 
+            "title": "Best music documentaries", 
+            "link": "plugin.video.youtube/playlist/PLX-8qXjrPnm4fhPuobyybbdLM8YcNj6dH", 
+            "thumbnail": "https://i.ytimg.com/vi/M2gzbrJlpMM/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                           
         {
             "type": "plugin", 
             "title": "VH1 Behind the Music", 
