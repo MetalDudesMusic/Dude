@@ -6,6 +6,13 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/BilBomix.json", 
             "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                   
+        {
+            "type": "dir", 
+            "title": "ChaoticTr8s (Paperpl8fan)", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/ChaoticTr8s.json", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-S32OwDg3fynYuXAy-LbjUDw-t240x240.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
