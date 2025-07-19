@@ -1,0 +1,95 @@
+{
+    "items": [             
+        {
+            "type": "item", 
+            "title": "COLT",  
+            "link": "https://www.youtube.com/watch?v=VCtjbw-HHRU", 
+            "thumbnail": "https://i.ytimg.com/vi/VCtjbw-HHRU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "ECHOS", 
+            "link": "https://www.youtube.com/watch?v=UuOuQRQKYv8", 
+            "thumbnail": "https://i.ytimg.com/vi/n-oVEQuqnkA/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Truth in the Bottle (Fathers Day)", 
+            "link": "https://www.youtube.com/watch?v=d1GbbJIhlTs", 
+            "thumbnail": "https://i.ytimg.com/vi/d1GbbJIhlTs/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "TATTOO'S", 
+            "link": "https://www.youtube.com/watch?v=nsVnxdbGKE0", 
+            "thumbnail": "https://i.ytimg.com/vi/nsVnxdbGKE0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Roots", 
+            "link": "https://www.youtube.com/watch?v=V-QZ_9N6cIo", 
+            "thumbnail": "https://i.ytimg.com/vi/V-QZ_9N6cIo/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Redempshun",  
+            "link": "https://www.youtube.com/watch?v=7Fki1YFqITU", 
+            "thumbnail": "https://i.ytimg.com/vi/7Fki1YFqITU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Origin8",  
+            "link": "https://www.youtube.com/watch?v=Vyo-cyiLHHQ", 
+            "thumbnail": "https://i.ytimg.com/vi/Vyo-cyiLHHQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Another Year Flies By AI Song", 
+            "link": "https://www.youtube.com/watch?v=u7DfKTsuMfk", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-TKd37HmvyLNrzcTy-v0RiPg-t240x240.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "PHOENIX ON THE PL8 AI Song", 
+            "link": "https://www.youtube.com/watch?v=RpmOASdmKVU", 
+            "thumbnail": "https://i.ytimg.com/vi/RpmOASdmKVU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "LAUGHING FROM MY THRONE......AI Song", 
+            "link": "https://www.youtube.com/watch?v=BetKGNDV_Ak", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-cMQYF1DSKqexpoPz-BKPAvQ-t1080x1080.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "TURKEY TURMOIL AI Song", 
+            "link": "https://www.youtube.com/watch?v=9warwEfPdrU", 
+            "thumbnail": "https://i.ytimg.com/vi/9warwEfPdrU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "EASTER 420 AI Song",  
+            "link": "https://www.youtube.com/watch?v=_OMaC8Zv3Co", 
+            "thumbnail": "https://i.ytimg.com/vi/_OMaC8Zv3Co/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "IN MY HEAD AI Song",  
+            "link": "https://www.youtube.com/watch?v=MLsOCcXt9-M", 
+            "thumbnail": "https://i.ytimg.com/vi/MLsOCcXt9-M/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }
+    ]
+}
