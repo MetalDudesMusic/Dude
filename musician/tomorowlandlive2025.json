@@ -2,21 +2,28 @@
     "items": [
         {
             "fanart": "", 
-            "link": "https://www.youtube.com/watch?v=NaDS3gQk2Rc", 
+            "link": "", 
+            "thumbnail": "https://www.jambase.com/wp-content/uploads/2025/01/tomorrowland-2025-featured-1480x832.jpg", 
+            "title": "Weekend 2", 
+            "type": "item"
+        },
+        {
+            "fanart": "", 
+            "link": "https://www.youtube.com/watch?v=Hj-BxGEMEhQ", 
             "thumbnail": "https://www.jambase.com/wp-content/uploads/2025/01/tomorrowland-2025-featured-1480x832.jpg", 
             "title": "MainStage | Tomorrowland Belgium 2025 LIVE", 
             "type": "item"
         },
         {
             "fanart": "", 
-            "link": "https://www.youtube.com/watch?v=oBMmgkJxSgM", 
+            "link": "https://www.youtube.com/watch?v=V0V5F8c6LV4", 
             "thumbnail": "https://www.jambase.com/wp-content/uploads/2025/01/tomorrowland-2025-featured-1480x832.jpg", 
             "title": "Freedom Stage | Tomorrowland Belgium 2025 LIVE", 
             "type": "item"
         },
         {
             "fanart": "", 
-            "link": "https://www.youtube.com/watch?v=lEHj9uFYb-0", 
+            "link": "https://www.youtube.com/watch?v=nVi_QhN_SvM", 
             "thumbnail": "https://www.jambase.com/wp-content/uploads/2025/01/tomorrowland-2025-featured-1480x832.jpg", 
             "title": "One World Radio LIVE at Tomorrowland Belgium 2025", 
             "type": "item"
