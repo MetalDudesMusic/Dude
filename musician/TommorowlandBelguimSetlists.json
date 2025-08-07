@@ -1,10 +1,10 @@
 {
-    "items": [                                      
+    "items": [                                
         {
-            "type": "dir", 
-            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium Weekend 2 Live[COLORyellow]2025[COLORfuchsia]==--[/COLOR][/B][/I]", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/tomorowlandlive2025.json", 
-            "thumbnail": "https://www.jambase.com/wp-content/uploads/2025/01/tomorrowland-2025-featured-1480x832.jpg", 
+            "type": "plugin", 
+            "title": "[I][B][COLORfuchsia]--==[COLORlime] Tomorrowland Belgium [COLORyellow]2025[COLORfuchsia]==--[/COLOR][/B][/I]", 
+            "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoN-uoi-Bn6R4JA8C4beRJsU", 
+            "thumbnail": "https://prismic-assets-cdn.tomorrowland.com/aINneVGsbswqTP8I_1752852943190_58b9ed89-46de-43fa-bb3a-0db6c5224a7b.jpg_0_4644362289455394819-1-.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },                                
         {
@@ -93,3 +93,4 @@
         }
     ]
 }
+
