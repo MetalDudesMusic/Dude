@@ -1,5 +1,12 @@
 {
-    "items": [            
+    "items": [           
+        {
+            "type": "dir", 
+            "title": "Creamfields - Livesets", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/creamfields2024.json", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
         {
             "type": "dir", 
             "title": "Tomorrowland - Livesets", 
@@ -90,14 +97,7 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/ultra.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },       
-        {
-            "type": "dir", 
-            "title": "Creamfields - Livesets", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/creamfields2024.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },     
+        },    
         {
             "type": "dir", 
             "title": "Burning Man - Livesets", 
@@ -254,3 +254,4 @@
         }
     ]
 }
+
