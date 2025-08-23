@@ -9,7 +9,7 @@
             "thumbnail": "https://images.ctfassets.net/bffxiku554r1/1XQMrQByGHpXDXr6xUbJMC/3d9049ebe15cd63c4fe6abd57073c632/Creamfields_2025.png?fm=png", 
             "title": "Creamfields 2025 Live", 
             "type": "item"
-        }         
+        },         
         {
             "type": "plugin", 
             "title": "Creamfields 2024", 
@@ -40,4 +40,5 @@
         }
     ]
 }
+
 
