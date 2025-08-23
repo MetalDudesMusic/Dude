@@ -10,17 +10,7 @@
             ],  
             "thumbnail": "https://images.ctfassets.net/bffxiku554r1/1XQMrQByGHpXDXr6xUbJMC/3d9049ebe15cd63c4fe6abd57073c632/Creamfields_2025.png?fm=png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        }, 
-        {
-            "fanart": "https://creamfields.com/wp-content/uploads/2025/08/ARC_FIRE-1600x900.jpg", 
-            "link": [
-                "https://youtu.be/xZxRlPqum3Y( STEEL YARD Day 1 )", 
-                "https://youtu.be/OXfurfcYm4M( HALO Day 1 )"
-            ], 
-            "thumbnail": "https://images.ctfassets.net/bffxiku554r1/1XQMrQByGHpXDXr6xUbJMC/3d9049ebe15cd63c4fe6abd57073c632/Creamfields_2025.png?fm=png", 
-            "title": "Creamfields 2025 Live", 
-            "type": "item"
-        },         
+        },        
         {
             "type": "plugin", 
             "title": "Creamfields 2024", 
@@ -51,6 +41,7 @@
         }
     ]
 }
+
 
 
 
