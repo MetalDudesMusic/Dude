@@ -1,5 +1,12 @@
 {
-    "items": [                                              
+    "items": [                                               
+        {
+            "type": "plugin", 
+            "title": "Erica Mason", 
+            "link": "plugin.video.youtube/playlist/PLBlxhskS-jv67fFww1nspDurfGirG-SOw", 
+            "thumbnail": "https://i.ytimg.com/vi/-_6A3WUV6l8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                             
         {
             "type": "plugin", 
             "title": "Elderbrook", 
