@@ -1,5 +1,12 @@
 {
-    "items": [                                                                             
+    "items": [                                                                              
+        {
+            "type": "plugin", 
+            "title": "Cowboy's just for fun", 
+            "link": "plugin.video.youtube/playlist/FLDO6Sov0cMqixbdkKtt9O_w", 
+            "thumbnail": "https://i.ytimg.com/vi/oKbWfEl0_LI/oar2.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                           
         {
             "type": "plugin", 
             "title": "Caro emerald", 
