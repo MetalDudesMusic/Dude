@@ -1,5 +1,12 @@
 {
-    "items": [                                                                          
+    "items": [                                                                           
+        {
+            "type": "plugin", 
+            "title": "Bobby McFerrin", 
+            "link": "plugin.video.youtube/playlist/PL33A24224AFF5EE79", 
+            "thumbnail": "https://i.ytimg.com/vi/d-diB65scQU/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                         
         {
             "type": "plugin", 
             "title": "Beck", 
