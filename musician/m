@@ -1,5 +1,12 @@
 {
-    "items": [                                                                            
+    "items": [                                                                              
+        {
+            "type": "plugin", 
+            "title": "Meraki Moon", 
+            "link": "plugin.video.youtube/playlist/PLih7Um4DzqoBN7rtq7hIobOXd-6bKTMV2", 
+            "thumbnail": "https://i.ytimg.com/vi/7m8H5j1ZBsA/hq720.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                           
         {
             "type": "plugin", 
             "title": "Mike Candys", 
