@@ -2,6 +2,13 @@
     "items": [                                                        
         {
             "type": "plugin", 
+            "title": "The Score", 
+            "link": "plugin.video.youtube/playlist/PLCSsdFADLcKymXATlVV9HYDa79Z57As-R", 
+            "thumbnail": "https://i.ytimg.com/vi/_ubnhgZgsfc/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                        
+        {
+            "type": "plugin", 
             "title": "The Heavy", 
             "link": "plugin.video.youtube/playlist/PLavvz6xgVmlYInGsPQxifVOTGW_SVlras", 
             "thumbnail": "https://i.ytimg.com/vi/o0Pt7M0weUI/hqdefault.jpg", 
