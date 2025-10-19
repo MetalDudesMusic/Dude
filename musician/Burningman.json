@@ -2,6 +2,20 @@
     "items": [
         {
             "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PLP1b1nQaKr8wlG0HyrSHkc-ZNFjsK1Wb1", 
+            "thumbnail": "https://www.garnishmusicproduction.com/wp-content/uploads/2019/11/burning-man-logo.png", 
+            "title": "Burning Man 2025", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
+            "link": "plugin.video.youtube/playlist/PL0zSE25JbqbRmZJ_Pa_FTa4JCU4gwWsmn", 
+            "thumbnail": "https://www.garnishmusicproduction.com/wp-content/uploads/2019/11/burning-man-logo.png", 
+            "title": "Burning Man 2024", 
+            "type": "plugin"
+        },
+        {
+            "fanart": "", 
             "link": "plugin.video.youtube/playlist/PLUDf274zpBAZKh9QInUg-TRFW_hH1C4Te", 
             "thumbnail": "https://www.garnishmusicproduction.com/wp-content/uploads/2019/11/burning-man-logo.png", 
             "title": "Burning Man 2023", 
@@ -57,4 +71,5 @@
             "type": "plugin"
         }
     ]
+
 }
