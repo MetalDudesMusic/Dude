@@ -1,5 +1,12 @@
 {
-    "items": [                                                                  
+    "items": [                                                                    
+        {
+            "type": "plugin", 
+            "title": "Letdown", 
+            "link": "plugin.video.youtube/playlist/PLge0PRW30l1uszgsWtLJmAaMmt6vC0afk", 
+            "thumbnail": "https://f4.bcbits.com/img/a2521031628_16.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                               
         {
             "type": "plugin", 
             "title": "Luke Bryan", 
