@@ -1,5 +1,12 @@
 {
-    "items": [                                                                   
+    "items": [                                                                    
+        {
+            "type": "plugin", 
+            "title": "Babu Asad (Natureman)", 
+            "link": "plugin.video.youtube/playlist/OLAK5uy_nCBJtO99pIwhVM7EqsQKGtyDZ_zUa2s_s", 
+            "thumbnail": "https://i9.ytimg.com/s_p/OLAK5uy_moR3OqzPGQVKH5X_4pMHSJN1sXLcERgmc/sddefault.jpg?sqp=CKyzuc0Gir7X7AMICJHYos0GEAE=&rs=AOn4CLC-z4YvrwlnntxPppZwAkYWJQWDGA&v=1772661777", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                                                                  
         {
             "type": "dir", 
             "title": "[BilBo]", 
